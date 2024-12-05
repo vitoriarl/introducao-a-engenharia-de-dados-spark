@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,customer_id,merchant_id,transaction_amount,transaction_type,currency
+402a0480-4327-45b3-af26-ecc71dd9ecf3,2024-03-23 13:51:17,bcfa5b7d-c0c2-446e-b93f-447cf7cd2836,Matthews-Blankenship,872.07,purchase,USD
+ef9242d9-aedb-41cf-885e-f9a7c451bbd0,2024-10-30 05:25:29,53d99aa2-7b4f-4139-a814-e4e971571955,"Elliott, Williams and Huff",92.4,refund,USD
+193bdb96-6371-4816-a84e-a7bc6b31bbb2,2024-08-31 22:15:20,459d6508-904a-49fb-8c2b-5d0f6a02235d,"Thompson, Zimmerman and Jones",444.35,purchase,USD
+09fcf85e-228e-4525-9adc-a24e830e248c,2024-02-09 17:45:11,686b684e-38ce-4148-882b-aa41a5d41454,Hamilton-Williams,241.3,purchase,USD
+a9bc0019-800d-429b-bf3d-82d538a602c2,2023-12-18 09:56:16,9b5da9fd-bac3-4cf0-854a-db2b35eb297a,"Salinas, Garcia and Stewart",422.32,purchase,USD
+140f0602-c20d-4981-a4bb-f34a4fbeafc8,2024-11-13 00:18:12,19e29bcf-d80a-48a2-b428-cd6ead57c5d6,Bates-Hayes,908.89,refund,USD
+657159e8-dd52-4074-b848-cd4466bad4a0,2023-12-09 08:32:45,879c8e8a-47a6-4916-a511-3c79a1902f9a,"Young, Davis and Price",862.82,refund,USD
+d23e55c4-ec50-47ac-8a3d-a36d73d36d43,2024-09-11 20:44:07,ed157f49-8035-4245-8bf4-1878896cb6ed,Sharp-Jones,311.99,refund,USD
+39add13b-9305-458a-81d2-a8753e62cf05,2024-07-19 08:12:06,6fe07f4e-01c9-44d5-9e01-2ccb89fa5e2b,Dougherty Inc,489.74,purchase,USD
+660e158e-0b5a-4265-883f-be4ee4f75631,2024-11-25 19:13:34,16b2d865-a5bd-4022-940c-5c15130746ca,Carter Group,760.66,refund,USD
+6374ae40-869e-4c04-a8c7-683881064050,2024-08-27 21:30:10,dec8bb9d-cfff-4758-aa82-e810d075a96b,Garcia-Davis,634.89,purchase,USD
+e98882dd-da2e-447d-856c-5f31a78eae32,2024-06-12 19:30:14,f0d23a77-297e-4cb6-bd1a-be1159a1d3f5,"Clark, Hall and Rose",284.47,purchase,USD
+cd6716e0-4f42-4580-afe5-4209f229a2be,2024-10-26 05:57:19,17cbb9d6-009a-47a3-bb75-63ad8e2fc1cb,Carson-Adams,812.14,refund,USD
+e42076a0-779f-4111-8f50-13bff1df5af0,2024-10-17 11:50:30,dfe39a36-eeb5-4fe8-96d1-4c0e2b7e4785,Miller-Martinez,313.66,purchase,USD
+7c117376-a0cf-4fad-861c-361f3cd11456,2024-01-30 10:56:46,380f69e4-16ae-426b-89a2-658bd5893748,Chase-Martinez,645.1,refund,USD
+473bca57-2632-47f8-aac5-8ffd20595e35,2024-11-16 13:33:24,5ea8aab4-0fd7-4870-8cd5-db33ddfecc9a,Medina Ltd,128.65,purchase,USD
+1a0e05f2-e2b1-4a11-97c3-7ed661c5ad16,2024-09-11 18:09:25,79752bb2-9ef3-43fb-93c5-a38962deeca1,"Kim, Beck and Daniels",151.38,purchase,USD
+81fc0f8e-0ea5-44f8-9b85-8f9063d4664b,2023-12-15 23:43:37,bec9fe91-f412-4f44-a3be-88a43d3d26ec,Lewis-Moore,267.89,refund,USD
+4acad048-8c47-49ad-8641-884be653dcb1,2024-03-31 18:06:06,c3515711-4537-49e6-94c9-82ab9b56faa9,Jackson Ltd,374.76,purchase,USD
+e61d5b3b-26ca-44b8-b535-f0f4e600ca8b,2024-07-06 10:09:29,05b9d103-1b5b-4f62-9a86-495a5903abb2,"Kim, Gibson and Stephens",901.73,purchase,USD
+7ee66d2e-ed01-49dc-bdaa-a9fd4c2c0269,2024-09-20 07:36:02,9946b728-c3d4-421f-93c2-7041d4c2705b,"Villanueva, Anderson and Martin",715.58,refund,USD
+69c71271-54f8-46ad-b561-458e53b9586d,2024-09-02 22:02:53,68a9cb3c-12b6-4c3f-b320-c6df24793a59,"White, Walker and Moore",7.88,refund,USD
+571acbfb-45c7-475c-83a8-08860bee9112,2024-03-07 03:03:16,214075c2-afd9-4519-babd-1754b7d1b300,"Mcclure, Park and Thomas",887.15,refund,USD
+5e32bad1-72f1-414b-abd4-305cab91a3f5,2024-07-03 14:49:14,38c8d0fd-41bd-4587-8999-4f5963cc50f7,Schmidt PLC,316.89,refund,USD
+f7203867-63b5-4f64-9014-1622553c8264,2024-07-18 06:16:31,5bdb4eba-e1c9-4894-ad0f-6379558f18e7,Ellison-Lewis,490.78,refund,USD
+9376c53f-14a3-4e3c-84e0-69b08fda6a9e,2024-01-27 18:04:36,74c8f63d-7cb8-49b9-b15d-b199978b2079,"Griffin, Henderson and Grimes",200.16,purchase,USD
+ac99d398-db2d-45df-9073-f79aa593925a,2024-03-11 13:01:35,d31b605c-0775-40a5-872d-5d95ff1d9795,Martinez-Moore,275.75,refund,USD
+9be52520-8693-4fa7-a234-12e3b3e32984,2024-03-22 03:25:23,730688d1-5207-48b5-b552-c4cd58fa87d3,Crawford and Sons,506.4,purchase,USD
+bf43e3ea-07e6-4e22-9397-8793c379569b,2024-10-23 21:00:55,f1ad8dde-d30a-459e-bdf6-db56018ea557,Jacobs Inc,347.47,refund,USD
+c75ca624-d2b7-4f03-a436-26463ca6d1f2,2024-11-04 05:14:31,db2a0c03-19b0-483a-bfe8-4391d1f541a8,Waters-Dougherty,387.82,refund,USD
+d3855805-93f4-4540-a69b-2a1ef275f1e3,2023-12-23 16:51:47,ea34a035-88a9-4e2c-ae35-e78effd3c6f4,Anderson-Myers,693.16,refund,USD
+48b116ff-001c-4f81-b142-afb02c3b2101,2024-05-28 03:12:30,29635588-fc9e-4dd8-9ef7-1d5384630c0d,Cabrera LLC,797.95,purchase,USD
+2b0cf0f2-7aa4-4e63-a92e-7a6afa8b5bd9,2024-04-18 01:12:00,c96af572-21e7-4ab7-aa53-493195986411,"Sanchez, Clark and Obrien",541.95,refund,USD
+d3daf48d-2487-4b64-815b-d46cd69a69d7,2024-09-05 23:25:27,71d756b7-27f7-4e38-9f3e-70f4bbb8ea86,"Montoya, Watson and Walton",978.17,purchase,USD
+91a4cf73-5830-41a3-b393-e35bda73e294,2024-07-01 03:12:24,9ce91080-89c7-450c-a90e-26579d3b398c,Lewis-Kennedy,488.43,purchase,USD
+8d3df1d4-a3bd-4b98-b392-7906a6f89fa9,2024-03-14 14:23:12,f249fe65-1d0f-43b9-9d2e-a5baa7308347,"Hayes, Rodriguez and Thomas",584.24,purchase,USD
+637a4aa3-11aa-41cf-a7ed-7c7181bea1bb,2024-08-26 19:42:09,04edb96b-bb38-4d28-a316-9843ed02be02,Cole Group,70.18,purchase,USD
+83358090-0924-4922-b640-c249b16f489e,2024-09-20 22:04:24,42ab61d1-e031-4887-bac4-067994a635c6,Newman Group,551.07,refund,USD
+4677417d-2cce-4461-9b82-8d9bd95bf83a,2024-03-28 03:22:48,62a1013e-d9a8-4a7f-b3d1-54daa2219290,Gonzalez-Nguyen,431.58,purchase,USD
+b3159266-fb6a-42df-b6c1-d4316ede5126,2024-08-02 10:57:14,89e86b62-56c4-42f2-a331-716344e8c13a,"Ryan, Graham and Romero",922.01,purchase,USD
+303bb9d2-e6f2-4152-9efd-5d5ab0be608b,2024-05-25 12:39:39,70519b88-f6e5-42b1-baa4-dc48c3f9fe09,"Logan, Colon and Sanchez",897.48,purchase,USD
+ab69309a-899b-4d05-8bbf-aa92c868fb9e,2024-10-26 20:01:30,bc51d9df-7866-4a98-890f-2072231f2b86,Gardner-Kelley,961.94,purchase,USD
+7c7b1e65-2f6a-444d-934d-59d9af7ba298,2024-09-04 10:36:49,ce1ca770-fbd0-41ea-ac16-986100263973,Blackwell and Sons,489.55,refund,USD
+9d5f9430-0794-424d-8fee-dd9560c8de48,2024-05-22 05:06:43,1af2a63f-5a55-4cd7-b1c8-7966f74522f3,Nunez LLC,967.26,refund,USD
+f9cbb18b-394d-4449-b0bb-03cb0c95c474,2024-07-23 20:26:49,d860122d-a6b7-4604-bd26-d3c2f793cc96,"Bailey, Khan and Turner",122.72,purchase,USD
+5b5b2d28-f934-444c-b4dc-beef250ca581,2024-10-31 19:29:14,15b3e44a-e126-43e3-b8c9-1d99eeb3fd9a,"Campbell, Shaw and Rivera",21.66,purchase,USD
+d2438182-841a-4b07-834c-105571186947,2024-03-23 19:31:29,390db245-e3e3-4555-be1f-749a9611cb94,Taylor LLC,732.16,purchase,USD
+fa7412ae-1e11-46e2-84fd-16d8a452ba6d,2024-10-29 22:08:38,15517d76-f583-4070-8d80-767130b7d3b0,Stephens LLC,889.27,purchase,USD
+8ca9aeb8-8f77-4adc-8553-e999af3cc8fa,2024-04-13 08:24:18,4382291b-6a79-451b-8d92-4ebcf98de475,Wilson and Sons,437.72,purchase,USD
+b193aa90-90a7-4b4d-b764-013d6c0ef76e,2024-11-24 14:23:44,b02ddaf8-a30e-4f5e-926e-f5881e6edaaa,Stevenson Ltd,164.13,purchase,USD
+0e30904e-326a-44b8-8328-b665aff15665,2024-07-31 00:10:52,13ff788b-1faf-4a1e-a9a2-d7ec050a184c,Taylor LLC,808.22,refund,USD
+4f195afd-7139-4089-95d0-cd7108615de2,2024-05-31 22:08:53,1ffaa596-f4f4-44fd-b41c-7e3cfea911c1,Chang-Delacruz,379.42,refund,USD
+e5d7bfee-7acc-4888-8fa0-a2bdbc37a461,2024-12-01 19:23:00,143d49c4-e399-47d7-9faa-36e8f145b30c,Howell Group,717.48,refund,USD
+ad545840-94e0-42a3-9d32-9baa848dcce3,2024-06-20 02:03:40,d7dc81d3-a1a9-4cc8-b5a2-7e8891183971,"Clark, Bowman and Wyatt",616.73,refund,USD
+b5a9ae1d-c0c8-46d3-bc79-e140363bb6e6,2024-03-01 23:16:43,8a90e1fd-22bb-4fd4-94ea-67090ff64eca,Rivera Ltd,164.28,purchase,USD
+a9630205-d357-4d6e-8489-00f215c4718d,2024-05-25 10:34:22,2441cc7b-2f5f-4f2d-82fd-55c1e37f3eac,Baker PLC,6.28,purchase,USD
+20bdd2b3-1bc2-4d90-b949-c3fc847bec30,2024-06-22 23:33:25,8d9253ae-ba32-49c8-b794-b7293b2c05bc,"Harrison, Livingston and Mcclure",793.72,refund,USD
+93b02fd5-abc8-4ff5-b9e2-6dd66a34c714,2024-01-09 00:35:57,0dcebb3c-6c90-44ae-9c7c-5d6e4743bdc3,Cohen-Vaughn,373.06,refund,USD
+65aa9827-91ce-413a-9077-42847eef5bf8,2024-02-11 14:23:15,40088c15-bab3-412e-8e8b-0b777eae548d,"Potter, Turner and Hart",429.08,refund,USD
+a3a17539-a7f6-4bbe-8e0f-03c9abc5ac58,2024-09-22 14:22:08,f8e3da15-0a24-41b3-adea-6940d6ac8df9,"Dixon, Reyes and Green",309.03,purchase,USD
+7b4b0fb4-e96c-4dd8-96fa-b6f8d755af37,2024-06-24 21:33:17,4d60e0ba-3b70-4026-ac46-29a8673ff811,Knight PLC,121.79,refund,USD
+ec7b70bb-ba11-43eb-8a78-3a414742759f,2023-12-09 22:08:35,e8a5afdd-83a0-41fb-9255-c5d7a7e63521,Blake Ltd,258.4,purchase,USD
+ebd9bb22-b1d8-4075-94af-71d37118307d,2024-01-05 06:06:35,5a6574a0-44e8-48c8-a31c-32f3e6f98e38,Lee Ltd,22.52,purchase,USD
+e836bace-cabe-443b-a787-9543056e16c7,2024-05-24 09:24:09,4653fed0-27b2-4492-a6e2-b39a08483a4f,"Jimenez, Estrada and Collins",660.75,purchase,USD
+51720b67-def1-4a7a-bb14-84bc1705ad21,2024-05-02 07:27:26,f7be68e1-b0c4-4e26-b965-93909fc80b01,"Henderson, Sanders and Vaughan",52.42,refund,USD
+1173d376-9996-46ad-b13d-de65551041ae,2024-09-24 04:10:28,47475f76-4060-435d-90a7-feb9649ffc84,May-Ortega,816.31,refund,USD
+5f739cde-f9c4-48cb-8daf-bdff87eca956,2024-02-04 20:19:27,e391b659-2320-4671-b7e3-9e1f363ddb4a,"Reed, Ross and Anderson",117.95,purchase,USD
+15f41f4a-2378-4d3d-a915-7746bff67490,2024-06-25 11:49:46,3a8d8d55-9170-489d-8456-4ca730796913,Huang Ltd,95.99,refund,USD
+557470c7-18e4-405e-bbec-5ff3685768ee,2024-01-21 01:39:03,85598ed6-d926-43b7-ba13-2da20cd27e2e,Holmes-Walker,127.49,purchase,USD
+d4e95851-07ff-440f-8614-6a7a8849773c,2024-08-15 10:55:57,2b27419d-35c8-4aa9-83ce-dc98de3add35,Waller-Smith,915.8,refund,USD
+293688fe-1773-46a0-9337-8d3f44def47c,2024-05-28 12:43:28,72bb0467-de58-4923-be58-28c7d4a406fd,Hoffman Inc,7.72,purchase,USD
+5b3d60ee-95e2-4ebf-8f6e-9031b4a7a750,2024-07-15 01:26:50,013038fd-2d88-4b8e-bea8-8932adcb6354,Williams-Cuevas,203.88,purchase,USD
+caaf798e-d7df-4ee9-94be-da0ed2c8b164,2024-10-26 09:31:00,681126a9-e9b9-467f-9aef-212fc5d5a892,Hubbard-Payne,537.36,purchase,USD
+cb8e2820-f7b5-4dda-a8e6-0702b21ea98b,2024-03-18 03:25:39,c4321b2a-89b0-40c4-a064-1b9b7897c567,"Lara, Chapman and Morrison",923.41,purchase,USD
+08af894b-4788-4510-9782-85882670bfed,2024-04-03 04:03:52,39e26d33-54bf-4366-86ec-439ed9103207,"Burgess, Lam and Atkins",379.77,refund,USD
+8f9263a4-5374-4d49-bd2f-99b82c03d24f,2024-08-05 09:20:45,dbbf56b6-c0fd-4d29-985d-b1cc77720dcb,"Cruz, Gonzales and Young",506.23,refund,USD
+9b772f55-e554-4b8a-b415-061cf67d2b88,2024-05-17 10:41:44,0a525090-ac67-4e57-b495-278cd6ae878c,Thompson Group,767.29,refund,USD
+4cc509de-cef4-41de-b277-27584081c593,2024-07-15 17:37:29,598c7d7a-b17f-4585-be42-162635afe215,Smith-Mclean,916.61,purchase,USD
+a3632204-1ece-4f1b-acb1-d36bff949106,2023-12-12 19:18:08,c22a769c-2092-498a-8aa4-fc989bce04ba,Ingram Ltd,117.96,refund,USD
+2f75a4c2-965a-45f0-80f1-02f8131fc66a,2024-02-24 01:38:49,9923b529-5222-4e5c-a56b-cf5733897266,Garcia-Lane,121.46,purchase,USD
+3906fb8f-70e4-475e-b61c-cf56639302b6,2024-09-24 01:55:06,173bcb1c-4db8-476a-9b87-d8822e115e85,Bailey Ltd,491.8,purchase,USD
+e40b52a0-5709-40c1-a02c-de883c1fc63e,2024-05-25 22:10:15,24cff786-be49-498f-bbbf-ff911680dc45,"Evans, Kennedy and Garcia",419.38,refund,USD
+9fbf0a91-f3db-4d76-9612-294aa5e20a32,2024-05-07 17:39:36,a093c56d-2662-4e63-80d5-15a67d66072e,Hudson PLC,688.3,refund,USD
+4542e011-4d56-4ea9-847c-b873cfb5c15e,2024-10-06 10:02:11,a511872d-97c6-4d18-8d76-34e108250f02,"Cruz, Gonzales and Williams",582.78,purchase,USD
+12677f53-157f-48ad-8365-266bf3e7617a,2024-06-13 19:02:15,49407c50-42f6-4845-8162-42ae8d521a0e,"Solis, Anderson and Fleming",442.35,refund,USD
+d66231e6-cfbe-497d-8e0c-7245ef92eb53,2024-11-24 09:55:25,4d5eb150-6dae-4968-9d9b-fa162a847be1,Irwin PLC,230.36,purchase,USD
+c76e3548-29f6-4238-991c-fe7742f60672,2024-01-13 13:52:14,826800f3-cefd-4e77-a519-6c463f87dbba,York LLC,610.25,refund,USD
+a35c686d-2e8a-4394-acb0-2a2ba12344e2,2024-02-28 10:47:58,00403928-0b60-47c8-83b6-d203ba42a4ba,"Powers, Hunter and Gutierrez",808.57,refund,USD
+8ec390bf-474a-4e29-ad41-c0b64dd63b29,2024-08-22 16:01:48,7b490fbf-1795-415a-9bc1-bf23a10d5268,"Paul, Massey and West",731.18,refund,USD
+1acaa282-f0f1-49e3-96df-cb8efb694209,2023-12-08 22:32:42,45023c2b-6bf0-458c-8d6c-436dc71cd4e7,Moore-Harrington,877.49,refund,USD
+abdb19c1-2119-4136-aa1a-a23040e8df57,2024-10-06 22:01:12,30346a3e-fe35-4a33-8d3f-e4c7decc0a2c,Aguilar Inc,616.07,refund,USD
+13a5a2d1-ccd5-4210-b5d0-d82aedbc212a,2024-01-27 05:46:37,cae54f1f-8c8c-40cd-a060-a4bac30b5deb,Wood-Adams,629.12,purchase,USD
+cfd5472e-3a3c-43b2-b7b5-c63990ea6bdb,2024-05-06 23:19:33,1b244433-f3b5-4c57-9750-2c797fb111ba,Graham-Jones,145.23,refund,USD
+437bd5f3-d313-4461-9076-5d2209f80f5c,2023-12-21 07:04:11,853c2d8d-1e38-4ee6-bb7d-d7c6895beb31,"Trujillo, Wood and Butler",149.7,purchase,USD
+24f3a044-3ab0-4e7a-8cc8-02d37f6db730,2024-02-24 18:42:04,3749bf7b-c56a-49d3-8ca3-ed21e1113dad,Perez-Cross,221.37,purchase,USD
+957030ff-4407-4597-9994-958f053dc1dc,2024-06-27 17:59:34,19dec088-a131-435d-a564-47f42dc20219,Nicholson-Moore,497.56,purchase,USD
+7a94fd29-99e4-4942-befe-43ec8bd75de2,2024-10-26 12:47:58,c5450a60-2cab-468b-9631-507b7fe662f2,Blake-Duffy,73.19,purchase,USD
+a01e45f3-3641-4045-9397-5174c12d0700,2024-07-29 09:11:38,7ab9a332-ff60-4b2a-ae30-9455ef6221f6,Case PLC,659.52,refund,USD
+ec897119-88ed-4564-8ea3-bcfad64c2a84,2024-07-29 12:05:44,a7ffa976-0286-4364-b914-de662650f9d0,Wilson-Owens,432.28,refund,USD
+bb6012f6-d2ab-4a1b-b37a-d67ae5720039,2024-01-20 10:35:45,5911429d-cf53-46d3-9d8b-875a1bc30e87,Khan-Carter,861.53,refund,USD
+56a66015-3ecc-438e-b638-12418b11e492,2024-06-24 00:24:14,b1e2eb25-c7e0-4aa6-9b17-641c89e77269,"Howell, Oliver and Jensen",671.29,purchase,USD
+d0b39a6e-0e1c-4df1-860f-c7c0957d48b2,2024-02-27 06:12:46,8b4a6c06-ee43-409f-9028-388b42258340,James LLC,630.87,refund,USD
+cd3f2a99-285f-4fb3-9b89-4c60a879f6b5,2024-06-26 20:23:30,0e1161f1-13a2-48af-b0bb-25a89487d5e3,"Phillips, Reed and Lee",836.59,refund,USD
+69d614e0-afc3-43ad-8263-26ccf03988eb,2024-11-25 16:40:19,0bb4810c-063d-4036-b507-2b25ec3f62c0,Velazquez LLC,620.58,refund,USD
+5317ee68-0e84-4ec6-be23-33d0246907f3,2024-03-23 09:55:04,b7c3a53b-d758-4787-a4c7-17b1b847ba2c,"Schmidt, Wall and Henderson",724.18,purchase,USD
+58d84884-8abe-4a3e-b406-9459bf8d2156,2023-12-15 07:06:01,155cb8a5-fd78-46e7-9db7-4d4e66913ff5,James PLC,976.98,refund,USD
+cdca613e-5065-4653-b456-6adef5af47fd,2024-05-29 13:38:12,4a0ee432-d908-468c-95ce-8e18fc359bcb,Smith Group,400.99,purchase,USD
+c0792bcb-088d-4a9d-82da-00251a1c4cbd,2024-08-02 12:16:30,e5154038-ef37-471e-82ce-63f4052a5f6a,Hicks-Wood,956.5,refund,USD
+46179a2d-67fa-4da5-90ca-afda1182b748,2024-08-17 04:18:34,718e854d-313c-4b86-9e15-bf5913f7e51e,Ruiz-Payne,40.3,purchase,USD
+52932062-d953-421f-981b-3e160f26616c,2024-02-25 05:22:19,3274fd5e-b651-474c-8f4c-1f670743012d,"Cunningham, Calhoun and Mosley",842.8,purchase,USD
+ae587de9-8d15-4347-9114-ef2cbdcc186a,2024-08-21 13:08:15,303e9318-c899-4233-b0fb-b8c27da65277,"Boyd, Hall and Young",486.17,refund,USD
+5dac6e7f-90e7-452d-9c97-600d7628d009,2024-11-20 12:55:37,03fdc1fc-0c97-47d2-86d4-42467f368da6,"Anderson, Jones and Long",859.43,refund,USD
+dcaf2b81-d418-4f14-bdca-b24d08a54a60,2024-03-19 06:56:24,a3a2db2a-049c-401b-9d09-be7f3b5a73e1,"Martinez, Bennett and Davis",963.46,refund,USD
+4189e92a-5aba-40ec-af6c-c4c0aa73b46e,2024-07-30 22:45:24,ac4751b7-9960-47d7-bdb2-1d7594ea1708,Townsend-Freeman,883.5,refund,USD
+ceb7182a-8199-42be-85bb-96d6c4db7309,2024-10-03 08:52:35,6b2d2ddf-c269-4280-a82c-d741b41c0a17,Rodriguez-Turner,802.96,refund,USD
+5848ab3c-c273-4823-be26-528faebee2fb,2024-05-17 11:42:28,7df84786-6765-4184-94de-9b9f0fd767f4,Huff Group,356.59,refund,USD
+882bbc4b-a44d-4c2a-a323-cde4c94ce478,2024-06-06 04:11:10,598d3683-7e9e-4b51-a1dc-ec1e65052a49,Hansen LLC,504.87,refund,USD
+2eee02de-b496-438b-95de-e29744df6cad,2024-05-08 03:16:11,4ce4b9fe-3800-4ded-bcba-d264269d9b66,Gardner Inc,877.01,refund,USD
+1a9fd8c9-4843-4ab1-a852-8c91be4d9305,2024-11-20 16:32:44,de68b965-54a8-45c7-92b2-dddaccf3e112,"Davis, Moreno and Baker",57.07,purchase,USD
+5787ef95-e3fa-4f5f-a312-5094fff39ecb,2024-09-18 08:39:53,5c760dce-fd32-4f99-9b83-bbe337699fc0,Gray Group,668.8,refund,USD
+1ee6b822-7aca-4660-8e57-de0e78be6bbf,2023-12-29 04:54:33,37f9a66f-5090-454d-9467-4eb1d1bca651,"Blackwell, Hood and Mccoy",890.44,purchase,USD
+f14a272a-525f-41b7-a6e1-ecf71b443843,2024-10-19 21:47:29,6c2b40a4-d34d-4734-adaa-9ce5c1b551ae,"Juarez, Webster and Sandoval",126.02,refund,USD
+7b2abac3-4bac-4b49-b13f-861add19d5e8,2024-02-19 08:50:26,2c6d0a11-8e9a-443a-a587-f37ae7b0e0e0,"Larson, Patterson and Ramirez",705.01,refund,USD
+0c1397c1-e5e3-43a5-bb28-1668f4a9ff4d,2024-05-12 10:24:06,266144cf-0908-44bf-9e89-29c034ac14d3,Miller and Sons,543.87,refund,USD
+6deaa48a-e556-4123-87f6-8d2acd949bdc,2024-01-27 09:47:04,e9dff851-d683-4b78-9c9b-1ea0d9ba941a,Lee-Gibson,462.39,refund,USD
+4e181244-e429-4202-b8d3-3db6a7fb042c,2024-04-21 02:13:03,2f735885-fb58-4817-9146-76fa26081fd5,"Moore, Smith and Hines",824.86,purchase,USD
+59e375c9-b049-4eab-868b-9c5f7a055582,2024-06-03 00:39:57,a3ab9aa3-1d71-4002-b1cd-051652131a30,Henry LLC,547.27,purchase,USD
+b3ea3e4f-5431-4c9f-b2f1-4cea5f4c6ee2,2024-08-09 04:39:45,b0de5c7a-78af-4aa3-b797-31de3d5d8308,Alexander-Carr,302.15,purchase,USD
+eca2b5c7-7243-44be-a3fb-f74ed61c49ed,2024-03-26 15:55:31,5d65f107-4b25-4db5-a949-6a514450b689,Johnson and Sons,25.02,purchase,USD
+79d91087-2f71-492e-a2bd-f654bcaa5215,2024-04-27 23:51:59,705eff48-5954-4fa4-9387-44787d37f9ef,Love Ltd,888.73,purchase,USD
+c2f7bf6d-f34e-443a-806d-9b5ba1a28223,2024-09-02 09:50:16,bee45cba-dd79-4ba8-a181-d9be3f235179,"Peck, Fletcher and Foster",140.69,refund,USD
+34bfa062-e989-45d3-b992-8bbbc55086a5,2024-01-08 08:35:00,d21feb6d-8560-46a4-914f-51868e21ae8e,"Jones, Morrison and Holt",849.99,purchase,USD
+2edf7e77-f7ee-4480-bc71-8cf791719e62,2024-08-08 22:36:43,fcea0d7e-1135-4608-8327-80e27ecef7f5,"Gibson, Miles and Gonzalez",53.0,purchase,USD
+e82aba77-89d3-4b8b-afd0-af99cc10fe7d,2024-03-27 04:10:04,8298eeaa-0fe4-441d-a8d3-96cc29efdccf,"Scott, Johnson and Grant",775.81,refund,USD
+54682456-9cd3-444b-831d-53e5d2451df3,2024-01-29 15:33:08,0837942a-a0b2-4bd3-b0bd-f638116fe5c1,Perez-Torres,654.54,purchase,USD
+6d8a6e7f-f490-4acc-a2af-2b185e2ba9ff,2024-09-28 23:02:00,abedeccd-dc4d-4726-a5b5-2c54c7249898,Proctor PLC,613.58,refund,USD
+0bbe8180-e982-4f63-8cb0-c9fd89ca8f69,2024-02-19 04:48:38,827d0b3d-dae3-4c27-862e-ed3b597320fc,Mitchell-Potter,227.99,purchase,USD
+1949661d-9105-458a-ab9b-f4db9ec9f07b,2024-09-04 02:33:49,c4c838e1-a6db-490a-ab1b-9bfd6aeb8ba6,Chaney Inc,726.47,refund,USD
+8869af94-df08-4d84-813e-e7b3059407b2,2024-01-25 08:41:51,76089a8c-cefd-445e-9f4f-f93fce61e0ac,"Johnson, Perez and Wilson",192.32,purchase,USD
+056fe32e-1873-4b90-8002-96b50a6b2ae4,2024-09-05 05:38:57,4a80183c-58d5-44dd-990b-b593c4be1527,"Peters, Shaw and Martin",193.11,purchase,USD
+8a9869e5-f551-4401-beb7-21a014001c13,2024-03-28 10:27:52,b6a4a03d-50b2-4470-8059-28f4108d856a,"Wallace, White and Alexander",674.87,purchase,USD
+119bc12b-1384-4c4b-872e-d5333209bdef,2024-01-03 16:31:00,9044aedf-b2de-4dd6-a2af-dc088a66bfb2,"Smith, Hardy and Neal",218.89,refund,USD
+882d72c1-c809-47b6-9cdf-9b9edcdcf464,2024-11-06 06:56:12,c622d160-576e-47d0-922a-50190af7dfb4,"Joyce, West and Keller",469.9,refund,USD
+1db06a85-f094-4288-b5d8-a103b5d8ce32,2023-12-05 13:35:04,021b0f6c-8239-4168-b34e-2b6c4567808f,Smith Inc,10.93,purchase,USD
+06c8f671-19d1-4c5c-beb7-32dc774b6560,2024-03-24 18:30:14,3c44ea31-7b1a-4f54-a7d5-86dcab64d68b,Hernandez-Thompson,22.11,refund,USD
+5a9d32bc-9f2f-4ae9-a27b-b49e8beb183b,2024-08-13 19:43:43,f966c766-613c-47be-bbbd-2b18a0653937,Mccoy Inc,732.65,refund,USD
+379cf107-fb01-4704-a92d-64b0b3368079,2024-10-31 21:28:08,77f11f9c-2d5d-45ef-9e3e-813bdb6a3ddc,Gonzalez LLC,322.66,refund,USD
+62dd3a47-e623-42ea-86ae-80d2c9309054,2024-09-17 00:52:09,864a533f-9ddc-4303-839e-6ae1d10ac6f6,Long-Henry,299.67,refund,USD
+bda56198-559d-4a78-a5f8-ac810aaf2a59,2024-09-03 22:00:11,2e0aece4-463f-4a9c-9d8c-0df640389da0,Carter PLC,566.78,purchase,USD
+bf10c58d-6612-4573-ad4b-476b434a02c4,2023-12-17 17:48:16,ab2b5ae0-05df-4a84-a2dc-9ee06e4037f2,"Griffin, Ruiz and Byrd",87.81,refund,USD
+9de810bf-ea90-46e8-ba92-3f83d2e8f5f0,2024-09-19 19:57:30,59bb6e7f-fdee-4173-b71d-c9d8a45a46a6,Torres Group,509.32,purchase,USD
+d330c30f-9b02-4f20-8806-03a8b9cff694,2024-04-29 23:22:14,06ec91db-595c-4fac-b803-ea0e4c86190a,Martinez-Rodriguez,214.88,refund,USD
+a8618cc6-e9f8-4f94-9466-0755961144a2,2024-12-02 11:03:08,341b2c35-9c8c-4f9c-849c-5ebcf804e58f,Jones-Allen,63.74,purchase,USD
+a3c1352f-5d43-4971-abee-79f6bbe2e8eb,2024-07-18 12:06:47,50f25582-670f-4766-97aa-5670a0b17afa,Cruz-Alexander,496.9,purchase,USD
+90f21fe1-6dee-414f-862e-b9ece4470351,2024-10-13 14:38:36,136ebd9e-27a0-4a17-b0c5-30780e3c5c16,King-Pierce,788.07,refund,USD
+108589c6-0231-4d56-a8cd-552bf331e22d,2023-12-19 05:17:39,739b1a7a-7e19-41c3-8eea-b9ec5b7bc562,Lamb PLC,934.37,purchase,USD
+dab5d1d0-3412-4ea6-9bd4-26795c10efa7,2024-02-03 08:37:37,3a53494d-03ac-4ed3-9470-5afd35d23c95,Romero and Sons,913.34,refund,USD
+c180d0b2-dfe0-439a-8ba0-9ae0b00ec75d,2024-06-08 10:34:07,391c0169-4129-453d-b712-d4a6621e2c28,Lewis Group,43.19,refund,USD
+19b03c69-b2a0-4806-b2dc-122455ebf42e,2024-01-15 19:35:47,80e87361-0552-493e-86c4-840acbbe902c,Nguyen-Patterson,414.96,purchase,USD
+09177d5c-397c-4790-8dc3-2997407cf9e8,2024-10-11 16:34:06,56dd0b31-862e-4a9d-9c94-8d569454f076,Haley-Gray,874.48,refund,USD
+09457b6b-41d8-4311-8d66-cb0186044091,2024-10-07 13:49:30,f23e5f33-7378-402a-b963-7b88e793a3b5,Davidson-Peterson,113.4,refund,USD
+04bcfdd4-401f-4e23-b55f-59782f5a2ef5,2024-10-27 04:33:43,f1b3b10b-5cf5-4ced-a8c7-7f306ee24c0a,Chapman Ltd,190.13,refund,USD
+882478cd-ba4d-4d7b-ae00-85c85cc0670a,2024-07-24 01:03:44,f9defd6a-f7a1-4eec-b1db-c939b4bd5d9b,Lutz-Patel,138.49,purchase,USD
+682fe076-6c82-4c40-82dc-f5e8b28f0650,2024-01-24 22:18:39,7ccf9f30-689d-4f90-8b2a-eb203017936c,Craig PLC,245.19,refund,USD
+8a626736-980e-4337-87d8-ec644b1eab5d,2024-09-21 23:07:43,b4239867-0a80-4406-8735-8bc42194ae47,Hickman-Dunn,720.91,refund,USD
+6eb6b809-7683-414e-8434-7486dc675291,2024-04-05 03:02:25,111e9781-2ada-4875-92e9-5e9550db00a8,"Elliott, Thomas and Paul",875.42,purchase,USD
+53873450-11bb-4bef-8259-c78548f09b68,2024-05-17 19:25:41,366be70a-33fc-47a2-a0d0-6436e01eaca2,Molina-Johnston,914.03,purchase,USD
+3084d6f1-fc4c-4dba-8160-f9e8fef0fb60,2024-06-28 17:47:28,6f9168af-5087-48d7-bc01-a968b21c6059,Allen LLC,777.2,refund,USD
+15242aca-ad2c-498a-8165-db2c85d47bec,2024-07-15 11:16:47,87332ed6-13bb-42ff-b853-f0617f70b697,"Harrison, Fisher and Stephenson",302.38,refund,USD
+c9597995-489d-4159-b120-fda1ef3ab604,2024-07-29 18:23:10,bf66947e-521f-456b-8c68-840dba98a28f,Hernandez-Martinez,738.02,refund,USD
+56bfd441-1448-43aa-b638-8d8320c14dae,2023-12-29 04:06:42,a87029be-55b9-45fb-9510-7a6257936ccc,"Gonzalez, Sawyer and Ballard",866.28,refund,USD
+ef2d51ec-3523-4a0a-a3b0-2d471a6fc7cc,2024-04-16 04:34:03,8fdaed35-5081-4d72-b731-1354243d09c6,Williams-Short,23.63,refund,USD
+9d5636e8-844c-448c-a42e-c5aa361c9c92,2024-05-03 00:15:36,bd6e150b-dfb4-496b-b2ed-ef05df8ff3be,Burns-Nelson,326.94,purchase,USD
+5d57f11d-2af3-4f45-b49c-82bfe4df5ce3,2024-02-03 11:01:15,2481e8df-e481-4991-942f-30ddea64635c,"Rivera, Lopez and Andrews",65.99,refund,USD
+c8b242b6-5047-4089-8bb5-49549ab04961,2024-05-14 19:11:57,d7ac45bc-23e2-45d4-b5e6-af48e94d85dc,Schmidt-Nunez,230.18,purchase,USD
+f6a5ccaf-dd23-4031-b1dc-f2d34d41fa00,2024-05-04 04:11:00,76c0d5df-f90a-4482-983d-0a7148987524,"Garza, Lawson and Cook",321.1,refund,USD
+a88f2c7b-4f9e-4051-a4c8-5f94070a2719,2024-06-13 18:59:26,73d966ab-ae61-45b7-8e98-1a86b24942c0,"Jones, Bernard and Cross",238.82,refund,USD
+8ea4d9c6-ba87-453a-8e45-7b03751f947e,2024-09-19 13:59:12,efd57d05-b5d0-4bee-9b2d-a76b1e901cc7,"Mccormick, Murphy and Thomas",723.96,purchase,USD
+2fef499d-8a68-4bbc-b215-d3f3b3a909da,2024-09-05 03:31:24,904dd81d-7b72-4a72-86e2-04e81d059dba,White and Sons,588.6,refund,USD
+86d015cf-768c-4a44-89ab-78f3c3f7b7bc,2024-07-08 05:51:48,ecd8c50c-285a-45bb-aec3-fb915f043685,Garrison-Rice,289.23,purchase,USD
+a6ebfdb7-c0e2-4fea-be01-ded926e4ec81,2023-12-26 13:17:04,239b6c9f-c31f-40b6-a98d-256dcf4f4865,Weber-Bass,43.1,refund,USD
+614270d4-5791-4265-b217-d13045336496,2024-03-05 16:21:24,23770b6a-8747-42f9-a48a-d171bdf144d4,Sloan Group,355.07,refund,USD
+a0e669cd-d41b-451b-ac92-d4a66823b9c9,2024-06-27 21:23:40,af78e195-3b8d-463e-ba51-71a059101209,Lowe LLC,973.67,refund,USD
+b8f1d56f-40a2-437c-b4da-e04e4e4d6790,2024-05-17 17:47:33,963fb64a-5f84-4ba0-9272-3d91fbf20f15,Guerrero Group,835.5,purchase,USD
+3f0edd4d-2cb5-4305-b224-0e37b8dfea5a,2023-12-15 17:11:00,e300a5be-7505-4896-a0b7-590b6984648f,Silva Inc,415.73,purchase,USD
+28e7cc39-5cdf-4ba8-a0eb-3c43903a9cdb,2024-06-10 18:42:36,2964507b-dac5-4882-ae3d-f311ee608827,Harper Group,439.33,purchase,USD
+fd6421d5-d238-450d-bc39-a52bf0dbea58,2024-01-16 23:42:38,381a7634-965a-4795-b0e4-f702faff80e7,Sullivan-Jones,679.78,refund,USD
+b14e8096-38c3-4749-992b-18e0365c8f27,2024-08-15 21:17:26,c0373539-2d64-46fb-b9db-ce3f919ea407,"Wilkinson, Wilkinson and Nichols",382.31,refund,USD
+27baa1a8-bd17-4350-b614-1798041251c2,2024-10-18 04:34:14,7e228dfa-6985-4b56-9f62-58c30448691c,Burns Inc,332.52,refund,USD
+9c0ed537-0cde-4a0a-86b3-9dfcc3b790d2,2024-11-04 19:40:04,7a8877f7-a67c-4b73-9dd0-d2dae8eb1005,Michael-Gallagher,114.22,purchase,USD
+1b445178-2119-4c7f-84b2-4ac40651f2af,2024-10-06 03:14:50,242a685c-6598-4037-b592-ec7e864c4b28,Bauer-Bowen,963.3,refund,USD
+99f678ab-54aa-49eb-84d7-db7888a3d632,2024-11-05 16:43:08,dd4d8c23-d5d9-4aa3-9a4e-ded807a69ec6,"Johnson, Hernandez and Curtis",43.32,purchase,USD
+b85bf566-95ba-440d-80cc-9c498531f8ba,2024-11-08 05:05:49,0fc124e7-ffbd-41f1-873f-6cc03b789f6d,Hall PLC,550.57,purchase,USD
+7ed7364a-b68e-4eeb-8a4a-cae4a186f11c,2024-06-27 17:00:13,494a8f0b-2873-408a-a1a3-ca720ae10725,"Lewis, Smith and Shea",427.81,purchase,USD
+224d2f4c-67d2-49cb-ab9c-d805aca4c469,2024-02-13 11:05:19,12b26ad1-c0e7-40a1-8b38-813876a03904,Miller and Sons,114.0,purchase,USD
+929f038b-333e-4399-8d99-332b434463ad,2024-11-10 15:42:14,3e1dd134-16e2-423a-88d7-d6b59433ebbe,Murray-Smith,838.11,refund,USD
+39a8c7f2-5078-4ccc-954e-08615d4f35d4,2024-05-10 02:47:49,d80583e1-51bd-483d-9ea5-42c5a749e333,Moyer-Rhodes,47.63,refund,USD
+da5f12d9-0226-46ea-9466-633d30d7eb46,2024-10-11 17:03:25,932c2c94-c543-4228-8b8e-f5f6b9d55e86,Cardenas Group,654.64,refund,USD
+99534ff3-d072-4d2c-b5e6-c7d809d23089,2024-07-24 22:15:32,45170b5d-2a0f-47f6-a161-9b365905d250,Walker PLC,410.48,purchase,USD
+b6218c6d-f17b-4ce7-8b6c-ebf2f2d3feaa,2024-02-27 17:52:52,4c5a26f9-390c-4b63-b81e-c1ad5e44c9c1,"Mcbride, Sullivan and Jones",870.9,purchase,USD
+b79733b6-0fd3-45a1-bf74-18fda2b1bf22,2024-12-02 18:16:38,ccc021f9-3236-4c3d-9477-5e263e98bbd5,Roberts LLC,14.04,refund,USD
+b5f89836-710d-4eb6-b161-733028c512ac,2024-09-02 11:34:19,0acc35dc-4864-4e2a-a663-9d5f664ea2e6,Kennedy-Bauer,492.4,purchase,USD
+5eab8ee2-35c7-422a-9c90-674688a49fea,2024-07-30 04:19:32,983952cf-131c-4732-aa5e-7af0b935db74,"Smith, Nguyen and Freeman",255.42,refund,USD
+5b1c7d4c-ec67-4869-9060-fcefb6a54428,2024-06-04 01:39:07,c524fe3f-3003-4af1-94bd-f456b86d1b2e,White-Trevino,908.4,purchase,USD
+a9034dc4-95df-45ce-abb5-1006989c6278,2024-10-15 11:59:13,11365e72-2bfa-4d27-8feb-610c89f92294,Meyer LLC,840.68,purchase,USD
+2884e2bb-c366-451b-87f2-ad1860ee4fff,2024-02-29 00:13:23,f2918888-b340-4c0f-a53d-7cd2bf570909,"Clark, Scott and Zavala",761.43,purchase,USD
+9221e3f6-bccf-4952-b2fd-3cd9b396224b,2024-04-01 16:05:57,db5cf692-e64b-4a82-9c20-ba08158eacf6,Smith Inc,775.12,purchase,USD
+32e89da2-082a-4d92-b1d0-0ad2cfceb2df,2024-06-29 15:22:15,b18441ed-fd79-4b32-9331-b36dafc86ff9,"Green, Ross and Lam",506.95,purchase,USD
+3255eb53-1d88-4265-ba18-e0bb7974c757,2024-06-02 08:01:41,95df9da2-3d1f-4ccb-91b6-7e4ed716b9ca,Nelson-Morrison,696.5,refund,USD
+3cca99dc-17c6-4fe5-aa43-2d3e212455f6,2024-08-15 21:20:51,3d1ac382-3e4b-48fa-aeb7-1c8aa672cabe,Day-Khan,514.62,refund,USD
+bc80121e-adff-4f92-9988-9e3a17ad9c49,2024-06-02 23:00:35,e45fd977-5401-441b-8ba6-ab719b1b6885,Garcia and Sons,151.57,purchase,USD
+51f7658b-2c43-44ea-a98b-384ba8c1abf6,2024-08-25 18:46:00,28baa1e9-ae2e-48bb-aac3-67b2277107e3,Lewis Group,789.23,purchase,USD
+f2833bc6-83dc-455e-b052-2c7e3ab52bab,2024-09-02 02:08:34,731a0aa7-0c25-4839-9bb1-5a0ba83bd43e,Thompson PLC,770.54,refund,USD
+00b17993-377b-437f-879f-e10638cc76e8,2024-02-11 03:36:18,570d9836-93d8-4b81-99a6-6f1424dfa2e7,"Walker, Sanchez and Manning",72.1,purchase,USD
+bc96d02c-6673-4de1-b78f-436509b0c021,2024-04-10 17:18:29,dc110827-1e67-437c-af82-d1d6db679bd8,Greene PLC,350.03,purchase,USD
+1d1bce09-9bc9-4316-b68b-20edd11b8270,2024-08-09 04:10:56,b991ab21-3738-45c3-a22c-35fc8f7a76b1,Coleman and Sons,295.44,refund,USD
+a0644aee-70ec-4758-9c3d-088800c8f7bf,2024-09-06 15:29:25,874954a6-4425-4efe-af7f-f67db48c4f05,"Henry, Frost and Lynch",802.46,refund,USD
+d988299c-0acb-471a-aa9b-26b66835d3fa,2024-02-28 10:18:13,f1cfd182-43e6-41f6-a24b-f566a7ae0953,Wright and Sons,542.23,refund,USD
+fcc221c4-5945-4f40-a30e-4d6faf3b24d4,2024-06-22 22:00:45,d819ba95-108d-4418-a968-14ba0fd983a4,Richard-Nelson,193.2,purchase,USD
+6f17dd46-25ff-431a-b638-2565ad1953df,2024-06-06 09:48:11,389d9bf7-ff44-4a6e-ae10-76f6d5489d8c,Kirby-Hines,385.05,purchase,USD
+52616abe-c8d7-4e5c-9e36-bac79e60bbbb,2024-02-18 21:19:53,7e0303b3-33c9-47f6-af8a-1a9e1e9a48e8,"Ross, Garcia and Espinoza",548.76,refund,USD
+de9a1f38-5db4-449f-b2e2-bca16b360eca,2024-09-02 11:34:20,c2d4de09-c57b-4aa2-8899-4c62cfe070b9,Dougherty Inc,746.48,refund,USD
+001708ee-74e5-4b9c-8a3d-f1bc547cbade,2023-12-17 00:42:54,d72372ab-0e4e-4f02-9dfb-9be8b94e0906,"Thomas, Berry and Rubio",19.84,refund,USD
+a2b09c84-71bd-494c-90f0-1cc5069120f6,2024-01-18 09:32:15,dcab01f9-aee7-481b-a076-5d608282dbb2,Jones Group,780.94,refund,USD
+58367aca-a45a-458b-a967-ca03c21144f9,2024-02-11 08:07:19,a42c2c94-78b0-4fee-a64e-7f53cbc95c89,Burton-Hammond,783.28,purchase,USD
+ebb5b542-6185-4cde-9b7f-b2e6338f52e0,2023-12-06 08:04:25,9f601252-92a8-4e53-9aa4-92dca2c96d7b,"Delgado, Cooper and Foley",682.78,purchase,USD
+b32c9029-0806-445b-980e-2c8aa66d480b,2024-07-26 14:31:12,00add490-6406-4bcb-ac2c-d8fd0d58eba9,Landry LLC,837.75,refund,USD
+df56c1e9-9abe-4158-bb5a-cc4d9757a4ad,2023-12-20 07:59:42,ae9cbe5d-4d59-45a5-a8d3-669e69c7f752,Gray-Robinson,488.92,refund,USD
+4db281ff-3af1-4849-bd1b-800b1f4d25a8,2024-10-31 15:58:29,e3a994df-5d66-4bc5-a76b-2ac03dfbef2c,Sellers LLC,899.64,refund,USD
+e5d33bd8-5ee4-4eec-9e6c-1296151c4ef2,2024-10-26 11:34:31,b02b9267-2a23-4902-b6e3-ff236faf8914,Smith-Bennett,582.71,refund,USD
+b652df3e-0b35-4c7c-a5d4-173c74f5ca91,2024-03-07 22:27:54,022192cc-d9b8-46f4-bcd1-d1a892583912,Atkinson-Martinez,956.21,purchase,USD
+e1227fd3-d3e3-4442-b76d-a5c04cee9f3b,2024-08-27 08:17:00,12a1c630-1060-456a-afcb-75d5431be093,Henry-Gordon,782.77,refund,USD
+c516b187-643b-4985-9353-224beac00dd8,2024-07-25 00:16:59,e1f62959-0be7-47dd-b97f-92f1c1ca6c51,Shaw Inc,742.54,refund,USD
+e2082b43-4786-430e-bbb4-14aa5550a750,2024-09-21 18:29:36,01ef3a7c-6611-4215-b18f-47686ed1ae86,Wilson Inc,608.83,refund,USD
+7abfd389-ef3d-4487-9cd5-edb34b7697ac,2024-02-06 12:23:44,cdea37c3-de15-47fe-a6d7-fb312a59e06e,"Bennett, Barnes and Richards",820.76,refund,USD
+456fdafa-79b5-4b0d-a51b-a49a365c5283,2024-09-27 18:27:07,849b1feb-cefb-4b09-8fdc-df33dffee0e9,Burns Inc,662.94,refund,USD
+8b454f35-c205-4ad4-902a-02d75fb9285f,2024-02-14 19:10:32,13839fad-2e83-4673-86af-250419ea09aa,"Chung, Collins and Dunn",222.47,purchase,USD
+189de791-7904-471d-ad99-8bbc454f838b,2024-02-09 22:31:14,670a96d8-ed63-4d3b-8b26-4cf608a7b818,Garner LLC,773.37,purchase,USD
+c4ad6773-f3cd-4a01-84c4-46704be5f0ab,2024-12-03 03:48:26,fc50dd1c-479c-44b4-832d-e997fb13ddd7,Blevins PLC,247.21,refund,USD
+854cbb51-64e7-402d-af90-4d4e338feed7,2024-06-16 14:30:27,499d6ba3-3fc2-4acf-bdcc-039a385f2ffd,Weiss LLC,797.47,purchase,USD
+4dcbb284-7cbf-4c50-9a5c-2af37c1c4da6,2024-05-04 08:12:49,cfde25b9-7f8d-4b26-91ee-450fca2e377d,"Reynolds, Davis and Keller",512.77,purchase,USD
+05377676-f365-44a1-85ac-b08a2ed4a521,2024-04-10 08:33:52,d3d88ced-9a5e-4b2a-b8bd-57704f5b1d01,"Henderson, King and Rodriguez",623.62,purchase,USD
+eaa87211-3423-48c8-b418-e9b22cccb21b,2024-04-12 01:53:47,b13cdf82-b940-4c06-be26-7a172ca13936,Meyers-Brown,235.19,refund,USD
+07308252-7aae-4cfa-a615-0cd4d6a70386,2024-04-07 10:53:46,de522221-423c-4821-9b71-071e87617f5d,Levine Group,934.58,refund,USD
+2ad8f0d9-0dd6-47f7-b1a8-2e2e8a574505,2024-08-21 03:29:11,5ef64523-c282-4462-b4c3-c70d77757dbd,"Payne, Jackson and Myers",184.94,refund,USD
+757f76df-0ae4-41ae-9ab5-b0dea64a159a,2023-12-09 08:24:06,6ce26a08-7a79-4299-ab53-385be016bfcc,"Turner, Butler and Kelly",505.52,refund,USD
+b89ce17e-753e-4b20-9dd3-23b8ae61c613,2024-08-16 07:13:38,1f4bb3bd-4149-4397-998c-66996150a377,Weaver LLC,635.68,purchase,USD
+fd64b4f3-1eba-4f1b-b042-e1fb05b880e0,2024-05-05 14:50:14,49a6caa4-43a4-43a5-a530-9d23946f5f99,Fields-Jackson,65.05,purchase,USD
+748f8ac4-50f7-410f-aaab-8db5710246e7,2024-08-16 17:47:23,a8a9f3a3-e624-4a4d-96d0-83f511cd99ae,Matthews-Meyer,512.55,refund,USD
+5b7a0316-b84f-4eb5-b882-ce51bbaf3e87,2024-05-21 01:05:22,c141ef79-972d-443d-b42c-92e82d3833c4,Griffith Group,758.89,refund,USD
+ef6e3012-dc08-4641-950c-2ea912996129,2024-06-10 13:50:03,644c9402-2371-41d8-927c-320d9d581a08,Hernandez Group,966.58,refund,USD
+d0f74843-360a-4d05-b483-ef9d07910f3a,2024-06-08 23:13:53,fe9d7a19-7e1f-4a0c-a571-100ccab1af4c,"Mcguire, Shaw and Cervantes",623.06,refund,USD
+6316046e-3d43-4df3-a63d-50cd42bfef42,2024-10-18 06:48:37,0033ce7a-9c36-4d2f-95b2-b13703ba0b55,Tran LLC,53.08,purchase,USD
+17315dbd-8b00-40a2-aa77-79e59739ce74,2024-08-30 04:53:55,525bd80e-1f46-49ff-a671-9b37ad2ca8c2,Davis-Ward,426.72,purchase,USD
+b46faf5d-be55-4206-a43d-4103804e3857,2024-02-28 21:27:42,77a4b54a-78cc-4321-af91-803e5ef34d31,Powell-Olson,355.47,refund,USD
+6d2e2ffe-1ca0-4918-9a3e-09ee674f4a69,2024-08-04 20:03:40,65b4be7c-e4a3-4d1c-b95f-6061820877f0,Johnson LLC,840.57,purchase,USD
+dd344f75-0940-4122-95ad-53c5bc8c7564,2024-11-14 20:39:43,a18205b7-fb06-4dc0-a893-6f2bf729774c,Little-Shaw,431.4,purchase,USD
+eaabc4a2-20b3-4497-b82d-67acd10c05cb,2024-08-24 12:07:47,1152a289-6e55-4e7f-9763-7466bbde8e85,Serrano Group,919.8,purchase,USD
+a6b1575d-a990-4647-869b-0081f7cfd75a,2024-06-02 00:14:09,5c46ca46-e75e-478b-826e-734be7c56075,Brady Group,433.19,refund,USD
+68b3ec99-acef-4079-8a06-59fd97b30eed,2024-08-31 04:27:04,72fbced5-66eb-44cb-b23e-23e6dd5cd502,Richardson-Holland,61.38,purchase,USD
+efea20f6-019b-4ab2-9766-41da9f68b848,2024-04-16 09:32:29,063a7345-d20f-4f50-8fbb-b07772f3b7cc,Duran and Sons,512.97,purchase,USD
+54deda38-ea96-4bb1-bab9-5b562687deaf,2024-09-03 01:04:46,6e830bd6-4559-4c59-b968-b91f97f2dadb,"Davis, Long and Pitts",707.39,purchase,USD
+9759d7ac-fd6f-4aae-9393-1dcadfb63d65,2024-01-24 11:41:23,fa166549-1e02-44b4-b02a-d07b0ebf960e,Thompson-Brown,392.34,refund,USD
+6eaf8b13-593a-499a-b1ce-dbcd8de3c2de,2024-07-07 08:19:25,2b7433ae-1ed9-460d-af99-d716108ed140,Salas-Flores,450.88,purchase,USD
+b556cc4d-6279-4452-ae23-a2fd49b0e477,2024-07-05 12:22:36,a38dec9b-543f-48dd-97ef-f233492c5c84,Ellis-Brown,57.54,refund,USD
+c5de1304-b37a-45b2-aef9-545ced0cb03f,2024-02-18 10:29:16,d1e9611e-8522-44f5-9c96-888c0eb0979c,Ballard-Murray,714.04,purchase,USD
+b57447b7-e6a3-49b9-9c0c-7d96b3eb3ea0,2024-08-02 17:39:03,16e7ef46-c7f2-4773-b695-e2ce7357dc8c,Mills PLC,427.89,purchase,USD
+f19929c4-d6de-444a-ba8e-428d21536b98,2024-10-04 15:48:09,ed8cb34e-42c9-4093-9d9f-41c7cb2f0323,Bruce Group,950.24,purchase,USD
+5ac51507-2c5a-4c35-a58e-82591706d9fe,2024-11-18 18:56:07,c41d0fe7-a13c-4fa0-8645-3f3f4478edc2,Stokes-Woods,895.14,purchase,USD
+596ce25f-5cea-49b1-ba51-709c9615dbeb,2024-05-24 19:08:31,d3d5c8ad-8745-462a-875b-3ea8586baaf8,Scott Inc,252.96,purchase,USD
+18cf209d-259e-4192-983c-988b4a49a0e6,2024-05-13 02:28:08,110c3b02-cd9e-4018-8507-eef2c6558384,"Wallace, Gibson and Smith",144.37,refund,USD
+33ddf914-aad1-42aa-8fad-ae092cd0cff8,2024-08-27 10:19:00,97f0a917-405c-4a01-8e5d-2b553ae04e93,Chandler Ltd,35.79,refund,USD
+a7ded17e-50bc-4200-b7d3-b6ccf6a38371,2024-03-04 05:35:46,7ec2a4b6-3ef8-47c2-b705-777e76ea4ab9,Lane-Gilbert,990.87,refund,USD
+47d3f681-f517-4709-a144-4de545520d23,2024-06-19 15:44:32,3eb91ac8-2170-498b-bd3c-000edd4f399d,"Brown, Sanders and Sampson",347.74,purchase,USD
+6837a84c-75a3-4168-b578-44e6e2a4bbf2,2024-11-13 01:45:56,799e86f1-10bc-4361-b29b-2c9f4c7a1298,Ramos-Salas,859.77,refund,USD
+047df207-fb21-454f-be8f-d86bdd8e9fae,2024-02-12 12:33:52,79f3f23d-7ec4-4a8b-a4a1-2c39615390f5,Morgan Group,336.53,purchase,USD
+652b6be9-8da2-4ee6-b9c3-b9b5a6cda355,2024-10-21 15:49:26,1f38a8a1-ce67-47c1-8aab-8aa84b1e6f28,"Cole, Bates and Becker",119.95,refund,USD
+726c0502-d642-4a0a-a0e7-7389ec2f0526,2024-08-16 19:26:15,3494b6ab-6afd-42db-9da1-a1162e9628de,Davis Group,411.94,purchase,USD
+4cdeb14c-d228-4b19-8638-262da2ca48c1,2024-05-12 15:26:00,da266120-5c3d-4cff-873c-f1b407bcb666,Martin-Todd,795.55,purchase,USD
+87ca8df5-d897-45ec-8abb-ac2566d3f656,2024-05-01 21:31:43,acfa9c16-95cb-4433-95cf-c7dc0762ffb6,"Bennett, Zhang and Smith",398.92,refund,USD
+8a8d61fe-4b44-4048-8de1-b7e0b3c45fa3,2024-05-04 09:01:17,ac0faeda-5322-4fc1-9b38-76009fc8bfcc,"Riley, Hunter and Boyd",870.08,refund,USD
+fecfa4f1-7fd5-461a-90c3-b0605bfe0fe4,2024-06-20 07:57:03,de77d80e-9e19-4ff5-b1ab-ebc1488a803e,Summers PLC,719.95,purchase,USD
+df5ad3d7-8167-4727-940a-79e8b022c6c6,2024-02-23 21:04:54,f416f35c-3592-44c3-87d2-006b26cebd7d,Nelson PLC,810.71,purchase,USD
+159477e1-90eb-498b-b1ff-0765f1bc7604,2024-08-03 08:59:59,da7d187b-1c43-4acd-b07e-a9d878394f25,Williams Inc,309.54,purchase,USD
+b9df5f53-cd5b-4e94-ad64-713961b68c67,2024-02-17 15:15:11,b23fc245-3cc4-492d-b353-c5d0763fe1e4,"Thomas, Hamilton and Benton",476.73,refund,USD
+c13f1e1f-fe78-4635-a735-2ac113848d58,2024-10-27 16:42:15,0d17e7eb-bb6b-4680-81da-b452a4148e13,Reed-Parker,404.07,purchase,USD
+0ace07ee-94a1-4125-b0f9-f15f6a788233,2024-07-08 22:36:29,8eb46c63-0411-4628-af47-cee939f9a4c3,"Hunter, Gross and Sutton",966.59,refund,USD
+da396a11-4bbe-47a3-b268-ecfa02d839d0,2024-05-02 22:29:28,fe87aa57-c4ec-440a-a60d-87e7175ce9a8,"Stevens, Powell and Harris",793.15,refund,USD
+74e630ad-43ed-4d80-bf6d-8a555e8adbc5,2024-05-08 01:46:43,04b09b55-c2ca-4f41-a554-150cde377436,"Johnson, Swanson and Tate",798.78,purchase,USD
+ce304db9-4021-48fd-8e35-0239798a6b8b,2024-03-13 14:58:15,deaa16d5-cc1e-416c-ab2c-651d151f9edc,Smith PLC,377.13,refund,USD
+65d47e7e-c7a2-4ec6-a202-0e104562da0e,2024-11-19 01:48:44,abf5e0ed-3e92-4239-898d-2dcd1dbeacaf,Phillips Inc,515.97,purchase,USD
+b4d09524-0d68-44fb-94f2-54c958663986,2024-11-09 11:43:20,fbf75abb-a1fe-4714-b11e-a9666686d0b0,Shaw-Short,814.46,purchase,USD
+d3526588-56de-4328-951b-ff2e78c23f8d,2024-07-25 00:10:58,61ad4f7c-d748-4307-a36d-08e3464da70f,Fox PLC,839.67,purchase,USD
+1ce0834b-04a8-4d29-a4df-7b475548c1d1,2024-07-18 07:35:39,f33df72d-1c89-4c46-ac63-c395ea41672b,Mendoza-Butler,990.4,purchase,USD
+d81f5dea-8465-42a1-a77c-b1697d144428,2024-09-17 03:38:47,d3c4c5e6-bb67-43c4-9382-c47ae9957765,Thomas-Smith,518.58,refund,USD
+5cd19d49-c1b7-4a4f-a9f8-3e03f040354b,2024-03-15 11:08:01,a0b66c6a-cb27-408f-a7e6-7dde5f245b3d,"Cabrera, Smith and Long",136.62,purchase,USD
+fcb61933-3b42-41b3-85ff-14c8d750fd38,2024-01-23 23:03:06,8478d7f4-e0d8-4238-8406-01108a0d57d2,Carey Group,854.67,purchase,USD
+29deb18a-0438-4657-be3f-8025ebd8b5a7,2024-04-04 13:52:12,131d519d-b430-4aec-814a-b4674769923f,"Watts, Simmons and Scott",62.16,refund,USD
+6a8e5660-f3de-4660-87db-131d004177e5,2024-07-14 02:36:28,67c79684-4dde-4651-b721-c1b0bb544903,"Morris, Bates and Lopez",556.75,purchase,USD
+0e7b7021-fcdd-4c71-adf5-b5e20b5c7850,2024-11-20 04:37:04,d6a50185-0cc3-4f88-b2b2-52c0d9fbd0b6,Freeman-Butler,591.69,refund,USD
+8e08c932-8a9b-4f50-ae44-8cd439d8c1df,2024-10-04 04:45:59,69996e58-91df-4e1b-abea-cb54c9364912,"Ortega, Sanchez and Ramirez",791.6,refund,USD
+e7467e83-b555-44be-9e1c-105d1337c089,2024-03-11 13:23:01,7a68dd50-b33d-4a47-a695-23965e70229a,"Wolfe, Klein and White",906.09,purchase,USD
+c1d588f2-6cb3-46dc-984f-f8e651c2c4f7,2024-03-27 00:57:59,fbcf04c3-378d-40aa-9956-c447e34eb94f,Padilla PLC,243.4,purchase,USD
+56113cf3-4ece-4192-8f62-0dcf20a7fd50,2023-12-11 05:25:09,842874df-3948-4f62-b40d-2cb5d6079cb1,Pruitt-Heath,406.43,refund,USD
+3cf58c58-d117-419e-8f1b-013c7b640944,2024-02-22 00:10:38,75af8e07-2a5a-4868-9e7d-bd9a2b4653fd,"Alexander, Gill and Jenkins",425.64,purchase,USD
+873cd4cf-ff25-4d4a-8486-dae16217f88f,2024-03-19 10:45:49,fa248892-e2e4-41a5-860d-eb7e32cbcc18,"White, Rodriguez and Evans",118.55,refund,USD
+54a58515-8b30-48ef-bd9b-b5af3f8d7b88,2024-10-09 11:43:40,78c10ebb-321a-4be7-be50-296681509d31,Arroyo and Sons,153.7,refund,USD
+32c0fb7d-a4ae-49c3-a21b-b535c9af4915,2024-09-18 04:23:50,51f885d9-4285-48c9-be89-b69b1f8ce2f6,"Mccoy, Gutierrez and Brown",944.67,refund,USD
+ddaa8f4e-879a-4b77-b7be-971dd4a612fb,2024-10-16 19:41:14,25104b5d-f4db-4198-89b9-3b33f6debaa3,Garcia Ltd,724.85,purchase,USD
+77907b7e-9a91-4120-a2ff-80059b432754,2024-02-14 00:53:12,739b21aa-59a7-4540-8d8d-a21a251c1d18,Golden-Anderson,637.6,refund,USD
+0a5338a9-3fe7-4f26-a358-f2ae2f9b3d6d,2024-07-28 07:15:35,c6cbefe1-55c0-4143-b1d3-0e65719efde1,Mills-Gilmore,832.24,purchase,USD
+ba8adcc0-78f1-4600-9d23-48b69f4d8453,2024-05-16 01:25:04,86d6e33e-a14b-43f6-92c3-b7c0d50bee33,"Jackson, Watson and Johnson",417.39,purchase,USD
+6be3b5d9-4ace-4db1-9efe-b597dfed39dc,2024-10-14 19:19:11,9cc77e20-79b6-4b99-8ef4-51dcc65d2811,"Austin, Garcia and Miller",954.95,refund,USD
+65d3581f-012f-49d3-8e6f-cf11a4c0c6d3,2024-03-01 08:46:50,c9c1d3a3-26d8-4f3f-8950-0367fc7fab68,Hartman-Nguyen,157.78,refund,USD
+21aecbf9-6960-4812-9a0d-fca66b2d78e5,2024-09-10 14:58:03,44875ad4-3a62-4528-b436-ec52c2d28a5e,York-Smith,638.81,purchase,USD
+2ba55560-dbb4-43d0-9865-471da5918cf0,2024-08-04 23:32:33,e72322f5-4dc4-45ac-b819-dd186e5209bd,Brewer Group,84.21,refund,USD
+341de8c4-4747-4779-a66a-82abc30b1b92,2024-10-29 10:43:38,f366d0f0-1bde-4d0b-aef7-88fff023f589,"Kelly, Ramirez and Craig",236.28,refund,USD
+f92c0891-967d-4967-8bb0-7363e908f596,2023-12-12 01:49:32,fe1680b1-d518-48fe-acfc-744dde5066cd,"Fisher, Taylor and Garcia",509.74,purchase,USD
+2a805cd8-9aef-45d6-89b0-328cfd04e0d4,2024-10-23 17:00:00,3b062c94-32c9-480a-9ca8-32a7826c14b9,"Wilson, Robinson and Williams",404.77,purchase,USD
+93b2fd07-f6e1-4fbc-b196-1220b4983b67,2023-12-27 02:07:19,8f2cad39-1781-4eed-8b31-26e3fb7dd6db,Byrd-Ward,863.99,purchase,USD
+5f2b3315-1c7f-4cf0-a8a0-4266d3f32c42,2024-06-05 11:20:21,a6bcc8af-2a0b-45cf-af6f-c5fa293903fa,"Cole, Hoffman and Andrews",415.72,refund,USD
+32539642-8303-4c43-8fe3-c0c32c49f062,2024-04-20 13:48:26,ad36fc6f-6c44-4243-af3d-6af5884f8c45,Chandler Inc,522.75,purchase,USD
+539e51d3-b5b9-4305-b8b2-cd8907b9c945,2024-02-08 16:47:08,a736fa7b-2dc5-4a14-8f44-d3cbe3ac89c3,"Reynolds, Hoffman and Watson",99.74,refund,USD
+728f5663-a138-4bcc-b002-384cb72d9acf,2024-03-12 12:46:07,fa7afe5a-6cf0-4def-bf66-02ad8dbd1f30,Burns-Green,404.13,purchase,USD
+9e41cdca-f9fe-4995-8170-98816284013c,2024-08-26 18:46:39,1d0695c9-f64c-43fa-b31f-16e7b0865db2,Hernandez PLC,259.93,purchase,USD
+f5100465-4113-46d3-b049-1f0ed406ae8f,2023-12-16 21:58:21,b1afb154-3765-472a-8e3d-38df560c0566,Walker PLC,624.54,refund,USD
+ee9b1cb9-2065-4023-95d2-24a394e3ef3f,2024-09-29 15:05:39,8a6300ad-a595-4c6c-bb94-8414a01fac23,Hamilton-Jimenez,294.02,refund,USD
+aa7c16d0-771a-47bb-81d7-83a1f68cd932,2024-02-28 11:28:02,b71d6fcb-c93b-4aae-aa37-2492eca947d5,"Morris, Garcia and Simmons",684.55,refund,USD
+3561746b-e544-4c65-b405-6f596bbf2c54,2024-11-10 16:11:56,79eb34db-1bc9-4331-abed-d62ea966bec4,Stevenson-Schmidt,84.42,refund,USD
+12aeab33-375a-4332-80ce-55e9d883bed4,2024-08-04 12:20:16,84aab1e3-89df-444e-90b4-3049b8705e81,Dougherty-Rivera,367.35,purchase,USD
+a73a0a3d-14f1-4bcd-8998-7666dd3f662e,2024-09-22 08:41:38,926e561c-b8b5-43e9-8422-27493a734c85,Santiago LLC,243.52,purchase,USD
+0fe7ac99-681c-4145-8e19-6d334502ebe3,2024-10-17 10:47:21,79293542-b602-4da8-b7ab-efc4295d5c98,"Fuller, Bates and Johnson",471.73,purchase,USD
+7ffc3dc5-58be-421b-9384-ae741082d93b,2024-04-03 05:15:11,ed0c33dd-fc87-4e47-8938-ecea1c70bbd4,"Becker, Vaughn and James",682.28,purchase,USD
+dbf7d648-731a-4a92-9798-d42cb618ffc3,2024-08-25 13:53:50,85cd06fc-31fe-4c68-93f3-376900baf5b5,Dickerson Group,175.87,refund,USD
+3a81dd33-52d5-40d6-b425-7780b50d1181,2024-09-23 16:08:50,4d3fe564-35c9-497b-8285-9b129ac3232f,"Davis, Mullins and Conner",316.63,purchase,USD
+e3023cf7-5ce2-43be-9027-91a9dccc44d5,2024-09-30 18:44:24,22bdf3d3-243c-4d3b-b6ab-a0cc50f52416,"Stewart, Cox and Henson",320.18,refund,USD
+0a2e6afd-9116-4304-bbbf-13067800f12e,2024-02-08 20:53:24,458581c2-9024-4814-9b77-46add8d5f7d4,"Warren, Wade and Mitchell",609.17,refund,USD
+df67af62-1d10-4412-9a84-cfb8aeeaf1f1,2024-07-05 15:57:23,d78c41d0-e6c6-453a-9c9e-20f39a931e83,"Daniels, Howard and Lane",682.86,purchase,USD
+9e4c579c-d711-437c-bce2-fed02d40b041,2024-10-13 13:51:21,80080131-fd3e-4070-a067-940d29943754,"Brown, Conley and Jackson",714.88,purchase,USD
+657a8843-1cdb-4f17-93ab-f73ea8d94c60,2024-09-05 21:59:59,099055b8-4688-4759-887a-55d942efb9ab,Shields-Conway,600.1,refund,USD
+80bb2847-304d-4319-a51c-55ab6c0fd18f,2024-05-23 13:18:34,d0d50908-fb0d-4651-8194-6a93bbf45229,Kline Ltd,171.46,purchase,USD
+5a8fb8e4-528b-43cf-b2c3-c2fd2085c43d,2024-06-16 01:27:41,4ac57e8b-e6d7-42ee-b16f-fcd7670a0909,Bennett-Fischer,632.57,refund,USD
+f24ac967-4621-44d7-a12c-11e17812e15a,2024-02-16 05:34:08,fc96cda8-3253-4dea-a6be-e03480595026,Noble PLC,188.43,refund,USD
+f4a7c8e5-90e2-4647-8cc9-728a00964291,2024-02-22 23:36:05,9b2bff32-0f22-439c-9456-7121340a285e,"Conley, Young and Mcclain",290.95,refund,USD
+0d3be7bf-f498-4153-8d9a-bd604675d1b3,2024-09-05 13:39:18,4e023dad-8b7a-4291-a7ec-14d8fbed0e9b,Collins-Leblanc,800.19,purchase,USD
+95cec5c7-675c-4059-848a-00ce4f0d992c,2024-05-07 07:41:12,cd4f9155-48fb-49ad-87dd-3e7274f51a33,Perez-Morse,684.36,purchase,USD
+1cc732ea-0935-4aa5-b53e-6eafccce6773,2024-04-28 14:20:17,3b9e8370-b86a-4a4e-9dcc-edf064196add,Gallagher-Hudson,208.74,refund,USD
+f1b18288-4f5f-4b7e-9efa-23f9f3553b6a,2024-07-30 20:45:37,25e11139-b575-46f5-b771-8aebb7d79bf7,Jones LLC,127.82,refund,USD
+57a625aa-0143-49f8-89e2-c8e109f22134,2024-05-17 05:17:52,5e8fb3f8-4242-429d-a5f8-41d32f4271b6,Anderson-Hayes,261.25,purchase,USD
+49bf3405-49d6-4a16-ad31-247731c9b7a1,2024-02-27 07:21:46,b4b79e89-8129-48f8-b011-7753ac48cea7,"Harding, Rodriguez and Castaneda",304.47,purchase,USD
+c43cdb95-533c-43da-b8ac-87f7eec6f579,2024-08-18 12:39:26,e242be49-aeeb-4a26-a27e-27b7073d1870,Fowler Inc,191.21,purchase,USD
+2b994677-b9d1-4f0f-8f82-573a9e3ed316,2024-04-13 12:47:11,919295a0-760b-4a45-8cd6-8d696a690840,Johnson and Sons,42.1,purchase,USD
+ead77d20-640b-43b3-9c4a-3090f3916a80,2024-09-03 13:19:20,3b040a60-873b-4230-9d00-e2e6d6a5ba38,"Jennings, Holloway and Crawford",456.0,purchase,USD
+160b5ba4-7dc7-4f81-9926-5f9210c2e6dc,2024-02-25 09:10:01,02509070-c4b9-462b-8b42-282baef3f82e,Sloan and Sons,645.63,refund,USD
+444a5721-5e84-414f-9787-82207656cf2f,2024-01-10 05:48:17,98483aec-4a8f-4bbc-9998-127c700cf548,"Johnson, Collins and Henderson",69.1,purchase,USD
+53ca117b-039f-4596-a868-21d81dd0cc02,2024-08-19 06:05:05,3c5c5a6f-5c9c-4e2c-ac40-74a6c6e4c294,Duke and Sons,986.77,refund,USD
+a8956c82-9d66-4f0f-bb99-03ca57d805b0,2024-06-09 19:18:24,b431a3e0-417a-481f-b0fb-d1974bd0508c,"Martin, Brady and Jones",478.0,refund,USD
+5fb008c0-db4b-438f-b900-8f8cd6e65548,2024-08-27 13:22:38,46596705-daa6-40e0-8d3c-1eb3628defe7,Orozco-Ruiz,394.14,refund,USD
+5c3de641-5e26-4936-b2ef-837420042f6a,2024-04-22 21:41:42,866d57dd-f244-457b-9ba6-94db307b17de,"Evans, Frazier and Barton",535.58,purchase,USD
+ca3b0551-b9b6-46a6-9b93-3be58f28ac84,2024-08-31 07:35:15,9b833725-5fb5-42af-bd08-e533b7b3b64b,Walker and Sons,130.05,purchase,USD
+f6ba70d1-54ae-4bd7-b83a-757afd4541ba,2024-04-06 05:47:04,7650e2d6-df7c-42d5-a3be-ab3a47158488,Oliver-Villarreal,371.21,refund,USD
+6827d4d4-67f1-4a54-814c-a7e9f5ee95ba,2024-01-02 11:45:50,be142bec-c1ce-4009-8608-139a62d65d3e,"Curry, Horne and Robbins",723.82,purchase,USD
+525cbc23-7359-47e9-bcd2-46c7302eb331,2024-09-23 13:48:51,d1fc8bdf-d8a3-4151-89ea-13a777a834de,"Garcia, Jones and Smith",283.65,purchase,USD
+d26f63e0-0062-49e1-a1a3-a987850a9958,2024-06-11 19:45:43,71fc9ead-4d20-4405-b300-45deadc8a610,"Whitaker, Keller and Flores",160.63,purchase,USD
+59dc87f3-deab-4204-aa9c-ec450b30cd21,2024-11-26 23:38:53,7588762e-5998-4eeb-8a14-67628c9087cc,Davis-Barrett,578.0,refund,USD
+22cfad66-4816-48d6-80ce-f2a8e366607c,2024-10-30 06:22:38,b353af6a-f01e-497c-a0c1-1a63efac2dac,Calhoun-Robertson,462.74,refund,USD
+d7a2b200-fd00-4f8c-a440-88eb7c8232ff,2024-11-15 15:47:42,0cee9d2b-3a9b-4e93-ae44-d9bc19c89fc7,Anderson Inc,72.7,purchase,USD
+6b5e6a54-114d-4b15-afbf-3504c29a8ec3,2024-05-28 10:19:43,2637f4ad-5fca-48cb-ad5b-62fda368d4ca,Harris-Hill,23.0,purchase,USD
+94fd03b5-e902-4211-b7b0-4a0dca5d8895,2023-12-21 11:03:10,8a3b4fa9-cb54-4667-abf0-b5898af7db37,Hall Ltd,750.35,purchase,USD
+c3a65a25-7b53-45a3-94f1-852e10a15e30,2024-02-03 01:04:50,93e9d304-b3d9-4b14-aba2-582e7ba81575,"Davis, Nolan and Jacobs",224.02,refund,USD
+cb458664-0032-4ea3-ab8b-4c04db4b5c9b,2024-04-17 16:23:37,aea6c234-4a93-4426-80c5-f8c37bf1ba1d,"Greer, Beltran and James",775.29,purchase,USD
+627b52c5-55c0-4385-8ab5-1315099b1724,2024-02-09 22:24:15,ed4511eb-cee9-4ee4-a3cd-96050977b079,Foster Group,174.69,purchase,USD
+a1d96f54-107d-4264-bb1f-2bc2fc87756f,2024-10-16 15:46:24,07d72161-ba05-474f-af26-8a66effb8bf8,Hunter-Thomas,757.54,refund,USD
+e4cce0a3-24ae-4e97-a1ba-9c122a3edeff,2024-05-08 23:20:35,ff4f6f6a-f917-48d4-8afc-0804d6cae843,Gonzalez LLC,57.84,refund,USD
+5b29a41a-b66d-4c72-a246-a1e8a201cf90,2024-01-08 03:21:35,d208b406-b9c3-4684-a79d-b5cb67ed9cb0,Burton Inc,53.41,purchase,USD
+5445b0c8-98d3-43cd-ae1c-b1d17c59e60a,2024-03-08 09:36:33,70745777-62cb-4146-8b89-ac0ce461a3e5,Davis-Blair,340.35,purchase,USD
+5b2ef0ff-37d9-428e-a39f-71dea3f0cdd5,2024-08-06 18:40:18,a2c170e4-77fb-41d5-a55e-16d8df715e4d,West Inc,606.35,refund,USD
+e47dc5cf-ec91-4e34-bb4e-550ce46d3d19,2024-09-10 21:42:11,6575d1e1-e046-4606-9a96-4c5fc2a78de3,Douglas-Howard,628.29,purchase,USD
+e2b5342f-5725-46e3-88cf-51eb230e83e8,2024-01-11 13:30:11,65844409-c6f0-48a6-abe5-41a3d4885a9a,Kirk-Smith,667.19,refund,USD
+ffbfdadc-4be6-45d9-8098-d95536e4de20,2024-06-08 19:21:48,108066cb-db8f-4afc-996e-fe6fb9f2a998,Yu-Garcia,324.18,refund,USD
+ab81bcbc-64f0-4116-b79a-7d6a5cd2129c,2024-02-08 12:59:30,24455f6f-d809-41c9-944f-7ee8bde9296e,Pacheco-Valdez,335.91,refund,USD
+7a1451c3-e24f-4997-9751-35a1547b5b9f,2024-10-09 23:55:59,c6ff48e5-39ce-46be-93a9-76f64be7aaea,Jackson-Smith,424.64,refund,USD
+1d7b84ac-fadc-4167-8fd4-f2cf9973c50d,2023-12-24 11:40:46,4481de1c-71a5-47cb-bd31-b913e5f9fb1c,Adams and Sons,403.43,refund,USD
+6f7652b1-3512-490c-96f7-b3bc2334a9de,2024-08-12 01:19:21,8c3f6e10-1fee-46fa-a7f2-96058b88f38f,"Johnson, Diaz and Perry",225.89,purchase,USD
+7991950c-5c61-46de-94f0-b4329be90bc8,2024-07-18 14:10:52,467c51bd-0dfe-4a29-9a88-c845d4d1036f,Crawford PLC,516.5,refund,USD
+92f02e9e-0431-4069-9c86-beb68b223b56,2024-04-05 06:29:58,aaf0e0aa-e745-4506-9b87-ff2e57d7c1e4,Terry LLC,318.96,purchase,USD
+a9ea3d1b-544f-4b5e-9059-f4a31da9a09d,2024-01-21 22:07:52,73cc46c9-cb93-4a0f-86c0-b60dc64402f2,Singleton PLC,726.02,purchase,USD
+bbfd42a1-b45f-49e9-acec-a917bdcf5ef7,2024-10-20 13:27:00,f4e5b86e-a6ad-4b29-be56-5b21c4934cff,"Davidson, Marshall and Williams",814.94,purchase,USD
+1e9457f5-4e23-4940-99d1-cdb37ac213c3,2024-10-25 07:12:55,afebd462-82c4-4f62-b4e7-0bcaf858d6a6,Wang-Edwards,123.4,purchase,USD
+2e17e738-f6d8-462c-a7bc-0d6c880d9475,2024-11-25 18:32:15,7907f7ef-4fbf-42fb-8e3e-9628ea35116c,Peck-White,928.59,purchase,USD
+483c4447-68c4-40de-9739-59773b26de89,2024-07-23 05:35:01,285ef4ca-5e03-4b5a-b42f-64a8b911dd93,Sloan Inc,144.55,refund,USD
+74a1681f-eca4-452a-8d0f-8d903837ff6a,2024-04-25 17:19:00,cb21a442-6546-4415-937b-a14c09f70be5,Gibson-Glover,271.19,refund,USD
+9033364e-ee1c-450b-abc7-5e1de397b36b,2024-05-23 04:00:27,52382437-c5c7-46eb-ba0c-2dd7a9153cb4,"Bender, Evans and Kim",640.85,purchase,USD
+b2fbc615-17ba-458a-b804-dda7a8b01e61,2024-11-26 13:35:56,636160ff-6871-4cfb-be6d-20772d2b59e5,"Hall, Phillips and Thomas",303.22,purchase,USD
+ab3a6dc5-232d-4f5c-b592-09cbb1e6a680,2024-06-04 07:53:15,d143e114-5a03-46fe-96e3-7a131ea0749b,Brown and Sons,622.37,purchase,USD
+d1e7733f-cc88-4eac-87f5-16cf1ad519c1,2024-02-10 17:05:51,e69a3a84-04ed-4dea-9f02-37a095abaf4a,"Murphy, Bailey and Golden",736.34,purchase,USD
+0fed6e74-2542-4536-aafe-cba8068edd45,2024-01-15 21:53:15,95becb10-8829-4a38-ae4f-be4add8fc857,"Collins, Smith and Jordan",34.01,refund,USD
+09c9dafa-4673-4be1-96f9-5a8876ca59ee,2024-03-06 14:08:21,bc1fa343-d9d8-46cf-8db5-e061e2859b38,Dorsey LLC,398.68,refund,USD
+a10fb083-1332-475f-8cbd-5bebb25d60c9,2024-03-30 15:48:58,54d2cb06-f242-480c-84bd-13967c0e5589,Ray-Martin,819.5,refund,USD
+ba19bbfa-3818-4af5-8e75-1ee3aba510e2,2024-08-04 02:40:20,723744a8-4b8d-42bd-8a3e-3e26257e38a5,Rodriguez LLC,116.78,refund,USD
+cddaed5c-1937-423f-95f9-4dc05e1c461d,2024-08-01 23:35:11,b3660f1d-20bd-4d18-9634-1a71da0757a2,Wagner-Erickson,79.84,refund,USD
+206734f3-33b9-4896-8ab7-8a935b2ba27c,2024-02-10 10:32:10,c3b8d7f8-2c70-44e0-85b2-fba9a53b41a3,"Ruiz, Ellis and Woods",884.77,purchase,USD
+83d480bb-30a6-4f71-ab8d-acd347da837c,2024-09-06 16:55:22,48532947-9513-44b5-b4c1-934859e8c84b,Ruiz Group,764.38,refund,USD
+74b8eb4b-ffb8-4229-af78-4f6513cd5926,2024-10-19 03:43:41,943608a1-aa49-4f6a-ada9-0f987cb27311,Schmitt PLC,11.04,refund,USD
+deac85d5-3437-41da-a077-8be4bacd61f2,2024-11-28 08:13:14,25ac4fc8-eb38-4b42-9fd1-c1f76829fe5d,Adkins-Hernandez,148.47,refund,USD
+d3fc7c2b-d3ab-4e4d-8e8d-8bd877904e4c,2024-05-27 03:01:16,94a38bb2-649a-4fe0-8a36-80b2913b969b,Carter-Lopez,766.55,refund,USD
+377971f9-11a2-47a6-bf35-428612cd46fd,2024-06-07 06:14:59,5f77b892-8c38-472b-a7ba-0cde5c534b8a,Morris and Sons,957.63,purchase,USD
+266d8efd-2b98-43c3-90f0-faaa8d706e9e,2024-07-05 05:47:34,e3c5b67f-c1f6-4cb2-b73c-6e56a7c0f670,"Patterson, Robbins and Knight",930.31,purchase,USD
+1643caa9-7167-4314-8337-ad6e1e517a26,2024-03-24 16:29:14,f63bb39b-f6e3-438e-9a7d-7180d36c0923,Gonzalez Group,209.23,purchase,USD
+0c6efcd5-7a41-497d-abe3-e9f89972312b,2024-06-11 20:27:22,53396b5a-3c38-4caa-9f5b-1abfb1e7ed03,Hines Ltd,557.79,purchase,USD
+751d0aa0-ad42-409c-88a3-e0d100b431b9,2024-08-09 18:14:45,09549c27-5d57-4e69-8e91-8ea862d4a323,Washington PLC,34.83,purchase,USD
+dbd5e160-af70-4af5-b15d-bce8580ac633,2024-05-17 08:12:32,ba1b5968-ff39-41b1-b07b-ea1b2de09df9,Jackson Inc,201.78,purchase,USD
+b9f193b7-9cd9-47ea-89ec-7f7a3040584c,2024-03-02 10:52:22,bb4cf55b-61e5-4b63-b218-8104ff57666d,"Montoya, Hill and Adams",420.03,refund,USD
+b493b0c1-bbed-4211-a74e-9e51d76328ae,2024-12-01 22:38:25,dddbd8b9-858a-4ce9-8e18-69b240af28dd,Baker LLC,783.12,refund,USD
+0247d23a-f149-450f-98c1-2dbc6c0bb6d4,2023-12-27 05:35:22,9ff87854-7a02-4631-ac9e-0f40ffa75ffd,Pearson LLC,258.71,refund,USD
+5955671b-a6f9-4eea-b4bb-aeb036ec2783,2024-02-12 10:33:22,bb643cc6-f4f8-4a8d-9c20-51530923c78e,"Martinez, Thomas and Jackson",739.47,purchase,USD
+d8ffe2d3-0d4d-480a-b4d4-b59495e80aba,2024-08-22 18:36:51,9b9870b1-9966-4e39-b6cb-f490495165a9,"Campbell, Steele and Rollins",854.64,purchase,USD
+8f8fae66-c1a1-4e19-8848-1164b2dd5476,2024-03-24 17:40:39,d601f29b-cfd4-490c-b93c-394b4f339afb,Bush-Terrell,882.59,purchase,USD
+4c1e356e-1c68-4933-8c7c-ca4412d1b350,2024-07-24 06:01:55,ba90c0a8-6cb4-43a2-be72-737c8bb3528c,"Ellison, Green and Bailey",866.15,refund,USD
+c6290314-cf08-4a63-a473-08c954f87a92,2024-09-05 00:56:16,3cba61a2-cc8f-49b3-8e3c-dda23928d5ef,"Martin, Wilson and Lopez",100.6,refund,USD
+280e0819-98e7-4087-8ff2-302a39052e54,2024-02-23 15:36:38,c9e4d089-3a06-426f-95e1-e85c6e77e167,Wilson-Reyes,274.7,purchase,USD
+5bc806b3-ecef-4746-b9b5-7e75bc15cbdf,2024-09-15 12:38:16,98abe401-cdfa-4ec9-bebc-08bc4d4a8c68,"Ross, Johnson and Pearson",859.73,refund,USD
+5d82fa59-9188-490b-836c-cb095c6810c2,2024-05-22 16:46:40,b4708114-29f7-417c-b0a1-be9daae99f9c,Sanders LLC,359.5,refund,USD
+9efeda05-a789-4912-8075-0026564b5eb7,2024-03-09 03:13:51,2dcc6944-ff1b-4c80-97f7-bd9835bcb95b,Crosby-Erickson,689.87,purchase,USD
+aeb3a250-2741-4508-a180-f477a809f8bd,2024-02-01 17:17:20,5b87dcd3-d60b-4fd2-ad25-66475d951d50,Wong-Armstrong,45.03,purchase,USD
+9b376da6-4fe5-4b38-9f8d-20378282e045,2024-04-30 00:23:08,c1bec6b8-e6e7-4eb2-8c1d-05c1189a6b6c,Stewart-Tate,584.09,purchase,USD
+d02a0d25-4730-41d7-93b4-4be9c0f4ee6d,2024-02-04 00:34:14,e1c19444-7f7d-47c1-9744-9305d16010ce,Pierce LLC,327.83,purchase,USD
+1cd30c13-1f6c-4416-9f25-a8e9720ffc14,2024-01-30 11:50:20,92c2ddd5-ab1c-4def-a0c2-5639f30e9599,Buck and Sons,435.62,refund,USD
+ff6e9327-6c06-4d5e-8d50-923fcdf29b58,2024-06-07 23:20:04,b030ffa4-29cf-4cca-95aa-690a85a7ca49,Matthews-Fleming,616.87,purchase,USD
+0b8736b5-e295-417d-89da-b56216906f7b,2024-11-28 00:35:44,d2068833-f6ca-4e15-b04f-9dbf35aac325,"Hicks, Owens and Brock",89.16,refund,USD
+25d27e0b-adf8-4ec7-af6a-f72f3bbf2706,2024-06-06 22:39:33,d0c67d6a-d55f-4c25-9528-69fc4cba5880,"Lee, Hampton and Bass",649.18,refund,USD
+ddfbe7d8-89b4-4878-8c01-c3a34d1eec93,2024-09-17 02:11:47,58823ea3-55c4-46dc-8a5a-7936614687fc,"Macias, Villanueva and Mclean",769.84,purchase,USD
+5e7444e2-a828-4e42-bcc1-b58e04ebfc87,2024-10-12 06:00:45,5679c43b-9b93-43f9-a5e3-13e995a1824e,Hernandez Ltd,315.45,purchase,USD
+f3c4340a-8536-4ff5-8c99-da5a5dd572dd,2023-12-27 00:47:12,f9719892-03d0-44e7-88be-cb3622e3d988,Boyer-Cox,809.4,purchase,USD
+1d32d65f-54ee-4416-8a54-c1c5cc3213c2,2024-04-10 03:21:55,97ca2cfd-e8de-411f-ae5e-d478f7fbc6b0,Fletcher-Oneill,894.6,purchase,USD
+74c576c8-043c-4f07-95f6-5ff30bcf4be7,2024-09-03 23:01:07,e271fee7-b6ce-4606-a29d-115d2d4c55d7,Rivera LLC,950.85,refund,USD
+bc6c97b7-7c6b-4b8e-82e7-e7dc697c0560,2024-06-27 09:01:47,da097c98-3e03-4bc7-9684-0c7aaf040f5b,"Huff, Wells and Salinas",701.46,refund,USD
+4ca1194e-a80c-417e-a041-0d0db3c04f1d,2024-08-31 13:26:45,5859c5e2-f1a0-491f-8e6b-44a88b4ada3c,Jones-Brown,404.76,purchase,USD
+fcefc19f-db19-4bc0-a886-d053f1b622ed,2024-09-16 01:11:56,1032d372-a752-43e2-aa73-5a0bab3af094,Hunter Ltd,248.84,purchase,USD
+5507fed7-220f-467a-8d17-960deee50b8e,2024-08-06 18:36:12,677d0e47-171b-41c1-8713-f1c830587c23,Shelton Ltd,962.48,purchase,USD
+99bad689-e69f-4410-9cc2-b850445f9226,2024-09-04 16:09:25,e9be1a3f-56ea-4f40-a536-7b0b7de80d01,"Cowan, Drake and Jacobs",219.03,refund,USD
+f81d628f-a717-44cc-873f-1c1c456b78d2,2024-08-30 13:17:38,85242d46-70a9-4296-84ad-78d0d85b46aa,Powell Group,960.75,purchase,USD
+2f86e925-eb0a-470e-a9ff-ad151d47fd7f,2024-01-11 05:30:32,f01a91d3-44c9-4d43-9e7c-51dede0f9599,Campos Inc,882.15,refund,USD
+cb611caf-f816-47a2-8d09-96a9d5ca40be,2024-01-26 13:13:23,8f7cb319-89c5-4a79-9af9-308d0d7aa798,Massey-Gibson,840.88,refund,USD
+61bf77a8-d5a6-4fb4-9040-3fdad503342b,2024-06-01 14:15:19,bb8e9a17-b88b-4a09-aa2e-2b304f75a84c,Clark and Sons,456.28,purchase,USD
+c543b70d-a28b-4aa8-858b-47d93769d68e,2024-01-10 04:22:13,16700b9d-99f4-41d3-9aac-35c4eb16765d,Rangel-Kennedy,541.38,refund,USD
+b8f2ac73-f0bd-43d7-8975-a2999a9ee025,2024-01-13 17:44:40,bcfcdc20-aecb-4314-9cc6-d0e2918b6792,Moore LLC,896.11,purchase,USD
+93645d69-4f72-4d9c-a0df-3c01156ac910,2023-12-12 13:30:30,a0ccdfe5-aee3-438f-87b1-6f0abb87a8db,Fitzgerald Inc,553.19,refund,USD
+a3fc1cb9-4e02-4e50-b1b1-a1a9e3afa645,2024-03-22 20:34:40,ea43ce7c-7625-4001-ba50-68b3cc56e7d2,Cox Inc,429.89,refund,USD
+2f316b77-0237-4c36-b722-55850ea32735,2024-01-19 00:34:47,136c65bd-c3ec-4d33-8c2f-1d6a34a6cb7b,Shepherd-Castillo,400.54,purchase,USD
+0d072c9c-45d8-4222-b39c-895f737a43ea,2024-05-07 16:43:26,f91d560e-23ee-4d97-bcea-0f5a4ef79dd5,"Castillo, Pham and Aguirre",810.67,refund,USD
+91e9b331-e7f2-43c0-b983-292f7c7b2ccf,2024-10-13 00:59:51,593e87ce-a246-4b7f-a269-18470cd16f4c,Mitchell-Guerra,660.43,refund,USD
+f0cb0675-2179-4997-8454-d6a39a7013fc,2024-10-15 21:52:12,6cada9e4-37e6-4d2e-b4d2-fd62e40ad863,"Hansen, Rice and Flores",487.09,refund,USD
+fa48493d-7a85-4390-aced-f5f82e335dce,2024-04-17 02:08:40,4c42f6e2-e664-49cb-9cb6-49a6145fef94,Dudley and Sons,63.81,purchase,USD
+ef884b3f-08eb-495a-b17b-2ea8606b23d0,2024-10-21 16:32:57,437b9930-4ddc-4080-bc69-21f97884f258,Hernandez PLC,626.46,purchase,USD
+035b1549-a558-40c0-b6ba-3357db00948b,2024-07-27 04:09:03,702a659f-b781-40c4-8a0a-390b1de0debe,Carlson Inc,905.27,purchase,USD
+0e36a135-3213-40a0-98ba-d1a620660785,2023-12-29 23:39:04,f1e1d311-1fae-4851-84d9-855ee60a1c7c,Ewing-Walker,555.99,purchase,USD
+9b842e9d-ef32-4786-aedf-fbf0781cd49d,2023-12-19 06:20:33,70015123-311a-4ee7-93ac-dfd1a32896ef,Barrera-Estes,494.87,purchase,USD
+dfb2f6d3-cac6-43d8-b05e-129756074f85,2024-01-20 17:15:35,a0d2bbd4-a6d9-4fb8-92a4-65b192725699,Potts-Gomez,565.78,refund,USD
+74c5db23-cd83-4a55-9e41-fd98af7c726d,2024-05-12 07:26:55,c88a3b89-247a-4de7-9334-f4ed0525bf23,Bowers Inc,585.53,purchase,USD
+97369a09-91fb-4ae9-b5ef-4691af9e1fe8,2024-04-04 10:41:55,608434a3-8040-4d0a-aaa9-7bad443b1cf7,Foley-Garcia,522.17,refund,USD
+c0893436-e40a-41fc-8cfd-e66926b6afb4,2024-06-25 05:43:25,5e3757e3-ee55-47b2-b55d-3d55c357d3a1,"King, Roberts and Norris",421.23,purchase,USD
+bd52586c-7b83-432a-9141-2326325d8c81,2024-10-15 00:43:10,50278a14-113c-4719-bf80-779fbf62aa1e,"Griffin, Evans and Bray",770.03,refund,USD
+6e40e472-6397-4b2d-add2-8587836112c3,2024-03-09 12:43:14,539d18a4-6b55-41c0-9cef-3a6310c881de,Wilcox Inc,681.91,refund,USD
+f749a1a2-f984-495c-8544-e4359bf98991,2024-07-31 16:46:05,3520da16-1cde-49bc-9def-f12ad5f7bf0a,Alvarado-Maxwell,766.52,purchase,USD
+57579927-d870-4ba1-a6b1-c16a2301b8f7,2023-12-08 14:09:24,587e136f-51ea-4080-8217-d22ee6102f2e,Brady and Sons,374.8,purchase,USD
+e40ab956-294f-408a-97c8-9af97271bea0,2024-07-23 20:07:51,b1ff0611-0125-417d-8c8c-065e332e9cea,White-Stewart,547.03,refund,USD
+1d38ace5-7aa8-48fc-950d-a791e2dd1031,2024-01-09 13:36:54,d02a9a81-e070-42a2-84e6-799ec3cbfd0f,Burns and Sons,912.21,purchase,USD
+957a5e33-ef09-46ce-a0cd-2e1bf81512e7,2024-05-21 16:02:26,5895b866-ea69-40f5-80e0-24f43a01c9f5,Jones-Vasquez,481.05,purchase,USD
+faa49b48-24d8-4c88-b5c0-7d608d8e75ee,2024-03-18 22:03:23,db8bbea8-5367-4e31-8516-7c12c6ece060,"Berry, Morton and Rivera",780.35,refund,USD
+be41e0c5-ff1f-4222-bcb2-c72a526b5f4a,2024-07-01 20:00:31,dd1e7607-6db8-4952-9daa-de7090718e0e,"Ellis, Reynolds and Ramos",137.31,purchase,USD
+c8700cc5-ca30-4aea-8a31-a14669751d1a,2024-11-24 05:53:50,2a3fbe80-0ef6-4cc9-a472-02ca0bef8a93,"Callahan, Washington and Crawford",673.27,refund,USD
+cc630e32-a40b-4a6d-83ea-bcfa6aa775a6,2024-03-07 19:00:29,8f7d08ce-f7e2-44fa-be2f-1d8f4c2c2138,"Johnson, Barnett and Burgess",716.23,purchase,USD
+16d782b7-8c8a-4d6a-bffa-6b92da75c73b,2024-09-05 03:35:53,abd2641b-74ab-4cae-91e4-26c544ebab21,"Miller, Owens and Ingram",700.44,purchase,USD
+3a125749-c5db-4bcf-a277-161a4037de42,2024-10-06 14:47:50,fc36ba6f-f280-4a98-9384-f8446c417f92,Rosales Inc,768.13,refund,USD
+05611a62-938a-43f7-878e-8281d224c3b0,2024-08-30 00:04:46,9a8314df-a758-4c23-8947-f6184e2c11f5,Hansen-Foster,111.57,purchase,USD
+4a1f932a-b851-4b25-bee4-022fdae7f782,2024-04-26 11:40:41,fabf06fe-90d4-4a39-a309-f4b4e7b6ddd9,Long PLC,481.26,purchase,USD
+850cfc45-0667-4e21-b613-c8f24fe7a572,2024-03-10 13:34:05,d2b4bb03-ea8f-4b42-ba62-225fb42b2c33,Pope-Bass,868.42,refund,USD
+eed7a6ef-419a-4fbd-b441-4698657559d7,2024-03-02 21:31:19,ab603411-9262-47a1-b619-81c3a1f5aeaa,Ramirez PLC,767.84,refund,USD
+e8b9edcc-6e67-43c0-83f3-c19d1cecf7cf,2024-11-24 20:45:06,c00bf83f-53cc-4999-b144-ddb0179dece8,Knapp-Tran,490.69,refund,USD
+f5d1c38c-57a8-49fd-b1ae-bfee40c27925,2024-07-12 21:15:17,29b2116b-4b40-4cea-a598-581d366dc5a7,"Garza, Stewart and Klein",332.42,purchase,USD
+338fdd8c-fd29-4266-8b1d-50941e3efa5f,2024-07-11 05:00:37,893c8417-e6a7-40c4-89d7-c19c7eaa7e45,Campbell-Mcfarland,189.08,purchase,USD
+b2ae84f3-7b30-46a1-84b1-5970671e8671,2024-09-21 18:21:18,1ddc5517-5812-4c89-ac82-c3a6514696e6,Robinson-Gaines,773.46,purchase,USD
+9b3c51c5-aad8-4937-bc0a-9f67f8caf5dc,2024-07-06 22:32:53,dda70474-ac56-4727-9642-21fe0d882779,"Lee, Cox and Walker",676.29,purchase,USD
+bc247e57-d3b2-4adb-ba4c-578d753b1f42,2024-02-28 13:03:10,fe353cea-639d-4c92-b22f-fccb272b8ce9,Harrison-Liu,482.2,purchase,USD
+39186120-4fa7-4cd9-90b7-8949b3dbc3f0,2024-05-26 21:49:19,6f1f50c4-6fed-4077-b9b4-9f88bef168ee,Jones-Ellis,775.46,purchase,USD
+6e7b92af-2ef6-42d0-adc3-49907f06bad5,2024-05-22 06:39:13,fef21bfc-f857-4f6d-869b-45e32a594513,Ford Ltd,16.45,refund,USD
+71b1e9f5-9083-4cef-892b-779bf7ce9655,2024-05-05 12:16:55,57fb317e-7cc7-46a7-8bde-0b915b0cb2e2,Wilson-Martinez,409.04,refund,USD
+fd594fc0-82de-48c5-ba76-eb92cf5b7e36,2024-03-31 00:43:23,fe20a6a3-fb7b-4792-8a66-000725c52483,Woodard-Gonzalez,843.91,purchase,USD
+d729fe83-548d-4e0f-9720-2faa20da7fa4,2023-12-24 12:19:26,f6f8fec8-8061-46f3-98b1-6efa18200d5a,Gray Group,766.22,refund,USD
+513574f0-4ad8-4744-a914-060c892e9b7a,2024-05-25 21:38:18,87d16a6f-7f91-4fb6-9a34-d0da412d9d02,Johnson-Guzman,810.76,refund,USD
+f7239f82-d6f1-4e3d-ba4e-cc7dcd48879b,2024-03-25 01:03:05,c4a90257-4d3c-4fb7-b1c5-88432277ad08,Bennett-Farley,583.09,purchase,USD
+8c74b48e-199a-416d-87a0-1949cd145a36,2024-02-01 03:40:50,6f968aac-95f3-4396-a1fb-f085fa2d5600,King PLC,686.67,refund,USD
+62c997de-9011-4c35-9c8e-c79cda8bd90b,2024-01-12 01:57:34,35968753-1214-4d0f-8ea2-996abde9bd02,Turner-Poole,718.87,purchase,USD
+5b107ba6-4bce-4152-b817-1f6d83b03505,2024-05-16 15:40:16,b6eb6768-c896-48c1-b0f0-b314ceffaf87,Smith PLC,397.54,purchase,USD
+df69c3ab-f9ef-4d11-b459-0109d7419e01,2024-01-15 03:11:09,031aaed0-8348-4c0b-8962-2fd3ce20e475,Pham Ltd,429.61,refund,USD
+bdb59a1b-9dc0-4092-9153-cda8f2ba8690,2024-08-06 17:53:30,13850e3f-8e9f-42a8-a2d3-4c7a21b6c89a,Flores Inc,778.21,refund,USD
+33029a2e-f606-4b85-8ccc-713b1197902a,2024-05-15 11:55:50,2ef41a50-858a-4baf-b4f8-e3e08b08a1c2,Smith Ltd,790.79,refund,USD
+a63e0ab2-0f3a-4db5-87fd-a6d0c2db6130,2024-07-12 05:48:17,6587fcd5-f5fe-4976-aeda-5d7cc8b3be93,"Young, Fernandez and Williams",781.74,refund,USD
+4e165a97-09cb-4e19-aebe-5a9cfcb7649b,2024-10-29 08:28:53,1d1bf6f9-d501-4869-8df5-fa26c75dadc5,Horton-White,780.23,refund,USD
+15590dc3-8f68-4395-9975-148012b8128f,2024-09-14 13:11:19,bbd98229-a2ee-462b-8799-6809efcab6d9,"Abbott, Short and Meyer",454.17,refund,USD
+e6090dbf-74d5-4fa8-adf4-49ae9d23b03d,2024-02-17 23:25:47,ba668f2c-7c5f-4e29-af20-56eac9e3cd41,Wright Inc,105.33,refund,USD
+bdcef2a7-555b-486f-ad1b-b5380023ca0a,2024-05-11 19:56:40,ef1f76ff-85ef-4938-b3c3-893dc210566a,"Brown, Benjamin and Baker",689.14,purchase,USD
+1e8c5f04-9531-4171-9e90-444850d99711,2024-04-29 21:34:45,29fda8f6-0b89-48d4-bdc4-1f4a37035448,Campbell-Blackburn,725.95,refund,USD
+9c0d3084-01f0-4464-97f6-322094b86814,2024-06-22 11:07:34,1af838aa-f5e8-4908-9c73-f76d0d7e70af,Wilson PLC,127.91,purchase,USD
+5addb007-c3eb-4f09-8c84-6f49cb777445,2024-01-29 21:43:18,fcc8ed36-3316-4db2-abef-67aad71f9b8b,Spencer Inc,588.31,refund,USD
+f6f91c86-4069-416c-b203-8bb8bc634ebb,2024-11-13 05:06:22,f4bf0eaa-5356-47d6-a114-30430a926b51,Chavez-Santos,525.34,purchase,USD
+9daaa689-e362-4044-aa44-7db8432e5ed7,2024-06-04 11:56:26,af1a117f-3dda-4b94-b632-dac3472e7b85,Pena-Foley,354.02,refund,USD
+c5984c70-69a0-4ee0-b8ee-48561b564adb,2024-10-18 06:51:26,c7bf5dc7-5794-4e74-aeb9-1976563fe348,Jones Inc,703.64,purchase,USD
+03dc1368-1682-4c3d-8c3e-e6beb9ae7cb9,2024-11-20 10:55:49,5b3bf828-659c-4ada-990c-311ffd95e68e,Carson-Griffin,772.78,purchase,USD
+c7fc320e-dea9-4fdc-a139-bac1b0ae4948,2023-12-22 02:59:00,73d7e05a-f68e-4ee7-a6fc-f8a23936764b,Mckee and Sons,697.66,purchase,USD
+163a6b2f-df52-40c4-8c1f-73d656a2af76,2024-07-14 04:35:52,4b8b2351-0fd6-49ee-86c8-8e0063b9911f,Chapman Ltd,308.95,refund,USD
+e03ecee2-5060-4b14-a11c-e07a5bea3adc,2024-10-12 11:37:33,227d87c3-3421-4aeb-ac09-ff0f4ae597a4,Keith-Davis,331.11,refund,USD
+70d16892-3b7a-4fb9-a823-39c203bc23c8,2024-03-01 22:47:54,a838bc82-322e-4922-86fa-00295578fac8,Aguilar Inc,5.36,purchase,USD
+05679833-01eb-4121-af59-a84a18636078,2024-09-07 21:50:40,82ff03e0-08f1-40f5-85cd-baee959b9bc5,"Parrish, Acevedo and Sanders",642.14,refund,USD
+00acfe2c-c942-4d40-b368-145fb005d441,2024-07-17 07:13:42,7209cc47-53ba-4eac-b273-f0b3390e2e23,"Roman, Anderson and Daugherty",555.27,purchase,USD
+57e365d7-315f-413a-b06b-6f518d5c7cac,2024-01-29 08:50:54,7b37a478-d4d0-43be-9503-cef5f76ec951,Cruz-Shaffer,924.63,refund,USD
+edd85b3b-d22d-4c28-930b-db815f1d4370,2024-05-27 22:52:32,6d1374e3-cf09-407d-94ec-61d5a6a955a1,"Lewis, Miller and Price",812.82,purchase,USD
+04a10cfa-1d27-4f4e-8576-84b5276aa4b5,2024-09-10 18:32:27,50ec8fcc-224c-4a64-8d37-b5df609280c1,Obrien and Sons,453.2,refund,USD
+d275ed79-3ca9-4f6f-8704-d4b71c51b155,2024-11-25 20:25:16,7b072410-2585-4295-b03a-58f7c4c0e509,"Gomez, Morrison and Morgan",105.79,refund,USD
+3ef985c3-e3bf-4ecf-99b4-a3bb8343309b,2024-07-22 17:47:26,d1ef51a6-21dd-45db-b93d-8d15329c7acc,Lee-Terry,638.86,purchase,USD
+1530231d-7d3c-41dc-a9ce-89ae8368557a,2024-04-05 19:10:37,4ff304cc-c95c-4956-b29a-d119d9db4dce,Tucker-Flowers,610.72,refund,USD
+5487d16f-7989-4c2d-996e-afc9c9422be2,2024-10-26 11:08:34,29a4e040-08a7-4c51-b4a5-e1c0dd1485b8,"Johnson, Collins and Howe",776.34,purchase,USD
+1b91f3e3-36ca-402e-859a-359c256ad4ad,2024-08-05 09:04:47,47e59508-e4c1-4087-a6c1-c61162d3c1dc,"Jones, Johnson and Roberts",557.76,refund,USD
+1acc5614-9d3e-4f21-8db7-75530aedd3d9,2024-11-28 18:17:05,cd2d6178-a8fc-4be7-8cae-374cfab689b9,Jones PLC,734.72,purchase,USD
+5c3611ad-7502-424b-95c8-e54c8e4e047b,2024-11-26 22:42:56,0783cf42-a024-4035-9df5-be63e54fe035,Koch-Scott,453.4,refund,USD
+3a6e9f6a-aa94-4d17-9ea5-91c9f0730bb6,2024-04-25 15:49:00,77f4b2b4-d9d0-4af9-9e41-c3f047a5510e,Tucker-Haynes,447.95,purchase,USD
+b0724ab5-792d-45ba-b155-a2c37d4bf6c1,2024-08-16 10:01:20,1e64833b-1c5d-4ac3-be8b-2eb17a84e009,"Roberts, Flynn and Yu",287.71,refund,USD
+e60420b6-c25b-4017-9472-028764b8b46f,2024-05-03 12:21:36,dadf363c-a661-48dd-a687-43b249202089,Ramos-Larsen,322.37,purchase,USD
+f1497a7c-7294-4c0e-b856-1eedb092cf1a,2024-10-12 07:40:59,0d6d0b25-5ef1-4df8-8cd5-1d3f563f2616,Massey-Holmes,882.64,purchase,USD
+d02c43ca-13c0-4bd3-9333-7f7907f0b025,2024-06-28 11:54:33,907690a1-2a58-4072-9342-8967779e2d04,Scott-Hernandez,584.19,purchase,USD
+a8fcc7d2-4cab-4902-94a1-fc648981b105,2024-07-27 20:09:41,daaac45c-ab5e-4280-86dd-0b3c201b2254,Gonzalez-Allen,793.0,purchase,USD
+c506a7b2-7343-49f0-ae78-0737afc7484f,2024-08-01 20:09:14,9b9899be-82f4-4be8-bae0-d0d19c03854e,"Mercer, Hall and Little",948.57,refund,USD
+7f9a8438-54b8-4ba2-aa15-713c36b44014,2024-11-05 18:07:59,744947f7-e79d-4da1-90a7-bda7ebacef60,Mckenzie-Moreno,198.1,purchase,USD
+348cb56c-a02c-43cc-9985-a8cc2ad03a2e,2024-08-17 05:31:55,539da8c2-e3f3-44af-ad89-f28e8ccefed9,"Fisher, Greene and Martinez",76.3,purchase,USD
+113d9e6f-947b-4354-af7e-f2dd23635b29,2024-04-07 08:05:38,e7fb83b2-e458-4e6a-ac62-b3ee3611e0db,Russell-Bell,229.54,purchase,USD
+794dd046-3054-45d9-847d-2dd36f0006ae,2024-04-29 20:05:46,f5f7d8c1-22eb-4371-8080-4e6f829d007b,"Wilson, Robinson and Johnson",499.39,purchase,USD
+f4234530-8e1f-4e15-a1b1-48b0c21b0e79,2024-03-03 07:08:51,bab963b9-2913-496e-843c-ba131d59f223,"Wilson, Clark and Ferrell",430.1,refund,USD
+2767776f-d3e6-48ef-80fe-63b2fe1cb480,2024-08-30 14:58:33,d5347345-61dc-41f8-b617-91b9e8a5d266,"Dixon, Manning and Shaw",154.48,refund,USD
+ca70236b-2e8e-4e4d-ac11-314db6728680,2024-05-06 07:39:56,f2b4b75b-ea04-4bae-b445-575c1dfdfc45,House-Hudson,787.12,purchase,USD
+84554a56-3349-4325-b289-0640918c5048,2024-04-05 17:58:44,c96c7930-c156-4e90-9846-330882ca9726,Castro Ltd,132.39,purchase,USD
+cb4253ed-221e-4448-931c-7e4b1057a949,2024-04-22 02:36:08,6c833d03-ec32-48e0-8e60-a44648a88204,Day-Hodge,102.14,refund,USD
+1c407bc6-137d-4849-9eb4-83b2d411b033,2024-02-18 16:32:39,9271547d-d3af-4e75-ba41-dce06b4e48e1,Osborne-Ward,765.91,refund,USD
+8de627ef-b2da-4628-aa3c-dc1d1d03c8ff,2024-07-26 09:02:29,c6b9189e-fff5-4cd6-9af6-234dca1d5198,Cohen Group,784.73,purchase,USD
+8e30a8d7-a3e7-4148-af20-6663f498fcd4,2024-01-18 16:38:30,58622313-401f-4a02-99e3-44c700de7ba1,Lopez-Gonzalez,340.86,refund,USD
+62f1170e-5d52-4995-bd4b-ab2410c0fbbe,2024-06-09 06:05:00,e0fd9f46-ad68-4f26-a131-e48a32b00d21,Myers-Johnson,568.94,refund,USD
+5e4bfa99-6f2f-4ba6-a9a4-05f26a1d67b0,2024-03-22 04:05:13,18f7bef1-7540-4408-afae-07ed94c354be,Garner Group,969.97,refund,USD
+0d5013da-ebbf-4840-a2c8-928163ca2a5b,2024-02-22 11:32:56,e9d908db-4b8e-47f4-b991-999477555dcb,Wang-Young,243.58,refund,USD
+24c29e6c-71f2-4797-b4c4-18f6910c4ddb,2024-05-22 21:12:11,af41e3cc-3491-4a45-9933-bdf9efcec36b,Mcintyre-Conrad,398.67,refund,USD
+4ffea56a-8ddb-4970-96ce-ab8aee74ce26,2024-03-06 21:36:35,b2623ef0-adfa-4aad-8525-68598b61c99c,"Jones, Brown and Macdonald",123.81,refund,USD
+74d5da66-3a03-47e0-bce2-a10255aeee43,2024-05-12 12:24:06,bf1faba6-4911-4699-a0e0-540d3929439d,White and Sons,740.34,refund,USD
+dac5ca93-64a5-4321-95f1-799adc3e2c37,2024-09-20 05:04:44,a6c7999f-e166-4b9a-9afe-8e7373f1b3e4,Heath Inc,830.84,purchase,USD
+7ad546ec-63e4-4b8f-be85-db784cc33a64,2024-07-21 08:03:50,aaf87fc5-9a22-4261-b8a5-5720ce5e65f9,Tran and Sons,660.53,refund,USD
+c5e61699-17c4-498a-9cf9-1deb3770063b,2024-07-19 20:50:23,36ed8b7e-39be-46da-9de8-a7203638c1c6,Thomas-Sandoval,164.2,purchase,USD
+1c53eb57-bf1f-4549-9f6b-5cd7e8b9dd44,2024-10-26 09:07:00,7ef0f77e-4763-43ac-af0e-a640ee826062,"Simmons, Reyes and Thompson",332.95,refund,USD
+cb42f062-521f-4004-895a-8294338058f0,2024-06-05 07:59:53,2b019bca-c81f-42e1-8065-e1bf0ef0862b,"Perkins, Moore and Brandt",898.69,purchase,USD
+9d6713ea-2a01-4407-9484-07f3c4ba1c8b,2024-09-18 15:07:32,077bf48a-a119-491b-8ead-7c903dd0b4d1,Calhoun LLC,334.33,refund,USD
+bb16d075-be07-44a8-8188-1e118d56155e,2024-03-28 14:48:24,9ea64e81-2278-424a-a25e-49b09244ec15,Nelson Inc,75.16,purchase,USD
+b3f21d54-0d15-4396-9832-393d551e908c,2024-02-08 20:06:30,24ce7483-950e-48d6-9a62-6b1ec966b447,Tucker-Ross,982.06,purchase,USD
+dd22b6c6-2b24-4026-bf43-6083314461fb,2024-06-05 06:12:47,e9e57153-5eb7-4543-b3ff-1a4089f4fc00,Hunter Ltd,301.34,purchase,USD
+b0cff594-75b7-4175-a75a-1b09d0b80f37,2024-08-04 19:06:46,576eaa01-fa53-478c-abab-34535444ceeb,Todd-Harding,201.66,purchase,USD
+36d72ec3-574b-4676-9749-e810dbcef9d3,2024-01-17 04:44:36,d34ec419-0e7f-4e46-bdf3-74a4090243a7,Anderson Ltd,547.4,purchase,USD
+b926ccc2-74b5-4907-924c-364e6254a298,2024-01-03 00:18:26,94e79645-5817-472f-9b94-6989b4be06e6,Jones and Sons,456.4,purchase,USD
+8dff6a73-e231-46ce-a4ae-758fb3a32c52,2024-04-11 09:58:14,f139e1b5-fe91-4faf-b86e-82bf96be7825,"Turner, Burns and Castro",734.81,refund,USD
+e93a003b-ccba-4c58-9afd-058c45823511,2024-05-20 02:07:56,18a7999a-95b0-4d9f-914c-522af7493cd2,Wilson PLC,565.62,purchase,USD
+be5ed5c6-ccf3-4504-9706-c6b611380eea,2023-12-15 19:44:18,1a373264-050c-47a1-812e-2e41e9192b23,"White, Jones and Baldwin",13.95,purchase,USD
+f290c8d6-023b-4122-8417-e1374df32bf1,2024-02-23 16:32:32,5351f29b-c1f7-4d22-bcb0-0d0f80f065af,"Lowe, Schultz and Vance",499.35,refund,USD
+f9006ef9-e19c-4055-a819-32a4294da00a,2024-07-29 08:16:08,912bb82e-b7a4-4678-9d7d-d6e4da680dc5,"Mullins, Simpson and Baldwin",144.03,refund,USD
+4f9cecfa-a888-4aa6-843b-23701274efc5,2024-07-09 04:50:39,7e4d3b75-59b8-4f50-a3c7-62ae0296b156,Nelson Inc,840.99,refund,USD
+c06eb057-bd6b-4b4c-a66b-cd2a536bf7a6,2024-11-10 05:51:50,b53e77d3-ba43-47eb-bc99-23890e853aff,Smith-Thomas,454.77,refund,USD
+dc1b487a-dfbd-4795-994e-339310ef0e7e,2024-07-05 08:35:31,c354c85c-2f31-4f5c-ae36-2b7509fbf553,"Allen, Moss and Todd",76.29,refund,USD
+a75c633e-310b-4946-900d-b6bbd846ec8b,2024-10-13 10:55:12,940c3694-8f18-4c56-a256-e00c24067838,"Jensen, Johnson and Peterson",735.18,refund,USD
+4408e2d9-b65a-40e7-927d-172a8f004755,2023-12-26 06:55:16,35005091-5f1f-4ca0-8b83-6c928aec4a85,Bowman-Whitney,767.61,refund,USD
+f26ccade-d838-44ea-9ab1-48b97a9dec9e,2024-09-02 10:52:20,b3e0f0c3-9dc4-4fc0-a604-0637e49c9810,"Harper, Thompson and Harris",988.21,purchase,USD
+cfaa151a-75d0-4304-a8ac-3095e4cc3b54,2023-12-29 06:02:34,6582705e-56f7-4955-84b7-0a5c86e0ae6f,Smith PLC,206.6,purchase,USD
+3151da16-825f-44c3-b336-6513e975b756,2024-10-11 17:23:21,1aa2c625-c012-4db5-90b5-2792d502d584,"Brown, Rogers and Freeman",397.29,refund,USD
+a1922b8b-02be-4cc6-ba0f-68196408801f,2024-07-14 21:13:39,60df6d41-4ef1-4415-b965-f25a95f1ee17,"Valdez, Gutierrez and Peterson",952.73,purchase,USD
+44681356-8f05-41dc-bee0-dfafff720e06,2024-09-24 09:44:49,c8590ff4-f6cd-44f2-b0d7-fa8297a00cb2,"Guzman, Kidd and Krause",297.52,refund,USD
+f9733e75-075f-4d5a-87fa-a99984a15ed5,2024-08-01 01:02:47,8eefc65c-c9e9-434e-8fb2-586434c72494,Nolan-White,613.37,purchase,USD
+f43b0466-5ca9-4470-84ce-424d8508040d,2024-06-11 19:26:53,cc064233-b407-4bf3-83db-c6ad1972ca8e,Brown PLC,240.11,purchase,USD
+8135881d-f05f-40ee-93eb-66430c356c3c,2024-10-01 02:05:37,3ebe0bd7-c047-4830-aecd-2e65b397c10a,Brown Inc,188.38,refund,USD
+620a4442-6c9d-46f5-b6c6-c1ffe7d34469,2024-09-13 16:03:38,8782cf4d-6a27-4611-af77-d9406f46681c,Barker-Carr,577.96,purchase,USD
+40a9d20b-1af8-4549-bd61-e9d7b89e55d2,2023-12-28 13:20:30,a553bcd7-2e44-4e29-8cfd-c28c5f42f0a4,Gonzalez Group,170.56,refund,USD
+4419a587-f94b-46b9-a1a4-4a34c18aecdb,2024-04-05 06:35:24,387a986f-65a9-4698-a276-5784d83d2062,"Mcgee, Jones and Gibson",890.12,refund,USD
+93187c61-32c5-442f-b56c-7d0c02858e42,2024-06-18 00:39:18,c9165663-ddeb-4745-be89-5023175befbc,Rodriguez-Branch,469.6,refund,USD
+2278f25d-a24a-4e8f-9c1f-876a7aa5caf1,2024-05-13 16:15:53,50896bec-6d02-4912-9d4a-d34d1039efcb,"Arroyo, Gill and Robertson",719.58,purchase,USD
+83f09bcf-446d-414a-a5e3-0206b67c7e5d,2024-07-25 10:47:30,e2be0eda-705f-414d-8498-ab5bc1260598,Ortiz-Morris,223.98,refund,USD
+376b2d21-ac18-4d14-8335-c7a4b56b867e,2024-05-27 17:14:33,04a2b169-9b4a-43a6-9e24-38b2575238fa,Rivera-Andrews,472.32,purchase,USD
+7f05a6ab-ed8b-42f0-91bf-34633a09c258,2024-03-14 14:36:32,1551d6cb-3d18-496b-a785-f3317382a763,Miller-Jackson,5.7,refund,USD
+fbcb87e5-7182-422e-ac46-056d8894627b,2024-04-08 02:17:07,74a26484-a679-4421-8950-afc82911fce1,Lin-Bautista,168.06,refund,USD
+cfa0e2f8-3f70-4d02-8c76-bc473a9c95ff,2024-05-01 09:11:34,70d41ad4-77e0-4713-aa50-23469253932d,Howard-Pacheco,198.02,purchase,USD
+d815d2e2-3fd8-4e05-978f-dc69500a5b21,2024-10-23 20:17:17,81702e87-2bc9-492a-981b-2acfe3b1297d,Fernandez Ltd,280.76,purchase,USD
+bf4e8f42-3a8f-449c-b6cb-1cb24dac709b,2024-09-05 13:40:46,ab6c9ab9-a43e-4787-9727-2c1fccd136a6,Morales-Robles,275.87,purchase,USD
+ac7a3aa1-2ec9-4c5d-8f4d-52e16748d2d0,2024-06-21 04:38:45,a8ad73ba-65de-4831-90c1-55c9b9fe7260,"Adams, Melton and Barnes",88.22,purchase,USD
+d6330b50-ee40-40b3-b84f-79cb3b93e2c8,2024-09-20 05:58:23,3c84f234-4d55-487d-a37d-c36e376fde05,Barr Inc,125.61,purchase,USD
+23e90e3e-272b-4737-b7c8-3f9142d5e19c,2024-03-10 10:18:14,7a55d052-80b6-49e9-9837-d108042f5c31,"Davis, Hamilton and Wilson",934.27,purchase,USD
+b30c5965-c074-4059-89a1-c9d45fd23a0d,2024-08-02 07:50:13,b7420f1a-43ef-4f25-b538-20d55b076c2f,Porter Ltd,390.32,purchase,USD
+57074c0a-7979-4b59-9360-85eb79670bdb,2024-03-04 05:50:13,6b4b5f71-8aad-4e07-bf25-7b5245f12111,Carlson-Carpenter,21.96,refund,USD
+4f5ddd06-a39f-4cf1-b338-0fe727940515,2024-01-29 23:55:26,af2a1a1b-5b96-4625-a9ff-7ea2c056acab,"Dunn, Mccarthy and Ward",557.61,refund,USD
+62cdfa30-5238-47ea-bb12-8a08c5702f76,2024-01-21 02:23:44,45a9ebfd-dc9e-4e25-884f-d489cd696ef3,"Arnold, Castillo and Gonzalez",918.65,purchase,USD
+c013495c-e155-4fa9-ad09-84bb18f95080,2024-07-24 08:26:12,b2fb5564-747c-461c-82cf-9404930d652e,"Jackson, Solis and Williams",266.86,purchase,USD
+64d07032-7724-40fc-a172-5068c811d832,2024-09-26 23:03:38,6a4613ad-b8d7-4937-be8c-2ff1a673c61d,"Davis, Austin and Parks",335.53,refund,USD
+6a5a1104-2371-4789-9012-c93978e86b2e,2024-04-09 15:49:26,0de4bd6a-50e6-4f0f-8561-4dbee0193ea0,"Pollard, Neal and Travis",423.72,purchase,USD
+05ced50d-5348-4c48-9114-c308bc994a6f,2024-06-04 22:37:00,7438f3fa-3fd4-4952-8d59-969ce315ba30,Ford Group,22.71,purchase,USD
+8df0ddea-3370-42b8-a538-71091384e439,2024-11-27 14:20:30,ee69b4ab-cd79-4285-8586-d2b22ef8b69d,"Smith, Smith and Martinez",515.38,purchase,USD
+f25eabb6-fe26-4448-8788-55dd97d63554,2024-10-14 07:12:28,77b0299c-7d39-4b28-88ea-e6f67bbe0a2a,Perez-Reed,379.52,refund,USD
+37a8ee23-0445-4063-bb95-ad00038b654e,2024-01-14 16:02:15,bb5fc93c-9de6-4175-a20b-77ae1747b9b8,Robinson LLC,285.55,refund,USD
+1f918b25-c159-4c60-8565-10275d6d864f,2024-10-10 10:23:59,0bcb7053-2200-4461-b0cb-b8986e6e37c9,Levy-Fischer,285.35,refund,USD
+c10aa2b7-49e4-47f1-b7b6-4a0828967098,2024-09-06 21:13:33,5eabb445-00d8-48bf-9ff7-d4dc90fd1c11,Hurst Inc,836.65,purchase,USD
+59282581-461f-4e80-a6a0-d0069ea114d0,2024-10-01 00:44:27,db5cb0e3-f815-4507-8ec3-0eb9c1939ba1,Decker PLC,446.47,purchase,USD
+fad66d73-b11f-4689-a033-51c7acb9a500,2023-12-19 22:31:52,a5a6ba81-411c-4ebc-969a-f461e8b60dc6,"Stafford, Ellis and Ray",658.76,refund,USD
+7a9bfd31-c484-4724-bc73-b99088078779,2024-07-16 17:57:24,f0970384-93cd-40f2-9527-5de62c361e43,Gomez and Sons,375.77,purchase,USD
+fdfa5316-6a5a-4031-a63a-b7567c187949,2024-05-31 13:36:11,a37fe528-4f44-4866-a806-71baa1bef6b4,Mcdonald Ltd,265.9,refund,USD
+ce597cd6-2335-4009-b1d5-d91ec202ebb1,2024-06-19 08:04:01,55fcc5b9-8839-490b-a73c-9982229a8bc9,"Patterson, Christensen and Huang",386.91,purchase,USD
+085112cf-dfbd-4149-bdcc-5cae0582dd1a,2024-06-15 15:45:00,b009b8e0-2657-414d-86da-f4ac911011ef,Shepard-Cardenas,129.8,purchase,USD
+d0c5b715-f07b-4f76-9a5b-7f9f7f28f5ff,2024-08-08 03:20:46,2bd8db7e-0ef6-4751-a610-7f644ec02e26,Weeks Ltd,209.63,refund,USD
+f3c0a5ec-e02a-4766-b626-c5ed6ac17ddf,2024-01-30 10:33:28,6ec5b9b8-05d5-4c9e-a2f1-105f02753228,Campbell LLC,357.84,refund,USD
+291ad5a4-908e-4a8e-9965-63be32ce5c0e,2024-05-26 02:25:41,7a6a6c1e-e6a4-4fc4-bd85-ace31ada45c7,Rodriguez-Stout,385.71,purchase,USD
+bab8296e-bd7d-4efc-9650-4055d533d3fc,2024-02-14 13:33:35,95c3354f-7ee2-453c-b194-cd97b47c7738,Mendoza and Sons,36.83,refund,USD
+f4b346a8-41d3-40c7-8771-a15b4d6b6a3e,2024-01-23 23:33:44,1e2577b1-f77b-4843-bf2d-83628c65bed9,"Bell, Velez and Smith",283.79,refund,USD
+a4e82dd9-ef75-40e9-8079-c5cb95aabf35,2024-03-31 08:28:39,6baeed77-d6d4-4661-a504-06cfb9354d81,"Thompson, Baker and Garcia",732.42,refund,USD
+cbba311d-f4d8-48f3-84a5-a5c1c4eed7eb,2024-06-27 14:38:17,4da1b714-f183-4822-b091-822a7e9fb04b,Johnson-Randolph,569.63,refund,USD
+88717a1b-80f6-4f46-93d2-7be0960f1cf8,2024-07-08 06:14:01,db8ac8cf-130b-4c9c-be8b-7cdadfe2a345,Martin PLC,221.7,purchase,USD
+c33d3467-3ed1-439a-a93a-d549435ae844,2024-11-29 19:09:24,85da519a-df19-4345-8327-600048303dbc,Jones-Mcguire,536.63,purchase,USD
+d402f45e-2fa9-4aec-80a4-02d41ae07047,2024-11-15 17:29:31,612b40dd-7d1b-44c3-b84c-bc3c3234f650,"Fuller, Ballard and Smith",278.15,refund,USD
+bd6fc886-05c6-44dc-8589-8eb9a850e12b,2024-05-16 06:42:07,59dbfea1-e7fd-4cf5-8906-e3423f8306d4,"Mayo, Nguyen and Moore",577.13,purchase,USD
+5d04ef67-8ef6-4452-94c8-9bdf135e50ad,2024-11-09 08:32:44,11ae2f72-6021-4234-9fa2-428dfa25df62,Johnson-Nichols,821.75,purchase,USD
+94de29ea-780d-4a53-9741-ed505f99560a,2024-05-04 03:35:26,b1dbbddf-2025-4e0e-9aed-0091256fbc81,Collins PLC,367.0,purchase,USD
+9f73d21a-bda7-4395-a670-c9a6ea52ce2c,2024-10-24 16:31:25,88f86684-d133-435a-870b-3253d6c85d29,Barnett PLC,311.42,purchase,USD
+c76d1505-0014-4596-880a-ed1eba8ed369,2024-03-10 13:34:25,4ad42143-7e1a-4ce0-ab4c-4d3f6d4c617f,"Jones, Marshall and Clements",996.41,refund,USD
+0d65c3ab-ff49-4178-b253-ff6ceb69d24c,2023-12-14 08:24:34,afb3b884-a21b-4e8c-af80-c44d3742b83d,"Baker, Wilson and Davidson",583.27,purchase,USD
+e0e2396e-fb5c-493a-b62f-6078ac8330af,2024-03-14 08:27:13,bf6cb005-1189-4cea-97c9-1be9a4b4d038,"Ellis, Burke and Frank",743.57,purchase,USD
+33ac9b3a-e4d7-46e1-a04b-ca9e7ca4c0f5,2024-10-11 23:13:41,d6e7c747-2563-41bd-8f63-906fa2d10df9,Koch-Watson,147.93,purchase,USD
+d9a08777-2df0-42d9-96ac-f75795fbdcdf,2024-05-09 10:21:11,7288361a-bed6-4494-922e-cb9203b7e34d,Clark Group,140.63,refund,USD
+5fda2d71-cae5-4ad8-b7a9-11934875ea87,2024-07-26 10:25:00,0462bdfa-97cb-4734-8c60-2f8506e0286d,"Salazar, Alvarez and Cox",728.86,purchase,USD
+3479acd2-d9f0-406d-8b7d-53778aa33a3f,2024-09-24 18:45:05,45733490-bc45-43a8-8775-46dc14979b54,Stone Group,472.7,refund,USD
+a5ac4cb2-e64a-46cf-b022-04994b904118,2024-06-06 22:24:08,293b8e96-fb0c-43b2-93d9-a19956cc72dc,Thomas Ltd,550.41,purchase,USD
+e08b67e4-9884-4a4f-8e67-3dbfddb62574,2024-09-16 04:11:04,f8bfd430-be04-4cd5-849f-74f008214323,Mills-Young,866.15,purchase,USD
+46afa360-8464-48bc-870e-9167121ea4ae,2023-12-16 18:05:08,2a450e61-3ce3-45ec-b80a-f3d516f58ae3,White-Schultz,966.02,purchase,USD
+f896629a-7167-457d-871b-86f8df426564,2024-10-25 05:56:43,d5c75c04-1d8a-4b66-a8a1-0509268a26ef,Hopkins and Sons,85.2,refund,USD
+709324c4-a656-403b-914d-b66371d52f27,2024-09-02 22:19:15,98e8ee30-d2ae-4fe0-b9f5-3bbcaed1bc8d,Smith-Ross,653.3,refund,USD
+2e8bc870-4050-43c9-8d27-8d06070b236e,2024-08-09 09:36:37,f22e31cc-8c5b-4271-b799-3c561b5a78e5,Phillips-Watson,67.1,refund,USD
+dbdf8c2f-9c64-404b-ae2d-3d29d0563d08,2024-09-05 17:06:25,1b079c09-45e7-49de-8522-42ef3611bfb0,"Kemp, Mayo and Dunlap",698.59,refund,USD
+91f384e1-5234-4132-b468-15a521cae5a4,2024-10-17 19:32:25,1b5114ca-43fb-44cb-8644-a8c913b4dba3,Adams LLC,122.23,refund,USD
+108897b1-d3aa-49da-b1b1-8ac7f6e7d997,2024-05-20 16:57:06,ea430573-dfc0-43e4-9c74-a7cfffea3c0e,"Davenport, Gallegos and Mcpherson",393.29,purchase,USD
+24b579ab-eabb-4620-8641-b9ddcdf2e388,2024-02-08 18:17:55,a6bd69ee-becf-455e-9eef-b76a82ba4395,"Livingston, Hernandez and Cowan",751.55,purchase,USD
+27af0dde-1b64-42d0-b2b2-bc9bbdde176f,2024-11-15 19:44:42,127af1e4-853c-49ee-9fd5-9ee38db82d50,"Cruz, Collins and Sullivan",794.44,purchase,USD
+06c606eb-f5d9-4dc3-b92a-a914a798d64b,2024-04-26 09:36:14,eb4a4a8f-0d02-4416-9450-cd83334936d0,"Downs, Perez and Barry",956.7,refund,USD
+72e41594-c5f4-4fda-a87a-95e1f7e2052b,2024-03-26 06:33:26,71961982-2694-4ad3-aac8-c29ff630e9f8,Lopez-Henderson,821.32,purchase,USD
+1fb89e58-7601-43a7-a981-a00750596089,2023-12-19 11:34:35,4f2f8dc8-4bd7-4f45-986e-fcd607a445de,"Pierce, Morgan and Hernandez",695.0,refund,USD
+b7354049-083f-48c8-9611-26b27fc6be77,2024-04-07 00:53:56,bb62cbb8-14a9-481b-8136-757974937b49,Martin Ltd,450.43,refund,USD
+4df86781-fdab-47ce-82d0-3feb62a331f6,2024-04-04 07:40:05,1d2927cb-ca71-484b-92cf-45b7e52e9cff,"Paul, Wyatt and Baker",657.44,refund,USD
+637f1b88-1e56-466a-95ab-88e653714208,2024-04-24 23:56:23,f8ab4544-28e0-4410-91b7-a1a79cbf53cd,Smith Group,330.08,purchase,USD
+a8ebf6fb-49cb-406a-bcfe-55791f401821,2024-09-12 10:50:10,0ff02d47-328e-4a96-a73e-3f7ec9948858,"Martinez, Montoya and Graham",495.27,refund,USD
+7b20d263-501a-445a-b81a-a0fc02e713dd,2024-09-28 21:32:51,b5967b52-0e9a-4c96-bcd2-59dc53a84394,Davis-Fletcher,242.26,refund,USD
+74abf519-e417-4294-8b1f-c56dc134aa74,2024-09-27 11:58:05,b4e18b8d-8872-46d2-9d0c-31571af40744,"May, Melton and Drake",903.58,purchase,USD
+4242259d-e946-49d8-9eed-55388912cfef,2024-02-11 10:50:26,23cd0f8b-dc02-4e38-bbe0-91fb516fdabf,Watts PLC,973.02,purchase,USD
+a765f327-809d-4b68-a98d-44d8fc10581d,2024-12-01 07:03:10,be851f9e-bcd2-4e3d-8829-f95f9e9a0049,"Murphy, Phillips and Keller",251.28,refund,USD
+a0fdf578-7a2f-492e-93a0-3e4881874fa3,2023-12-25 15:56:32,9d32ed2e-54c8-43db-885d-fcbdf87348a1,Cox-Tyler,982.87,refund,USD
+be04f59c-99f0-4d34-8e7b-06dc46e4713b,2024-05-05 23:47:07,1006c30c-a98d-403d-aada-84528dd77b4e,"Huff, Green and Smith",770.86,refund,USD
+e0935fb0-3ea1-41d5-ba0b-f55d00dd7c9d,2024-04-06 18:08:51,b84b805e-e24b-4c6c-b5c3-0027a3c47143,Sutton Group,927.9,purchase,USD
+8d801e99-ab8a-4b2c-b343-718d2cff8005,2024-07-30 08:14:08,61d7b043-eeab-49d0-8590-208d2860c66a,Johnson PLC,520.83,purchase,USD
+cd1ca1ac-c8b9-4cda-90c0-1f83992df5e8,2024-02-24 14:07:38,1d944ae2-7446-41e3-b972-7b7b8ebc37a9,"Hubbard, Gonzales and Strong",636.27,refund,USD
+1115b2d6-81b5-4b95-9fcc-7a8686b7f19c,2024-11-11 16:14:20,04a8c7db-4eeb-4004-89d3-d689b86c8e19,Bernard Group,556.21,refund,USD
+053ab353-b895-4ca6-960e-feb83b932dec,2024-05-08 09:12:30,39fa572c-0b19-4b3a-8353-50f4ac34cf82,"Barton, Anderson and Beck",569.12,purchase,USD
+09a1ae28-181e-4db4-9e85-36eeb43d6c72,2024-03-17 06:51:38,79445d5e-76fd-40a3-900b-7015bd7c92d0,"Moore, Smith and Wright",922.02,refund,USD
+5737f30c-6b65-41e3-868b-ba57cd753a74,2024-11-24 00:49:33,d8fb4c24-bf6c-4e78-acdb-0096f7900d23,Griffith-Morris,563.62,purchase,USD
+bc3195e7-82e6-4926-8a9d-daa86188dd81,2024-10-23 15:51:34,bf799d5e-bc8f-48d2-a3be-3290c8373dda,"Romero, Smith and Ryan",923.3,refund,USD
+aa00e1d5-cc1d-42a6-9297-cc263bdac124,2024-04-10 02:28:06,0cda1aef-1c86-4a2e-b395-d3d5e89d6c87,"Johnson, Ward and Thompson",834.97,purchase,USD
+7234b9c5-ddf3-48c7-813e-2b9b9d449da5,2024-03-08 21:31:19,c90ab3f5-18e5-44c1-a6db-f8953101e7b9,Sullivan-Singh,392.61,purchase,USD
+f525d85a-7108-4737-9634-69240b6c637e,2024-09-27 11:09:28,4c172e9e-a056-4cbc-b1fe-6b17e8dd2af4,Horton LLC,41.64,refund,USD
+c0f8a936-106c-4a03-8c92-460a8b5b4409,2024-06-21 17:27:30,e9b75d3e-8514-4c85-aec7-83818797ce61,"Ross, Welch and Parker",364.78,purchase,USD
+8432e1f8-36fd-4f4c-adf8-4aa9e1a69005,2023-12-25 00:00:24,0d63af28-3253-484f-ade6-fc50d9912557,"Moore, Thornton and Sanchez",577.93,refund,USD
+ab178046-422d-48f1-a1e9-86ce20497717,2024-09-01 01:28:49,8d8fe069-0920-4b1b-810c-c1b7d6e60ead,"Stewart, Stein and Porter",127.85,refund,USD
+4d2b1e9a-d434-4886-96e6-9ed7534643c2,2024-06-15 22:40:55,15301937-fe5b-4d29-8e58-9c091c55ae17,Hughes Ltd,292.47,refund,USD
+5312d545-151e-423c-9b8f-836b26a74b53,2024-10-22 10:54:08,79fc5503-0679-4dc0-882f-b075e83dfdc1,"Snyder, Jones and Bryant",710.88,purchase,USD
+ee3ef300-0b6f-4468-a7bc-ea4c4a61703d,2024-05-21 03:41:31,d7e152a1-78f8-4ce1-b619-6a848bd71b71,Morales-Watts,299.3,refund,USD
+bd267c89-d2fb-427c-ab22-173c8e8c2791,2024-04-12 14:04:51,c618da54-004c-455e-a4e7-72642e01c258,Wright-Palmer,264.93,refund,USD
+796d141b-3d00-4f14-a1ca-6819f45354fc,2024-04-05 07:17:55,82390087-0251-49bc-96d1-7f839746b0a2,"Snow, Doyle and Carter",976.4,purchase,USD
+17cb9818-854f-475e-9dab-3e96be7ca33f,2024-06-28 06:02:41,5cc6260b-0fe3-46a4-9014-65409af9ca56,Patterson-Wright,816.7,purchase,USD
+f97f2354-23b5-489f-811a-cc967d3c56d7,2024-07-08 01:11:10,6a685574-4c97-4359-b94b-063db03e9a7c,"Carter, Klein and Kelly",414.15,purchase,USD
+fd91070e-5736-4a8a-afe2-85bbd1a2b643,2024-03-04 22:31:04,5728a54d-a528-4e0c-9e91-b07683d91bd6,Sweeney-Prince,351.17,purchase,USD
+9425c17a-7743-4bfc-9347-2b6c87fb4d15,2024-06-06 07:21:30,ce658526-e984-401b-932e-36c71481f35a,Rodriguez PLC,613.12,purchase,USD
+8af745b1-e412-4f7f-b6f9-86a0fca28647,2024-04-19 05:24:03,13d7b80f-19cc-47bb-b4af-31b4dea443cc,Russell-Rose,576.8,refund,USD
+cfe6fb5e-c583-4ce6-a11f-195e800b4ac6,2024-10-11 21:16:00,c77b84c9-60c3-4c55-8b04-25247d6090bb,Hall-Ross,544.88,refund,USD
+a6ed0d94-1819-4c1e-8ab5-e6c41ee7cbff,2024-03-20 05:36:10,05637bc5-1109-4947-b558-b6625a2b8a9e,Kaiser Ltd,278.58,purchase,USD
+f907b36c-4e43-4cee-8a19-750d3ebbcd61,2024-05-18 23:37:19,5816f708-c87a-46b6-82aa-d2f78f225f3f,Burnett LLC,329.15,purchase,USD
+478dd633-6808-4546-a701-3f3752a797be,2024-03-07 14:28:53,ef540267-f8bc-4cf5-8fc4-795945847349,Miller-Arias,541.31,purchase,USD
+bc5f4f1e-99ad-4084-92f2-ec88a93179ab,2024-09-09 09:43:45,f35f339f-2e19-4abd-905b-c93df40ca125,Fletcher Group,444.87,refund,USD
+09efc717-b6b6-4213-9e98-063464e8ef63,2024-04-02 12:35:52,808d00bf-37f8-4b32-95e4-de3fb4e323c8,Alexander Inc,963.92,refund,USD
+9defff10-029d-4c5f-a30a-480db7f2c45f,2024-01-29 18:22:43,ab8f8059-9175-49b7-a66e-151ac4e973d5,"Ruiz, Jensen and Wilson",361.14,refund,USD
+abffb016-ebf9-4020-b7bf-ab626aec22c3,2024-09-19 23:40:46,bf7bc188-a33c-480b-ae7d-baae2f19b3e9,"Padilla, Lewis and Diaz",500.91,purchase,USD
+c4ed3531-f267-4a56-9276-c22374ef0ebc,2024-11-25 09:45:13,7c4dff86-c305-4ad3-8ffa-8a62d77e5439,Burton-Perez,220.95,refund,USD
+80cb1668-ffb4-4f61-83a3-f5fcf7485d64,2024-11-21 17:10:51,ad18af8a-c128-47d9-927d-a8fbc07768b5,Simpson PLC,912.96,purchase,USD
+f7808d47-5748-4d86-bfa0-e00de836b9e4,2024-01-21 03:25:59,3575331e-463d-4894-bfb9-61bdeaa44929,Williams-Olson,928.07,refund,USD
+b75bb8fe-b365-4e60-8375-1f46131c2907,2024-06-03 07:24:26,497a03d9-2b40-465b-970f-db09b5bca197,Owens-Lara,454.64,refund,USD
+ca518268-6069-448d-8dac-5874c32d0a04,2024-11-10 22:47:06,4de4c5d7-62a4-49e0-a1ba-e24876166468,Ramos-Patel,358.45,purchase,USD
+b3e97444-f8bf-4b11-803d-334fbfe8a98c,2024-08-21 17:52:03,95beab8c-1aee-4029-b981-3894b790364a,Johnson Inc,766.65,purchase,USD
+8497576e-8f53-4ea4-b50e-901c3e9f336e,2024-05-24 17:55:54,95c59643-d1b9-4c50-a86b-3bb2301215c5,"Davis, Baldwin and Williams",947.98,refund,USD
+cf5d1731-5ed9-4aa5-b361-5e0c68e09e1a,2024-03-05 11:40:38,d3ab66a6-29c2-4d69-8e6d-2a69c7ed14a4,Stark-Munoz,836.58,refund,USD
+3a5b21b6-3c9d-4ed7-b751-a0f33f158c26,2024-07-18 16:56:25,97936796-08b0-4a77-bd77-0f2a21d7e8fb,"Mayer, Estrada and Hines",932.55,purchase,USD
+04b30283-fe19-4205-a6b1-abbca96e8e02,2024-06-25 06:13:31,b73a97b2-6c01-4b1f-a8e6-445a2fa764d8,White and Sons,736.88,refund,USD
+790ce206-1fed-4471-b11a-14f7d3622ad1,2023-12-15 03:29:06,4ad06c4c-57ca-4d9c-b641-07d193645ec2,"Rangel, Bailey and Cuevas",738.32,purchase,USD
+86308eed-a276-456f-a242-840e443715aa,2024-01-07 08:14:24,a1b79f6a-5728-45ef-a1a9-0ac96d9ef8c0,Hayes-Robinson,248.21,refund,USD
+4013cb83-1395-4858-a9ca-5ff210b61519,2024-11-30 14:48:04,96b3557a-bedd-4ee4-8bcd-1b1c59d1bb30,Smith-Smith,358.95,refund,USD
+3fab9ba8-a001-4a6e-8cca-b916e83c23e5,2024-06-20 22:56:49,ccd05161-cbb0-4376-b022-161ea8dbd7da,Walsh Inc,35.89,refund,USD
+0ec036e3-ceb6-4d72-b815-01db6f16ea3f,2024-08-26 00:31:50,334df932-278f-48d9-a84a-c08cfd8e13bd,Martinez-Coffey,526.4,refund,USD
+3345e425-d62d-4e9e-91e0-eef215154cc9,2024-05-05 02:29:05,32474edb-8a7f-4321-b36d-85821f45daca,"May, Abbott and Bradshaw",76.42,refund,USD
+27aa030d-0703-481a-8f8b-62349586c412,2024-04-11 07:55:52,270ede4c-2119-4eba-84f0-11df5b979325,Martinez Inc,192.79,purchase,USD
+da6c825f-223c-4028-ba55-00de5cf0229a,2024-04-06 17:07:50,9537c211-964b-4997-9c0f-857874b00902,Hubbard Group,19.36,refund,USD
+0f3b3ea2-19bf-4906-9daf-61b4e15f4b9e,2024-03-20 04:16:52,0c0a863e-1b5d-49c4-a935-cd0bdeecea42,Miller-Howard,839.76,purchase,USD
+a45d39f5-4a45-43e3-a4d5-13e85c6ff100,2024-10-07 19:47:54,ad1f3e2c-4376-4eef-95e3-66f229a1fdd3,"Solomon, Adkins and Montgomery",179.18,refund,USD
+9561f336-8f6b-4839-96eb-1de186be0ea5,2024-10-30 16:22:10,b6d97359-2b76-468b-8d5c-cf3ec11ced0e,Delacruz Ltd,172.02,purchase,USD
+ec5f4e2b-d147-4204-8fc7-85acbd7f5625,2024-08-29 20:38:14,d25380bd-ed93-45c1-b8be-9a344f0ef593,Gibson-Anderson,758.36,refund,USD
+98d8c2e8-972c-4fe1-9153-fbb2c60a2ce1,2024-04-09 07:03:42,4931e3c6-6ad3-4d1a-be4d-40590a6c4bc4,Jimenez LLC,599.95,refund,USD
+44a60867-0522-4801-9a51-68cfb7503954,2024-03-09 21:43:14,622c8484-ce92-44d3-91fd-572863d8958a,"Cardenas, Mcguire and Long",358.66,refund,USD
+89887158-94b8-4a20-9c3a-b303a4a4c58d,2024-09-30 03:17:15,c9b412ec-26f8-4097-a602-1352d53ecdfe,Lutz LLC,521.5,refund,USD
+f8791c2b-b4aa-43cc-a78d-a74c9e72876b,2024-09-22 06:13:07,3f02535f-852c-47e2-98ea-50682d0b1ab0,Rodriguez and Sons,455.09,purchase,USD
+2b9fa0d0-5dc3-4b0c-8ba0-e9b324df950d,2024-12-02 11:24:18,60094241-e796-4024-ac48-a17dcdd68963,Bruce LLC,214.13,refund,USD
+1a752d9d-e870-4d71-9264-f8850c3c2fee,2024-02-14 00:06:10,cf5f861c-33c1-4603-b0c1-954e3141cb6c,Torres-Sutton,252.41,purchase,USD
+e63c36d5-241f-4fee-a080-34aacbe6bad5,2024-06-08 02:45:53,cc36f339-84a2-4189-b5f2-ab320979f1df,Warner-Bell,10.23,purchase,USD
+9c67fb62-e224-46b5-bdd7-27a39af734b4,2024-02-09 13:30:07,f5ef33b4-e049-4374-a458-a652f291ae48,Briggs PLC,789.06,refund,USD
+367a3092-6695-435c-8215-47a9cd72ee8a,2024-05-09 06:43:14,12648978-d58d-448b-996e-15613694a52a,"Greer, Galvan and Williams",118.04,purchase,USD
+cf84d7ae-6c83-49fd-bd6a-61b0cdfd0c5b,2024-08-19 09:07:59,beb02442-a15a-4037-b43f-a86dceae415f,King-Frazier,290.73,refund,USD
+4b45a4f4-24d8-4913-a23c-051bcb455661,2024-03-23 18:33:44,700756c7-4526-483a-90bb-9f89a1056f98,Hill-Perkins,776.26,purchase,USD
+753fc690-2e01-44ba-b6d2-a6d71f2e3110,2024-01-30 22:11:07,9a555fba-55e2-44ef-8bee-a2c0a125a5a7,Scott LLC,533.55,purchase,USD
+081eff26-1631-4733-a871-491a8e214abc,2023-12-22 09:08:35,becdbee5-73ba-415d-a3de-290e57eb3dec,"Haynes, Leonard and Phillips",501.23,refund,USD
+46e6406c-7fb1-47cb-8324-683e1ab17210,2024-03-30 17:32:15,c9b6e476-b574-4ccd-96ec-62da594b0936,James-Walton,488.24,purchase,USD
+ba5b86ef-c5a8-454f-8640-f0395e1e637a,2024-03-24 18:41:46,fe3dc4ae-e496-4197-8448-98a1cc4fe5d3,Wilson-Grant,525.03,refund,USD
+cf7e7429-7c2d-459d-b447-f2d97bafed76,2024-12-03 19:45:17,7ad93789-ec62-40fc-a0af-a4e80a93bfd6,"Higgins, Forbes and Murray",175.13,refund,USD
+6c113f1b-e4e9-4988-a3eb-e3b820c89659,2024-04-13 19:51:25,8cc21e19-790e-411f-834e-82bdc1c1007c,Reed Ltd,826.5,refund,USD
+f6945691-656c-4a63-ae19-546e0e92e1a5,2024-10-26 23:35:05,7230937e-99f0-4b01-9543-b83ef2676f19,Watts PLC,302.25,purchase,USD
+14240bc1-3c3a-46b8-8feb-32f59ef3c8b0,2024-11-26 06:25:28,98d68ad5-56d1-4cba-a2ae-42288260b16e,Good LLC,229.01,refund,USD
+147436d8-ed94-4685-be4f-502796a9a3c2,2023-12-15 09:16:31,5ec103fa-ea20-4ee9-990b-5d340338541e,Hernandez and Sons,837.62,refund,USD
+2f11d402-560f-4e17-98ff-4ffb8bbba7a0,2024-10-20 08:19:42,7eae0d78-4a21-4720-bc3a-d2900d9c35fe,Woods PLC,287.49,refund,USD
+00605760-5f65-4c64-be18-2aff11efe566,2024-11-14 19:09:49,1e76910b-1be6-42e9-a501-d2d8d2d8896c,Peterson Inc,655.46,refund,USD
+766aaf8c-ebe8-4271-a2d6-8484f9756ff4,2024-01-18 14:14:53,8fbb2872-8d1d-4c41-89e5-d63c6207aeaf,Reynolds-Evans,672.65,purchase,USD
+53cd232b-01d8-431d-a9a5-78729782ae97,2024-09-13 18:49:45,325acc45-9dad-43da-a432-a33c84fa3016,Romero PLC,720.14,refund,USD
+5937cdf3-7772-49af-90a0-aa1dd69c8c2a,2024-11-28 22:46:00,8819b343-d9d6-49ba-943e-d4959924f8cb,"Johnson, Villarreal and Scott",420.17,purchase,USD
+193db5d8-6a29-44f9-8b24-d850e707e75b,2024-02-18 18:20:28,91f3bdac-8ae4-437e-be3e-c68cd104a8c8,"Armstrong, Aguilar and Hill",596.59,purchase,USD
+a56dbdb3-7e97-4873-92a0-1e55af02ad35,2024-11-25 10:48:33,6cf8e536-ec8d-4c4a-b2fc-c8a81a4e38c5,Willis-Booker,810.82,refund,USD
+f8b1ab0b-4b88-47e4-831b-230e3f360aeb,2024-06-29 17:26:14,0b14d079-cf54-48a5-8296-d969e8444a3b,Miller-Hall,197.41,purchase,USD
+1dad5936-a6fc-4980-a33b-36be608b2474,2024-10-02 07:17:50,9e480472-cf36-4a63-94c8-4a1a1b23fd82,Meyer Ltd,588.83,refund,USD
+47e54003-5fc1-4329-9223-247f613c0979,2024-09-27 17:25:04,f9189426-2260-44bc-9bdd-e0acc0e6b939,"Mcdaniel, Holmes and Carpenter",878.41,purchase,USD
+372e6b83-63f2-4e50-a11b-6f4bef5fb426,2024-08-24 23:24:09,ac9d4513-ae36-4b79-9d96-aaa01c0894c2,Taylor LLC,260.22,refund,USD
+6c1721b9-80da-4c3d-9310-f1c53f5ed5dd,2024-06-02 12:05:55,acd16711-a1ad-42f5-8952-80702e7b0832,"Stevens, Waters and Parsons",593.44,purchase,USD
+aa358c7f-da03-4f64-b663-96c9ad4511ee,2024-10-15 00:25:34,45159f22-cd58-4db3-9a52-0dedbf2579af,"Snyder, Anthony and Edwards",250.54,purchase,USD
+d18994ab-b6bc-4e77-9b9a-6b6e4107cccb,2024-09-09 02:44:56,af0d75a5-6151-4143-b1b5-046b02567f79,"Hall, Lee and James",367.22,refund,USD
+a0311e8a-474b-4a7a-bb61-94d9c0cd9377,2024-04-18 16:56:01,b6d192d4-873a-4a60-b6a9-1a2ad711659e,Paul-Johnson,650.44,purchase,USD
+0ea54940-49a2-4634-b6d5-d4048213e76a,2024-11-05 08:43:08,250dcd84-b0b2-4178-aaac-0cd30e319be5,Williams-Gomez,428.37,purchase,USD
+65740a60-ff65-43ed-9b49-a64607203330,2024-05-10 08:26:41,27fa4d2a-cb75-4ddb-8e90-91a3b9d53b89,"Howe, Maldonado and Lewis",513.25,refund,USD
+985b416a-684d-48d6-bcd5-08161814e011,2024-03-08 18:48:53,1dd40f7a-900c-4ce3-b6fd-e14632942d7d,Vega-Sanders,521.11,purchase,USD
+dc6ee795-fb2b-4df8-aad9-e4648da2bc2d,2024-11-29 18:48:21,85fff9e4-172b-45a8-9df7-6cd0a96a5bd4,"Watts, Rowland and Hernandez",416.76,refund,USD
+f014800b-34b7-44bd-b2b4-d3795e6858dc,2024-04-13 04:39:04,aefb8686-3226-457f-aad9-44a99c5c4bbc,Brown-Welch,257.73,refund,USD
+c8650945-8c51-4882-b685-b714642e8ed6,2024-02-04 13:15:07,a094d770-b48f-4f68-8e32-18372b5c4e44,Smith-Thompson,364.01,purchase,USD
+35f10f81-903e-468c-8a4e-6751a1810b10,2024-09-12 21:51:45,a25af47f-82d9-4e46-a3a3-c19e3288e2c7,"Baker, Harris and Woods",750.75,purchase,USD
+7cfdb10e-a15d-4154-884e-69fea574057c,2024-07-09 03:16:24,8f7c74d1-06af-4ec3-9d19-485730501734,"Charles, Walker and Gregory",400.55,purchase,USD
+01900efe-a560-437b-b900-ec6a0a7796a0,2024-06-30 05:20:02,b54d3df8-1737-4e21-8bbc-3cfce37d2c01,"Clements, Mccarthy and Ortiz",75.81,purchase,USD
+c0b13988-eeff-4c10-b431-9f2c70178dcb,2024-11-23 17:29:11,fbe398d9-9329-4036-be95-9fa1e1aa34b3,Haley Group,618.38,refund,USD
+716e89d9-4989-4cd1-94b8-e320772ef2d5,2024-03-04 19:26:21,bb0f2e7c-33cb-4870-bff6-f0495db59749,"Wilson, Walker and Chapman",800.44,refund,USD
+e462fd75-2318-4825-b0f5-5ffd259db81a,2024-11-14 03:59:23,3dafb90d-5f22-4e5e-bc5f-e656ceb61c27,White-Baker,41.94,refund,USD
+3ecf18c6-8e8c-4bf4-a6b3-65f805d48663,2024-01-21 23:59:45,c855fcc4-eb67-4c37-9618-1766b6397f07,Wilson Group,550.88,refund,USD
+481abb3f-c36f-453d-a9d8-c168aa093814,2023-12-11 05:09:19,1a7728ea-9b30-4ae5-ad7d-758a87230001,"White, Vincent and Ballard",972.1,refund,USD
+f47e91c4-a69d-4f9d-a345-9595947502b5,2024-10-24 10:47:46,cc787b92-9687-4419-9312-1e8737ff25b4,"Miller, Fuentes and Price",64.85,refund,USD
+3dda2bb9-4f45-4f1f-92cf-bd62ad829b58,2024-11-15 01:29:55,f442e93b-e8db-404b-9621-e832733e1c46,King-Hayes,735.28,purchase,USD
+f058126e-3a56-4d57-98ef-a1a238987aa7,2024-05-22 00:22:54,700b4b19-271a-451a-91d6-7ac10194330b,"Cook, Mitchell and Garcia",254.38,refund,USD
+85f8dc0b-5ce6-4b9e-a548-d512d0293b2d,2023-12-05 21:37:32,62369e53-c5e3-4299-8f0c-f132739397bc,"Wolf, Johnson and Garcia",258.84,purchase,USD
+8fbd125a-9ea3-4ecf-9e43-67f22207ac18,2024-11-04 15:32:13,cc3f6a50-f274-4b78-95b3-283ffac29128,Wagner-Ryan,640.64,purchase,USD
+d0191ad4-de3a-4958-a293-95454b564b64,2024-08-16 13:50:58,c33700ba-8277-4ecd-948b-e30b9089d3fc,Cox LLC,874.19,purchase,USD
+1bd7d87b-995f-4799-98f2-50bd2669a3b4,2024-03-02 11:59:30,faee8afe-0566-4655-8671-11080e6c4bdd,Moore-Garcia,466.12,refund,USD
+a6b16c95-1f84-4b39-997f-3f909d8b28d8,2024-04-23 23:58:54,7eecf8e6-ea90-4935-9d81-e4e06ab065f3,Hill LLC,784.17,purchase,USD
+6171c6ab-b90c-4746-ac06-8dd66c6bc571,2024-10-10 14:39:05,9358e8f9-e9d5-433b-bf29-f31217fabc0d,Vaughan Ltd,770.29,purchase,USD
+93e93809-4969-429a-ab03-f876a96edc7b,2024-02-22 23:57:09,f6d798fc-8d76-4e16-b902-cf02e3e7f71f,"Hardy, Young and Soto",20.89,purchase,USD
+46f0bb5a-b6cf-49f8-a1d3-a425dd6ead2c,2024-10-05 09:11:47,0fe1c390-2c28-43c9-a124-ce5f3707431b,Hurst-Olson,191.95,purchase,USD
+65f160f4-658a-4dfe-b1c3-3fce620a31c4,2023-12-13 22:44:05,9b69f765-2236-41cd-8371-2f7edff3a89e,"Chambers, Krause and Smith",721.0,refund,USD
+4c1e4709-3a6d-486e-8959-1ffaf6ced222,2024-03-20 10:25:29,7365ce4a-f107-421e-8319-ebc0944b8420,Wilson-Mullins,308.02,purchase,USD
+b81de143-3af6-4a45-ade5-dc8eb2d2aa4b,2024-09-17 19:50:48,43ad4d9c-6a9a-44ea-afae-25f25f30f8f5,"Newman, Howell and Fernandez",506.68,refund,USD
+f026ce7d-fd05-4d22-88c5-2a33e45d02a0,2024-01-29 10:06:10,607a18a5-abc3-45fa-b6a3-37a81b468351,Abbott PLC,731.14,purchase,USD
+4d8e4335-e58b-4d93-ad3e-db4759a94436,2024-08-15 13:19:46,efb2e8bb-c289-483b-95b4-f2ed64894bda,Cherry-Palmer,34.33,purchase,USD
+ed6ff789-b94b-4c43-a1be-6501c96b7335,2024-05-08 09:43:40,283cc59c-4328-4c5d-b471-1e753645a68f,"Wilson, Hammond and Robinson",103.97,refund,USD
+c59d88c1-9e70-46fc-8926-71974f1d4913,2024-05-24 13:11:39,a5d4727f-774d-4aff-8cf3-52967660f82d,Johnson Ltd,524.39,purchase,USD
+64c2cc1f-1ff0-423e-a03d-5ef5882941fa,2024-12-04 00:37:52,7a6f3b40-493d-4922-b207-32bebd4759fe,Durham-Mathis,590.42,purchase,USD
+3653681f-3951-4551-a93c-9a0bb2b5f1f8,2023-12-29 21:42:06,67809f9b-7b1c-4624-976a-591a00211e88,Brooks-Rodgers,717.96,purchase,USD
+f41c1fe7-cbd6-4cfa-bd23-03df6244529e,2024-09-15 11:50:10,ee59147f-fb3f-4a44-8a56-d0ac40774f38,"Watson, Jones and Rogers",500.79,refund,USD
+a69b533e-7b96-4453-bef5-14e4e7ffd8dc,2024-08-01 10:47:31,35f2efaa-5ea6-4f6f-b128-a3d1c5cda39a,Fernandez-Ortiz,911.21,refund,USD
+e9c3cd6f-5990-49f2-bae6-ac95626506f7,2024-08-09 06:58:20,ce245804-b822-4152-ab4a-ba53e1cfeb36,"Brown, Pierce and Gonzalez",325.73,purchase,USD
+bef5a898-9488-4e2d-af74-f3d71eea6d8e,2024-07-03 04:21:53,2fbc2229-04a8-49a1-ae9f-d3c601eb4f66,"Dixon, Kim and Dunn",842.85,refund,USD
+5dcfef9c-9c3a-4373-97c1-9abde89dde15,2024-05-01 05:55:38,161eb5e1-c6b4-43a2-a5f0-da648263d472,Murphy LLC,296.87,purchase,USD
+6b944179-904e-408f-953f-39d44fbd8441,2024-10-17 18:50:03,56acc8c4-8b86-49ec-9cfa-e77164a0ed14,Carpenter-Marks,827.89,refund,USD
+554a9ebe-6b16-4c0b-97d9-89d27e279fb1,2024-10-30 09:45:02,63670da3-7fac-4a57-97a7-cc7e1a1f6fc8,Skinner PLC,309.29,refund,USD
+a19af1ea-b272-43da-aa43-16498f85e629,2024-07-30 20:46:46,0961c7b9-a3b5-4f1f-a33c-fc4d7b144ebd,"Owens, Sims and Lee",785.45,refund,USD
+e19d58cd-923c-4aaf-b8f3-d2e04561a048,2024-05-24 02:07:47,5df7e0d0-bdae-4e5e-992d-29ff12800afe,Luna-Porter,173.62,purchase,USD
+a9ad83c7-b28a-4d76-a248-84880738e1f6,2024-04-15 10:51:42,afc080c2-a9e0-4fcb-8a76-2475339c5408,Raymond and Sons,259.87,purchase,USD
+2ca22d42-abc4-4684-8e46-31e4db2e0469,2024-10-23 07:09:26,34e78e3e-aa0b-41d1-a90a-61eea857117b,"Miller, Graham and Jefferson",251.2,purchase,USD
+2f98b631-245a-476b-b1f1-1285e124c649,2024-06-12 02:29:49,e8fa825a-6e44-453a-b2f4-9d2fcf774f8f,Gonzalez-Smith,20.08,refund,USD
+1036c2f7-1814-4b6d-b762-ac39b4c82d18,2024-07-30 13:15:58,f1580703-78e2-43ce-a427-4c8d01741617,Whitaker-Miranda,798.99,purchase,USD
+8ba1c902-b0c6-4bd6-b45e-eb7a0e39f146,2024-07-28 16:27:51,24baf1e8-dff5-4aa8-8641-cd321973c8b6,Henderson Inc,752.01,purchase,USD
+9a1d9726-2073-4cd4-973d-73feddc0cb6a,2024-10-07 04:27:57,fd619b68-7b34-47a6-9e59-098c4d93fee2,Davis and Sons,9.6,refund,USD
+7f36f5b9-6c5f-4215-8441-76765fea6aaa,2024-06-07 14:30:43,531504e1-5d05-4899-a36c-8e3880fea9e0,Kelley PLC,432.45,refund,USD
+ae291462-e04e-4609-bf8b-80c2f16813b5,2024-11-09 18:26:57,55aee091-3c32-452a-bc76-59e9cecc6437,"Brown, Murphy and Moreno",57.84,refund,USD
+932bfe41-3de5-438a-a125-1b4115b3ce0e,2024-08-15 14:56:39,d8062dd5-6ddb-4627-a73a-dfa912b3961e,"Carter, Jones and Freeman",792.74,purchase,USD
+be37ed8b-108a-4ee0-885c-337c42976f87,2024-07-29 07:10:01,d077e867-de5c-4c8a-b2f2-d87e89f28ed8,Anderson Group,839.06,refund,USD
+ee05e2e1-82ca-401d-9970-08139c2b5a99,2024-06-26 06:38:08,3fcbc415-fa8f-41f2-8fae-c82cf2d7179a,Harris-Allen,755.84,purchase,USD
+7f10cbe7-ed05-4fd7-9e55-9e22251bac38,2024-05-27 09:34:52,a77b2108-f33d-4fc6-ab14-ba0b4f2d4939,Richardson-Hoover,496.9,purchase,USD
+0903cbc2-2577-410b-982d-03408d6054ef,2024-09-08 05:42:44,fb19b40e-2c2f-4e5e-836e-95f7b86da602,"Walters, Price and Christian",313.52,purchase,USD
+1021f2a5-deb2-4071-b518-803de8da4cc4,2024-03-25 12:16:23,1d66c00f-15bc-45ce-b0f8-68018d0d70e5,"Baldwin, Gutierrez and Johnson",295.34,purchase,USD
+2e212d16-fd14-426e-a1e1-bdcebf90124e,2024-05-15 15:13:44,8e40dcff-2093-431a-9ff0-387091a2558a,"Robertson, Kirby and Lee",340.37,refund,USD
+e989421c-ec6a-4ad1-8e3b-7ae89ce1088a,2024-05-29 07:44:27,81bc560f-7346-4805-bb3a-09639ef9a172,"West, Freeman and Berg",998.94,refund,USD
+e92cf6b6-5439-4619-b13c-d6fc6a938241,2024-11-18 16:05:36,46971075-e9cd-4302-8c6e-fceffc69b4cf,Elliott and Sons,478.88,purchase,USD
+18054cbc-9581-4bce-a2ed-13ccb47dcf6e,2024-05-26 09:33:23,0cd519a1-ca61-419e-bb4e-a5a279cc4ac6,Gordon-Meyer,797.45,refund,USD
+0382f661-3149-4b80-8b0f-e67d3467a930,2024-06-20 01:16:33,309dc141-d96a-48f0-a872-7d3ba118552d,"Aguirre, Trujillo and Phillips",800.08,purchase,USD
+714dd47f-2dde-48f2-a873-ad4bed55fffc,2024-09-24 02:50:55,3c23ea56-4c76-471b-bd6f-bef7a1b115dd,Nelson LLC,151.75,refund,USD
+dee7991d-2f49-42e9-a2b2-cee2eed702bf,2024-01-23 03:01:12,4efc42a8-3727-4bd5-b8c9-351719be0d11,"Hawkins, Daniel and Williamson",380.05,purchase,USD
+2a5e59cb-ca97-4922-8840-f7744f610ee1,2024-07-31 06:59:10,be6e5812-24fc-4ea7-a37e-5f73622aef71,Thompson PLC,915.15,purchase,USD
+8e05a28e-8312-4474-a1f6-e8cc47e2fe82,2024-03-18 17:26:34,de106ec9-9eb9-4ffd-84ec-dcaac447359e,"Wolfe, Fields and Wilson",638.29,purchase,USD
+16bda92d-8e94-424f-803d-ba04995b8b1e,2024-08-19 12:56:21,40ae051f-fdd6-4edb-be1f-269d90f41f02,Gonzales Inc,687.02,purchase,USD
+84041961-151d-4346-9cc6-cbfc11fd8f17,2024-09-17 10:27:52,13f851cd-7189-4afb-9723-e6b50257d103,Williams-Morgan,510.76,purchase,USD
+6e123d83-aa1b-491e-b7b3-8921dd446236,2024-01-08 20:35:03,30265503-51ab-4b97-adbb-4745a3b7b118,Young-Martin,437.25,refund,USD
+4061139f-0209-4642-b7c7-37dcc1bd3d22,2024-03-03 08:37:25,7ae2bab9-5c73-4b87-bb1d-f799006069ab,Collins-Young,14.07,purchase,USD
+a43cdf23-9dd4-41c5-a4bb-1d3478ae5386,2024-06-14 03:45:23,6db440a1-923f-45c0-97b0-e59ae29e5c05,"Turner, Walker and Miller",740.7,purchase,USD
+b306944e-47c1-442c-a3bf-8f5499ac9a72,2024-06-06 22:36:28,40c30fbe-3f5b-4f73-af3c-4b892cb44437,"Smith, Livingston and Horton",430.2,purchase,USD
+93af69f7-06b7-460b-8b3b-2250c54bb4ad,2024-02-07 18:08:29,683520c0-6ca9-4f46-baba-375db67eaaa7,Parker-Johnson,916.39,refund,USD
+48b5273b-5e53-4acc-b08a-fefd7abaf4c4,2024-03-05 18:58:31,57f099c6-96a8-4b3c-bd4b-e6d69c9e510a,Reynolds-Douglas,852.23,purchase,USD
+38bb6c97-713d-41c6-b45a-d8be1b6d0f5c,2024-04-10 19:08:59,f333c54d-b592-42fa-b018-c05f3104f64f,Parker-Harris,713.57,refund,USD
+7974f2df-a592-483b-89a5-239e614579fb,2024-10-18 07:46:54,52809f8b-64fc-48cc-91c4-b4d384d86ab4,Lawrence-Barton,208.65,refund,USD
+e0713ee9-8d23-4f3e-8e1d-be4c9eb3eaa7,2024-11-01 04:12:53,8df526d3-d177-4931-9c21-0c2443066eb9,Knight-Fischer,919.47,refund,USD
+7344608d-64be-44a1-9cfc-260b0c4596cd,2024-02-06 03:39:02,01f0e9e1-5b9c-4de6-a37a-e88f00899e4b,Williams-Anderson,571.86,refund,USD
+e18c7e77-f6ef-4406-96a4-2a7d64e76be1,2024-09-30 06:54:25,e7f9b01d-c364-45a4-8c38-d67f70442f89,Simpson Inc,376.89,refund,USD
+6ed6e61e-9572-4398-9589-cc97f0182ab3,2024-07-12 13:31:21,34139a68-c44f-4704-97bf-e7450d7afc52,"Lopez, Harrison and Martinez",81.96,refund,USD
+1509d07c-603f-4434-9b8e-13d7e87fefba,2024-02-12 16:31:49,0147da8a-42e0-44f4-a698-74844a161374,Robbins-Banks,68.87,purchase,USD
+832a4138-59d3-4e7a-9f20-f0cf79439e36,2024-01-15 21:58:04,3b33d680-cb2f-405e-b667-5c8c8047fc08,Thompson LLC,887.9,refund,USD
+77589f1c-28e0-4330-ab5e-247f1e034bb3,2024-04-09 12:19:25,c58cb8da-0c88-4a23-ad55-61ba8f8be8ff,"Chapman, Cox and Leblanc",864.92,refund,USD
+f2d0b4d2-024d-4453-90b1-10099dd70bc8,2024-03-22 07:43:25,a63e565a-3b99-4b99-aa99-251f26451196,"Brown, Fields and Mclaughlin",889.06,purchase,USD
+d241169a-f3b9-4f03-8343-1fc9e9c3a67d,2024-09-26 17:50:59,ab19993f-85e7-4d67-8c9d-6e8dc4cd0a8d,"Bolton, Perkins and King",235.77,refund,USD
+fc12d641-929a-43f2-b7b0-32a515e0058f,2024-05-26 20:28:23,c368791f-10e1-418e-86d1-ba2a0c134c96,Jordan-Fuller,911.11,refund,USD
+96d32417-5226-47e3-b7bd-2358315c35a1,2024-03-13 10:31:42,95313ce2-8582-4363-9a52-34eab8286521,"Figueroa, Jenkins and Fernandez",980.15,refund,USD
+1eabe1e2-5e95-407b-bbe5-a85182bd37a9,2024-03-01 23:06:04,88861204-1bf4-4250-a1ee-19d242985b71,Perkins-Atkinson,82.05,purchase,USD
+1b26cb8c-4580-493a-9338-8bcd1fbace98,2024-06-15 08:19:07,607b890c-9609-470b-8db8-7e618d7008d6,Hammond-Gonzales,358.56,purchase,USD
+ac17d327-0123-4ed7-8147-aacc2e398fea,2023-12-15 12:50:48,44edd980-298f-4c6e-8c2e-5c923f1919ff,"Clark, Russo and Reyes",791.74,purchase,USD
+61ead617-e526-4b0d-ba1b-b737c22710c2,2024-08-20 09:57:25,958d6577-1722-4407-89d2-4a73204d0a15,Davidson Inc,675.9,refund,USD
+a4773f9d-0134-4f3e-84f4-38719faf3af9,2024-01-05 22:06:05,15e889d0-f719-4d64-85ff-0e867cf5b7b6,"Mendez, Berry and Daniels",582.28,purchase,USD
+f2e1d271-6dbc-4a20-8d23-edbb131030a0,2024-11-19 22:21:57,5b3e3378-2ffc-4127-a309-5fc6f8ab992b,Hernandez Group,241.58,purchase,USD
+6ed30082-36fb-4577-966e-e03278925f0d,2024-10-17 12:12:18,3d317944-2411-4606-89bf-b7610725386f,Beck-Hunter,491.44,refund,USD
+5074001c-0ea8-462e-a928-62ae44995797,2024-11-22 00:22:23,40917614-48ff-4ee9-9a1d-7ea846c019cc,Edwards PLC,236.34,refund,USD
+bee5f77b-c968-4af1-9e9d-316d1b0fc094,2023-12-23 04:03:48,89f8b873-9433-42ce-986b-ed01d9a8b66e,Hernandez-Morris,728.25,refund,USD
+5e0cabaa-7d45-4a32-b2c2-72737e989a3d,2024-06-12 02:18:16,5f851350-3040-4178-8f53-5abf5673e1f0,Williams Inc,592.61,purchase,USD
+2ffdce0b-2ec0-41e0-a75e-2d654dad8ee8,2024-10-13 13:50:24,62e3bd17-697e-46f8-b0cb-cab22e3af419,Thompson Ltd,745.98,refund,USD
+a4688540-bbe7-4241-b966-44b98d1dd598,2024-03-10 16:41:36,8cd66418-132b-4380-8d95-78bc893e6215,Miller PLC,162.48,refund,USD
+26f9f45d-ab34-4dab-9359-6518ad058942,2024-11-11 18:14:48,3c9a06d4-445b-46f8-aad5-d740c8d8d905,"Richardson, Oneal and Garcia",317.85,purchase,USD
+55bd3e79-409b-436e-a7fe-dc24bd2c34db,2024-11-09 19:53:55,8cb294cb-1cca-4a2f-ad08-d9f8936bcd00,Allen Inc,570.22,purchase,USD
+9a90be44-0f23-4431-9b67-5386261ad808,2024-03-27 08:17:24,0eb70583-4290-490b-b873-5502a390f0a1,Anderson-Jacobson,711.57,refund,USD
+3eaa566e-3d02-454a-895b-ac7ef32dd13f,2024-09-14 17:03:57,255bafe3-5231-40a2-b18e-6c4dbcb1615b,Crawford-Jones,840.92,purchase,USD
+35377477-760b-4e06-b957-90b68ef3ca12,2024-09-04 14:13:03,72c0b60d-c7e3-487a-8307-489a5b96cabb,"Martin, Clark and Joseph",801.93,purchase,USD
+edb29c1b-38a5-4155-b244-f46977483a1f,2024-08-12 19:16:43,14a76146-cc30-4132-9b5e-9c4b102b939b,Ferguson-Hall,388.1,refund,USD
+036de253-3409-420f-9c54-2165e24565cf,2023-12-29 08:08:16,53557a65-7678-49fe-b120-f1f521dcd6b9,Thomas-Smith,695.38,purchase,USD
+15aab3b4-d9e9-47fd-8ed2-f5b62bd4e9f9,2024-05-29 13:16:46,86eea7f8-e759-41d4-bc58-1f02b4bba6fd,Gilbert Group,83.95,purchase,USD
+51b8b960-0e8e-43db-bd83-30cb65cffc49,2024-08-21 22:34:59,bde66613-06bb-49ed-aa24-70429d18f449,"Pennington, Arellano and Ruiz",181.63,purchase,USD
+072384e7-e693-4b38-833c-2f74b059fa16,2024-06-12 10:52:51,b7994dc6-bdab-41c9-a439-4cd9a11c2c98,"Johnson, Petersen and Santana",325.66,refund,USD
+6dd9ed76-d692-48c0-b704-fe4637e0e9c2,2024-01-24 11:11:54,adc9384e-5da6-4d26-b362-0272245fb5fc,Russell Group,762.03,purchase,USD
+0ac5e255-ca27-4419-8d90-dcfb1e19874f,2024-07-05 21:25:54,16e6d8e9-3a7e-4a72-a5bd-02256d125112,Herrera Group,180.51,refund,USD
+82042343-8655-4cfc-9b47-2c10ba10ddf3,2024-08-17 05:25:16,a41cf3a1-9258-44e2-932f-2bab6391651d,Morales Inc,11.47,purchase,USD
+4302b706-da3e-45ac-ba16-fe64efe352a1,2024-11-19 00:27:47,663d69c6-5b74-487f-902c-d05ac2277067,Peterson and Sons,949.79,refund,USD
+5031ec60-271d-4103-9c99-d71df86d790f,2024-01-18 14:50:04,01f12e9a-c947-42fe-aa97-ce190e85c218,"Gregory, Casey and Dyer",253.78,refund,USD
+9d59d1d4-9913-4ce9-b03d-09ee65c4044b,2023-12-26 07:56:57,f435dc68-252c-42c8-9b61-90b923e75ad0,Norman-Wyatt,754.18,refund,USD
+6c9af090-dd20-46cc-9b1d-2f61b18c7d27,2024-02-07 19:47:32,c778b99c-b2ea-40dd-9870-b1ff4fbde1ba,Allison PLC,420.47,purchase,USD
+8ef5fd21-010b-47dd-b7cb-463fa1db9869,2024-08-23 07:29:30,6fa47de0-beb1-48d2-95f4-66077e0ad8c2,Rivers and Sons,193.97,purchase,USD
+56b46649-8784-49a3-a4fc-886560c785e9,2024-08-08 21:28:29,5e9cddd1-e97d-4f55-872e-bccdf0ad1d79,Nguyen PLC,664.52,refund,USD
+bf5f6932-1ad4-40c5-9390-4a46fe424b00,2024-10-15 07:50:09,381d2d52-f25d-46cd-be27-12bab163923a,"Smith, Robles and Chavez",110.13,refund,USD
+51becd58-881b-4dd4-8fa1-6d5c4f4fe920,2024-01-12 16:55:02,ab8d46b5-bd34-4ca4-9532-9ae1407c3a8e,Villa-Wilson,883.56,purchase,USD
+c3b65ba5-fac2-42c3-8467-ce4895ec3d5b,2024-04-28 13:31:57,f0cc4fee-be65-4cda-a4fa-c47918f5a69c,Patton-Gardner,528.84,refund,USD
+5e7ad2a4-7377-486e-b6f4-0ee643bdb6b1,2024-04-20 03:33:57,4b8c0dd2-0f29-494f-b844-8bde71a579e9,"Baker, Walsh and Santos",155.52,purchase,USD
+8502d35a-7902-4721-a511-39101c078114,2024-06-13 08:24:47,8862bc76-6a7d-4c15-a3ba-1b8fc55738af,"Marshall, Estrada and Cline",453.6,purchase,USD
+249e1abd-672d-4054-860c-fb27db0e0ac7,2024-11-05 15:32:18,12b9f408-7d5c-4a63-aa2f-eab8fce01fcb,Villegas-Mann,390.11,refund,USD
+9acdb149-6625-4db3-8cab-a3d8c6d4cea6,2024-04-05 11:43:21,ddb3f612-b219-4773-bb0f-834ec91d23da,Larsen-Briggs,187.79,refund,USD
+e916ec71-b12a-4296-886d-fabda20da523,2024-11-14 01:49:02,836232bc-1d68-43b1-ba65-b88d157bf0cb,Carlson and Sons,933.02,purchase,USD
+cafe3204-f159-4a51-9338-10f851c26d53,2024-06-30 22:41:51,64a51142-071a-4aab-84f5-d41f9d1a5f27,Alexander-Larson,204.27,purchase,USD
+c64724cc-04fb-4176-915b-81d22281127f,2024-03-28 11:27:35,f27256b9-5a12-4052-80e6-01662a3f6d17,Bowen Group,190.11,purchase,USD
+e0aa73f7-4c44-4c2a-8143-cadb013cd356,2024-11-23 17:57:40,4ee0144e-b1d7-455c-a00c-bc958e3b456a,Curtis-Hernandez,619.22,refund,USD
+26473569-b019-4e9c-8274-0b4eda28f482,2024-02-14 18:49:54,c0f39722-0b0d-46be-84e8-d8eb3c5ea6b0,Evans PLC,960.03,refund,USD
+23e39f27-0581-42d8-a387-31972a421af3,2024-10-04 22:20:58,8fba2e4c-36db-4dfb-bf18-10696cbc609a,Robinson-Houston,188.33,refund,USD
+f836500a-8428-41e1-bb60-aa037b7390be,2024-08-17 07:22:27,eb19ce33-83d3-4d96-bddf-10905f11a2c7,"Johnson, Abbott and Clark",935.68,refund,USD
+5a2bf752-d2a3-454c-bc5b-001d13a9ed25,2024-05-13 21:17:47,f534d2be-8c76-4828-907f-adae24cfdd4c,"Rogers, Jimenez and Woods",521.53,purchase,USD
+74afcae0-9ad4-4690-917e-ccb684e399b9,2024-04-18 22:42:52,93af6c30-1369-4916-bfeb-e5c659f5b4a4,Ball Ltd,634.48,purchase,USD
+4f554633-531d-4078-8e05-4bdcab86f727,2024-04-21 20:24:30,0fe3eb00-cb58-41cf-b80a-f9cbe304ab60,"Rojas, Herman and Garcia",198.79,refund,USD
+6752b3ef-1488-4e03-a09d-e781960bdf8b,2024-09-26 12:51:21,5542bd2c-22c5-4482-b5e9-a0de2b5adfbe,Jensen-Curtis,217.15,refund,USD
+d8fe4126-368c-4e73-bb33-b8c320b7a375,2024-11-09 14:59:07,4f685e64-89b7-4917-a952-bdf86bb5dbaf,Levine-Phillips,365.54,refund,USD
+98352262-96cb-420a-8227-886b2189a877,2024-07-15 08:26:04,cad4276c-c52b-480c-b16f-bff0c549e18e,"Strickland, Tate and Lee",357.87,purchase,USD
+39c1f4c5-7ee0-4399-abfe-fa24a60e3970,2024-01-04 16:48:33,e4e6c75f-7f7d-4cea-9b47-62f3c82de429,Lowe PLC,287.64,refund,USD
+9ba3d161-e070-4db2-8722-699b1d7ae0b1,2023-12-16 10:18:19,d762e6fe-31ea-4efa-89b3-566a4c67b93e,Todd LLC,450.76,refund,USD
+83f72fd7-a554-4cd8-8ebd-a99f8dae20dd,2024-12-03 22:16:04,1c2723bb-6c89-4b1b-ac1e-f941655c339c,"Willis, Compton and Smith",100.23,refund,USD
+75ba8857-2e8a-47cb-b231-d7ab07083e70,2024-10-23 04:04:11,fdbe8fd9-cba2-4cb8-af78-205df0474af4,"Johnson, Stephens and Davis",375.91,refund,USD
+c7413dfb-a9a9-41da-9a0f-9149f137b8b1,2024-05-04 06:45:11,81cab9ce-c98e-456d-a211-86731a572cc7,"Baker, Morales and Daniels",773.98,refund,USD
+648b365f-cd94-4b04-a590-4e8b00f7819b,2024-08-01 21:04:35,09f2dc76-2653-40f4-97d0-44bd1189fd7e,Atkins-Gomez,263.99,purchase,USD
+b7602c61-5179-4dfa-a329-9661e7eccfd7,2024-02-27 17:03:51,43a074a3-37e8-4c3f-9a3e-9c3a2ece9e4b,"Young, Arroyo and Patterson",896.0,purchase,USD
+9c7c68b6-5472-4806-aeed-ed18da57e3cc,2024-03-18 02:56:04,3e0682f5-32d1-410d-8f31-276257f4b1f6,"Burgess, Hodge and Nguyen",252.01,purchase,USD
+cd2b4d3b-5bc4-42d8-b561-603e915c0a8f,2024-09-25 00:43:53,3bad0646-5b15-43df-af33-e9abc7db522e,Rubio-Scott,253.0,refund,USD
+e7f56ffc-b944-4248-9d2f-3e2d35f359ba,2024-03-09 14:39:08,fa1873d1-6bcb-45e2-b3c3-c38291c93bbe,Schmidt-Rodgers,86.45,refund,USD
+5e0d7d05-06c1-412a-8a91-6ed4c05e2df6,2023-12-09 11:19:35,3d5fd03a-a8f0-4781-b6ad-fcb1853f3b50,"Williams, Meyer and Smith",512.14,purchase,USD
+ed493f60-a730-4d6b-b8a7-92b9e3afa069,2024-01-24 09:51:10,97f418db-f022-404f-bbbc-496089771acd,Green and Sons,580.27,refund,USD
+99b8fb67-b345-439a-be98-5c0aa19a4874,2024-06-24 12:23:29,ce43d745-ba00-40f1-b032-b41ce235626e,"Murray, Manning and Robinson",999.76,purchase,USD
+4552ba86-dd73-4079-bac0-a96252bb63c5,2024-04-13 14:54:55,2b24621b-b25f-45f4-acd6-5fd0b8caacf6,"Huff, Little and Hawkins",251.86,refund,USD
+a35d3dd3-d751-4d48-a540-92771faacea9,2024-08-10 14:23:38,d4b073f3-6604-4997-8782-eeed78f4587d,Jackson-Collins,234.2,purchase,USD
+6eec48fd-e4d5-4fac-b7cf-956222d23ad6,2024-03-20 18:56:36,e0255421-337c-469d-87ff-c2a58873c7c2,"Hancock, Bowen and Kim",591.99,purchase,USD
+e4cd9a07-5039-41de-b935-2cb8a63143fa,2024-10-10 00:48:40,3be2f20f-15a1-433d-9e3e-872a34c5837b,"Williams, Huang and Harris",715.95,refund,USD
+3952e369-109e-47f7-846f-2d3e4d7b71b7,2024-10-04 15:00:14,43f20fbb-a294-4838-be5d-4c8ad06e614b,Trujillo Group,802.47,refund,USD
+d717de60-5406-409f-8248-68dab225fddf,2024-03-25 08:48:17,a5bc374b-254d-4302-9b22-2fc5f187dea8,Collins-Smith,848.44,purchase,USD
+7525bacd-d51a-4a8e-a90e-1a112a4f2a02,2024-11-02 00:04:52,b279457e-c7ea-4177-8b13-a1dadaa64999,Cline-Dudley,166.36,refund,USD
+1e4fd485-cfb7-40fa-8eb3-213e7e5d9199,2024-04-10 03:31:19,91ed334b-2b91-4c44-8694-a47a701bad24,"Ramos, Lopez and Sullivan",314.94,refund,USD
+4e9c8c2a-405c-4014-a453-2607bbe69671,2024-05-27 20:15:48,cccad1f9-b07a-4226-9b64-a2466ac69e09,"Martinez, Horton and Anthony",869.53,refund,USD
+fbd20797-f8c1-4dc4-9cc6-ac7dc80aa60b,2024-04-19 18:44:33,aa664ec8-9f1b-47e7-ba3f-6e7606bb1673,"Bautista, Fitzgerald and Williams",616.72,refund,USD
+9689b544-388f-41fa-ab45-d0af859edccc,2024-11-14 13:36:45,e9bbaad2-30ca-42b7-b608-5b10dc3e39c7,Bowman-Bowen,346.34,purchase,USD
+59e31e6d-6e2f-4074-b9ee-e8f722935cb5,2024-04-29 12:21:04,9d99e925-98e2-4ebc-8495-e3746f918a2b,"Mercer, Buchanan and Gordon",249.08,purchase,USD
+32490ef6-4f75-4b12-8782-796f994694e5,2024-03-13 08:47:15,66d37554-9b9e-4fea-a303-ba3fcfd2e028,Thompson-Craig,900.41,purchase,USD
+081cb829-870e-4f00-a7eb-191a76734ba2,2024-08-11 16:28:13,37f8ce44-5fb7-4b5b-b293-981129a45b6b,Rangel-Smith,679.68,purchase,USD
+8f1720b9-9048-4cef-81b2-55aed50cfbe8,2024-07-24 09:35:57,8da45690-50d8-4f46-979d-c9735e5a8343,Crawford-Gallagher,735.51,refund,USD
+1275f4e3-30b6-406c-8dbf-c8db84218808,2024-04-05 05:28:00,b3b311ff-26ab-4709-88b3-92a2a889e31b,"Hubbard, Lozano and Clarke",624.25,purchase,USD
+35082d77-f755-4647-8bcb-ecd3aac20ccf,2024-06-11 12:31:24,f9bdea92-8fd8-4c15-b628-982c2fa7510a,Rocha-Smith,699.86,refund,USD
+5605055a-e0f6-4d05-937c-c05d0b167667,2024-09-21 15:51:15,f416bd4f-5e28-4e04-b302-ee437484d678,"Smith, Hart and Reeves",432.68,purchase,USD
+5c6fabdb-89b1-4d76-9c50-87446885f2cf,2024-02-08 05:17:48,bc3f9f1a-c14e-4fa8-96f6-ad4b58ad7850,"Woods, Armstrong and Phelps",703.54,purchase,USD
+f8a1770e-2fc8-4133-bc17-105cbb18715f,2023-12-22 00:00:22,08d8501b-0f71-4d35-8e0f-d2b964ccf06e,Stokes-Chaney,948.69,refund,USD
+61f07338-beca-4fde-8775-21dedfdc8abe,2024-01-19 00:42:37,ef3689af-8ffc-404f-a579-bfea963701b1,Torres Group,989.09,purchase,USD
+ec9c656b-c2b8-4024-bde3-cf9d05794a3d,2024-09-01 14:38:47,97faa65b-322e-4ecd-a9c0-7579daab6e5a,"Carpenter, Williams and Graham",25.14,refund,USD
+ef407004-53b9-4cc1-b5ab-e56668551ff8,2024-02-26 01:14:10,d9c5f1a6-fafd-4b10-8c77-989af96e3019,"Braun, Ochoa and Holmes",902.45,refund,USD
+ed5f2f5f-2c47-4d6f-a32e-edfa5f92cb46,2024-11-10 04:05:48,24fdec7b-474c-42ca-81d1-ea854c295465,Patrick-Smith,334.61,purchase,USD
+40103660-4225-4585-a23e-74140dcc1e28,2024-03-27 16:44:08,0d191c74-24c4-4ad6-a5c0-3002b155377b,"Mcgrath, Bennett and Wright",461.76,refund,USD
+addfd80a-b101-4ef9-a64d-272685f7a980,2024-10-07 18:56:40,d9eadcb4-834b-47e6-b599-e9407c3725ea,Rodriguez-Bryan,394.67,refund,USD
+c1f5949f-1f75-4700-a43e-8f10c33b1ab8,2024-07-31 21:38:17,5f96725c-6f97-4ed6-bf21-b103f8ada7e5,Jones Inc,691.13,refund,USD
+f99f1e2b-759d-4ae6-83c2-19817732783c,2024-10-04 04:46:34,30f84efe-3cdc-4a98-98b8-a18c65de56d4,Davis Inc,200.99,purchase,USD
+57d98c40-c598-41c5-918e-a56244c230f6,2024-05-12 21:13:32,688da93d-03b1-4c66-b793-8842c7cb02b2,Rodriguez and Sons,980.26,refund,USD
+aa8d45da-ba22-44a8-b282-77dab7cce076,2024-02-21 13:42:32,1f0e816f-24ee-44e0-80bd-ecf3cfc08d48,Smith-Harris,260.77,refund,USD
+25fcb757-6880-4457-bbe2-28c59dbf4bc2,2024-09-19 18:17:18,1b2dba0e-1fcd-46db-ab27-48d5055a8ec3,Romero Ltd,778.34,purchase,USD
+bbf9dc2b-1bc0-4b43-87b6-9c42b665ffa0,2024-01-09 12:22:57,caa45114-911b-4ee2-b604-3b857a0de9dd,Dominguez-Wheeler,610.48,purchase,USD
+fcc0f5f4-165c-46c7-b8ae-9650c8084546,2024-09-30 05:57:00,c20475d9-f934-455d-9c5b-27141eb4c1c3,Cook Ltd,230.35,refund,USD
+f6fd5288-e9e9-4b1d-99ae-129be77b10db,2024-11-12 03:20:10,4bc43420-fb3c-4d3e-bb39-df1dc4a2703e,Brown PLC,21.08,purchase,USD
+d35c2fa8-d9b0-401a-a005-6902876c8354,2024-05-08 22:13:01,1c133eac-3b43-4004-a83a-ce629149764d,"Lawrence, Robles and Ware",429.35,purchase,USD
+47eb99f3-f2a9-47f2-a830-8dde77e7a454,2024-07-23 18:09:49,55068427-8e24-42d7-8141-b2efabc832d7,"Wilkinson, Lee and Hunter",348.75,refund,USD
+e3d4ae26-bb7e-4c53-9c16-5144db6e9e8b,2024-11-22 02:54:57,27d4db28-ba0a-4e25-9df3-d0ee0889fdd8,Moore Ltd,838.77,refund,USD
+f6dc4f92-2bbe-47bf-b798-af6cbf85f18e,2024-08-17 20:37:49,f7ed46c4-c855-4584-867e-c00b2703a4f8,"Reyes, Spence and Johns",346.38,purchase,USD
+4a157b8a-466d-470f-9f9f-af888bec7cd2,2024-02-18 21:44:51,63daa9b4-711f-4900-9705-770cbcff7da7,Huynh-Dominguez,704.62,purchase,USD
+f59178f3-e106-43b3-8843-91bb8c9f850c,2024-04-09 06:41:48,357d9a83-c4a1-4647-a82e-8542d264b3f9,"Harrison, Nguyen and King",547.28,purchase,USD
+7e727322-16b6-4907-ac19-bf6278fe72c7,2024-07-08 10:04:00,721c510d-07d7-4de6-aec8-35482647281c,"Lamb, Hunter and Harrison",840.11,purchase,USD
+a455ba57-fe56-4be1-8b37-0ba71dd0658d,2024-02-04 02:23:04,cbd71139-e5fc-40cc-acad-e97cb45315f9,Goodwin-Morris,21.45,refund,USD
+cabb6c22-74bd-40e4-98b3-a9bbebf3e076,2024-07-05 11:20:29,15b81747-6acd-426e-ad3e-29f924b76af1,"Vazquez, Torres and Dickerson",108.94,refund,USD
+891645a8-a501-4898-a1fc-25f06363f395,2024-09-19 12:04:34,e148996e-023a-44e4-8e8f-e76b9a3c65e1,Johnson-Simpson,507.76,purchase,USD
+22c52342-6d2c-4930-ac6a-f87522109f9b,2024-02-12 02:49:00,f2a353e8-30d3-4525-8b3d-853c7cdb22f3,"Reynolds, Patton and Thompson",615.03,refund,USD
+18f34227-6302-46f6-aba5-28e991e58338,2024-06-28 14:08:44,86c23f47-e28a-48f0-80b6-c03a562825ce,Bennett-Phillips,17.66,refund,USD
+a3035eb3-b3b9-4e02-89ae-61c579320650,2024-04-19 09:44:50,8dd79276-1810-4d4f-b290-66ad0a5f5f59,Hudson PLC,428.56,purchase,USD
+2d97f385-f383-4445-8719-6ff60050c514,2023-12-31 19:58:32,b675e731-d543-4239-9247-7a5251d1d52d,"Holloway, Jackson and Floyd",180.45,refund,USD
+cc0f563d-6a84-4b5c-bcc6-dc229345d196,2024-07-29 23:41:00,30693131-2f4c-4b76-8da5-c737e1928de7,"Mcintyre, Hart and Ho",392.77,purchase,USD
+b7db7193-311a-488e-a2ee-6ee971264fdc,2024-11-16 18:50:27,c9ab0d3b-6270-46d5-8cb8-632705f614e2,"Murray, Rowe and Gonzalez",21.76,refund,USD
+2fec037e-a97c-4584-bd64-91cadbf7336a,2024-06-26 17:11:01,77917703-2076-4964-99b8-a03e00109ef8,Shaw Group,775.27,purchase,USD
+a9df1882-6634-4c90-81e5-d69e0b4b1188,2024-09-04 21:57:25,6b3773a9-4b22-421f-9de0-04f30a1c20a2,"Lewis, Wallace and Price",67.8,refund,USD
+936d0a90-2eb1-48a8-94d9-f665afef0ceb,2023-12-20 17:59:35,5ecb9f3d-283b-4f40-aa57-e12c0dceca8c,Brown and Sons,238.82,purchase,USD
+4c356444-15f3-43ed-b6f5-cbc0d32257bf,2024-03-01 07:25:50,ec873011-a613-4f82-b923-2d2d20a944d5,Walters Group,20.63,refund,USD
+ff70e969-0bbe-451a-8e0c-d71874777e17,2024-01-06 12:53:08,5f30659e-11d4-4a0a-b54c-f3029cc448d3,Flores Inc,949.37,purchase,USD
+ee2e33e1-cc67-40df-90c9-7b187c57c95c,2024-08-31 13:03:51,47277bba-2370-46ce-897f-afc214227cfd,Blankenship-Miller,281.32,purchase,USD
+31bd595c-2a60-4f5d-b7c9-7000c8028828,2024-03-01 19:17:50,cd3f1b90-9eff-4b80-97fc-fc2f65d11ede,Evans-Allen,100.55,refund,USD
+c4d6d736-8fb0-48bd-86cc-03776ebed408,2024-03-20 04:31:55,00d36f6a-0ce9-4955-9af9-aa5ac967245d,Fields-Kent,405.71,refund,USD
+d7b288b1-d2f2-4041-b95a-ba14833c4846,2024-10-01 20:14:31,23837cc7-328e-464f-b9fd-458110190a61,Smith-Brown,35.31,refund,USD
+2463c03c-bf9b-4b38-b3b5-e8f6d2a21d22,2024-04-28 20:04:40,c35a8b99-c0f0-48b6-9645-8b5ed8b351d8,"Escobar, Morris and Murphy",695.66,refund,USD
+2dfa6e6e-0586-4614-9a45-9aea69ec1fa2,2024-03-30 18:38:22,cb16728f-9874-4f8e-94b4-f1dbd3b76297,"Malone, Garcia and Martinez",473.68,refund,USD
+d59f9264-7853-413f-8662-9ce6bc95397d,2024-08-17 14:15:33,a7215e39-5c2b-4b2f-ab72-ca51876c5519,Dawson-Johnson,103.13,purchase,USD
+77d61374-e1e5-405a-8ffe-803456edd2a8,2023-12-12 00:36:12,5ac39be6-fc68-4200-a154-c7524076829f,"Edwards, Hensley and Coffey",579.18,purchase,USD
+6c089577-6b29-49b8-ae60-913cc95f2a7f,2024-02-09 09:15:18,e3201940-65bf-43bf-a7cc-d6148d2ff2c3,"Williams, Bailey and Stevens",142.05,purchase,USD
+a6f45c4d-9b59-4bb7-bd41-e545cae4bcfb,2024-05-02 03:03:14,bd82598b-738d-4a72-95fe-f66e4eb361c0,Robertson LLC,556.81,purchase,USD
+c8895c7f-393e-4c95-90ef-aaefd9e52458,2024-09-07 13:42:09,e47568b5-f008-43ca-8bac-3999e4e27916,Lopez Inc,807.73,refund,USD
+dbb3f41a-308b-4e41-8c19-079b0b1b8b1c,2024-09-15 09:59:32,c9573b4c-30cc-4218-97db-f74bc6c7131b,Casey-Roberts,864.75,purchase,USD
+2e328398-6f14-4635-af66-a1cb85894d77,2024-08-16 02:35:58,f616213c-005f-4784-a39f-d8a8822ee7cf,Malone-Cabrera,440.41,purchase,USD
+727f99be-c294-43ab-ab52-b43fdf469bfa,2024-06-12 17:53:55,1f13f325-d9a2-4560-97cc-c3799175d797,Gray-Rogers,604.73,refund,USD
+b17c515c-3364-475a-ac62-d29dff04b9b5,2024-11-21 10:21:14,71f91bb2-7fcb-4ddf-a3dc-5e36c81de22e,Reyes LLC,43.33,purchase,USD
+ef0373cf-d1f8-4a5e-bcb4-7aff9c13aeb5,2024-04-23 23:42:38,13e0353b-22f3-46e0-9395-d0ba02f39e81,Thompson PLC,623.14,purchase,USD
+b1fd18cb-9e13-4239-87f5-c43c44d6a932,2024-07-12 09:13:08,5c6f5369-0876-407e-96d2-cf9357c3ec20,Thompson-Singh,294.55,purchase,USD
+e9214f44-aaea-4bbd-859f-f32f12479803,2023-12-14 23:49:08,7e6c018b-de0b-4cc8-9f7b-5e71ea18dbbf,"Harrison, Parker and Johnson",308.42,purchase,USD
+04d38270-f047-4bae-bf6b-bccd4d9b3e61,2024-05-15 19:33:57,0dc2b030-eceb-468b-bf25-1fddf437167e,Martinez LLC,405.54,refund,USD
+4bfe40ce-6ccb-4ea3-9545-a640819bbdfb,2024-08-17 22:47:44,5e95b646-55d7-477f-ace7-883a456cb7be,"Colon, Sullivan and Simmons",389.97,purchase,USD
+78f83beb-1048-4ac4-9877-9e5f81c90eaf,2024-06-07 11:07:42,7f5740cc-25ce-4580-8e07-30540953c719,Gardner-Turner,278.49,purchase,USD
+e823cd37-c076-41f5-a71d-64e8970cb587,2024-07-11 09:44:11,c133cea5-34dd-4414-a4ea-a3880ac8e22b,Johnson-Ibarra,350.71,refund,USD
+9641d60f-e32f-4548-beff-08c9e18a58e7,2023-12-31 10:25:56,f0f2a3d3-f298-47ab-b281-5c26335d0f13,Jones PLC,551.03,refund,USD
+0388c00c-a18b-4925-8727-53efae73b7d6,2024-01-25 18:30:16,c400968c-e864-4321-b43d-ed827279131c,Waller Inc,272.19,refund,USD
+555011a3-38a9-48e2-beaa-74489406efd9,2024-09-13 02:53:41,83b0f78b-3159-4248-88db-9dd62655e87e,"Bolton, Wright and Anderson",140.88,refund,USD
+b277b783-b330-4b4c-a3c4-2ea9da990eac,2024-06-27 06:50:32,b9dfc32c-afc7-43e0-a0c9-a25bc0639a38,Gonzalez Ltd,343.47,purchase,USD
+ebc00de3-8692-4cb3-bbe4-a50784ed0ecc,2024-02-25 23:09:47,b241e103-299a-4e03-bdfc-ab2e3f442f7c,"Novak, Bailey and Mckinney",762.97,purchase,USD
+25ecae61-1562-4d0b-b685-f05fcfa1bd8e,2024-12-01 01:11:20,ecbbdf2c-630d-4383-82b7-2a59a888ba6c,Morris Group,480.38,refund,USD
+5f13742e-e026-4ae1-97bd-bcac775bc123,2024-04-10 21:31:01,8fd052d1-c128-49c2-ac00-49cd7f86729b,Morales-Avila,850.35,purchase,USD
+3df35861-332e-4a92-a18d-1580b6867023,2023-12-24 06:59:48,db6c5923-8358-40a0-8f2e-00af4f3890f0,"Cunningham, Moss and Jackson",815.91,purchase,USD
+6f13dabb-2c20-45a1-b459-ff687dc4e9ea,2024-05-15 14:11:37,74dabc8b-f5f0-47cf-8557-fbb02d1a1db8,"Santana, Day and Mitchell",984.45,purchase,USD
+0370e6a8-776b-4b93-9418-32a1d3e4b889,2024-02-02 04:52:24,f23833d5-26b3-476f-8eec-026a7a0b0f94,"Rodriguez, Newton and Hughes",472.25,purchase,USD
+7129556d-9500-4a8d-9ee2-e54b1568c97a,2024-02-10 13:12:01,c5ebbeae-f07a-4d0e-b6bb-9846a6f6c716,Scott-Wyatt,721.34,purchase,USD
+d4c5787a-d9fa-4918-8de6-2caa1360d76c,2023-12-27 03:22:34,2f3ae8b6-419b-4c38-9f15-3f576ff1032d,Martin and Sons,606.54,refund,USD
+db71d72b-b23f-4287-82b1-9b4a5d06a9bf,2024-09-19 23:57:46,a545ab0e-668c-4947-ba10-6e1b5177c20a,Torres LLC,122.9,refund,USD
+812236f5-fd57-4580-9039-23c3a06c730f,2024-01-22 13:42:36,fd17200f-554b-4621-8b29-5e606e998773,Young-Lewis,12.1,purchase,USD
+d3f04752-444a-4735-946b-02591b232819,2024-02-25 11:23:10,5d64aa1e-e2f8-4441-91dd-162baa41070a,Gonzales and Sons,583.38,refund,USD
+d5d37156-db06-4dec-8339-40b03fd26372,2024-08-18 00:37:35,98dc79c1-a643-4ced-ab78-95df6b813582,Farley-Bryant,262.29,purchase,USD
+20b00d71-96e4-4488-b557-9a3d1cf07e3c,2024-10-21 21:26:53,8704feec-5f92-4c79-a626-f82a456c918e,Marshall-Martinez,357.48,purchase,USD
+54b03ea9-82ba-4353-9367-5e4ff4bc7fab,2024-07-18 09:00:59,c10f3711-c2cd-4311-a89c-aab9b7404a81,Washington PLC,929.68,purchase,USD
+9f199ead-4cdc-4107-ad6f-fded4983cfde,2024-10-09 15:02:42,a15c7bb2-fc01-4b48-8947-6e314eb889e9,Parks Inc,935.6,purchase,USD
+f57f5295-a41a-47d1-99d2-76ffbd3af143,2024-06-29 06:38:14,ca357589-054c-4d13-93e2-860fa37f542a,Rhodes-Burgess,274.36,purchase,USD
+288ef547-1310-4f5e-a096-00a11dc1bde4,2024-05-23 05:27:15,8bbaef50-6466-4b88-b598-7d508f5de7af,"Hayes, Hall and Daniel",672.87,purchase,USD
+0f8b7670-64fb-4a67-b991-b634600fe6b4,2023-12-10 10:12:10,5bd06c16-0a5f-4a5f-a401-62fb48934b74,Jensen Inc,418.92,refund,USD
+cd9edb88-3599-49aa-ab77-019d090c80a6,2024-03-12 22:32:31,30c10e5c-ade4-4648-b8f2-00437773aabd,"Murphy, Hodges and Rodriguez",994.86,purchase,USD

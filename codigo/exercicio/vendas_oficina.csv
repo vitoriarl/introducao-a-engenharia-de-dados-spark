@@ -1,0 +1,51 @@
+id_venda,data_venda,nome_cliente,veiculo,servico,valor_servico,forma_pagamento,cidade,estado
+1,2024-11-10,Vicente Freitas,Honda Civic,Revisão geral,320.4,Cartão de débito,São Paulo,SP
+2,2024-11-16,Daniel Cavalcanti,Fiat Uno,Troca de óleo,631.44,Cartão de crédito,São Paulo,SP
+3,2024-12-01,Nicolas Pereira,Honda Civic,Alinhamento e balanceamento,309.39,Cartão de crédito,São Paulo,SP
+4,2024-11-06,Bryan da Rosa,Toyota Corolla,Troca de bateria,477.57,PIX,Porto Alegre,RS
+5,2024-11-16,Maria Araújo,Ford Ka,Troca de óleo,782.93,Cartão de débito,Porto Alegre,RS
+6,2024-12-02,Theo Viana,Ford Ka,Revisão geral,239.93,Dinheiro,Curitiba,PR
+7,2024-11-25,Levi Freitas,Honda Civic,Troca de pneus,187.04,Dinheiro,São Paulo,SP
+8,2024-11-05,Samuel Pereira,Ford Ka,Troca de óleo,756.76,Cartão de crédito,Porto Alegre,RS
+9,2024-11-21,Davi Lucas da Rosa,Honda Civic,Troca de bateria,363.86,Dinheiro,Curitiba,PR
+10,2024-11-21,Bryan Nascimento,Toyota Corolla,Troca de óleo,141.24,Cartão de débito,Porto Alegre,RS
+11,2024-11-09,Dr. Otávio Ferreira,Honda Civic,Alinhamento e balanceamento,879.84,PIX,Belo Horizonte,MG
+12,2024-11-07,Sra. Maria Alice Costa,Chevrolet Onix,Revisão geral,246.39,Dinheiro,Belo Horizonte,MG
+13,2024-11-23,Marcos Vinicius Gonçalves,Ford Ka,Troca de óleo,648.22,Cartão de débito,Rio de Janeiro,RJ
+14,2024-11-22,Caroline Campos,Toyota Corolla,Alinhamento e balanceamento,516.03,Dinheiro,Porto Alegre,RS
+15,2024-11-07,Daniela Gonçalves,Toyota Corolla,Revisão geral,858.57,Cartão de crédito,Porto Alegre,RS
+16,2024-11-08,Caio Nascimento,Honda Civic,Revisão geral,461.05,Cartão de crédito,Rio de Janeiro,RJ
+17,2024-11-18,Maysa Moreira,Fiat Uno,Revisão geral,291.36,PIX,Rio de Janeiro,RJ
+18,2024-11-12,Dr. Emanuel Fogaça,Chevrolet Onix,Alinhamento e balanceamento,338.39,Cartão de débito,Curitiba,PR
+19,2024-11-08,Maysa da Cunha,Fiat Uno,Revisão geral,772.31,PIX,Porto Alegre,RS
+20,2024-11-30,Srta. Bruna Rezende,Chevrolet Onix,Revisão geral,297.39,Cartão de débito,Porto Alegre,RS
+21,2024-11-23,Pedro Miguel das Neves,Chevrolet Onix,Troca de óleo,780.2,Cartão de crédito,Porto Alegre,RS
+22,2024-11-20,Enzo Azevedo,Toyota Corolla,Troca de pneus,636.77,PIX,Rio de Janeiro,RJ
+23,2024-11-20,Emanuelly Campos,Fiat Uno,Troca de pneus,576.2,Cartão de crédito,Curitiba,PR
+24,2024-11-15,Raquel Lopes,Fiat Uno,Revisão geral,791.74,Dinheiro,São Paulo,SP
+25,2024-11-15,Luna Novaes,Ford Ka,Troca de pneus,242.34,Cartão de crédito,São Paulo,SP
+26,2024-11-27,Francisco Cunha,Fiat Uno,Alinhamento e balanceamento,556.91,Cartão de crédito,Belo Horizonte,MG
+27,2024-11-16,Dra. Maria Alice Ferreira,Fiat Uno,Troca de bateria,279.02,Dinheiro,Belo Horizonte,MG
+28,2024-12-03,Maria Luiza Nunes,Fiat Uno,Troca de bateria,926.64,Dinheiro,Rio de Janeiro,RJ
+29,2024-11-22,Daniel Silva,Honda Civic,Troca de óleo,936.19,Dinheiro,Curitiba,PR
+30,2024-11-28,Vitor Gabriel Barros,Honda Civic,Alinhamento e balanceamento,890.21,Cartão de crédito,Rio de Janeiro,RJ
+31,2024-11-10,Pedro Lucas da Cruz,Chevrolet Onix,Troca de óleo,980.19,Cartão de débito,São Paulo,SP
+32,2024-11-25,Ana Clara Nogueira,Chevrolet Onix,Troca de bateria,248.61,PIX,Rio de Janeiro,RJ
+33,2024-11-23,Letícia Souza,Fiat Uno,Alinhamento e balanceamento,741.65,PIX,Rio de Janeiro,RJ
+34,2024-11-17,Alana Correia,Chevrolet Onix,Troca de bateria,506.34,Cartão de débito,Belo Horizonte,MG
+35,2024-12-01,Vitor Mendes,Honda Civic,Revisão geral,118.93,Cartão de débito,Rio de Janeiro,RJ
+36,2024-11-10,Leandro da Cruz,Toyota Corolla,Troca de óleo,163.89,Cartão de crédito,Porto Alegre,RS
+37,2024-11-27,Thiago Ferreira,Honda Civic,Troca de óleo,873.67,Cartão de crédito,Rio de Janeiro,RJ
+38,2024-11-29,Luiz Fernando Cavalcanti,Toyota Corolla,Revisão geral,702.08,Cartão de débito,Porto Alegre,RS
+39,2024-11-19,Lívia da Paz,Toyota Corolla,Troca de bateria,618.59,Cartão de débito,Porto Alegre,RS
+40,2024-11-12,Sr. Marcelo Souza,Chevrolet Onix,Alinhamento e balanceamento,184.89,PIX,Curitiba,PR
+41,2024-11-05,Giovanna Rodrigues,Chevrolet Onix,Troca de pneus,520.32,Cartão de crédito,Belo Horizonte,MG
+42,2024-11-05,João Guilherme Lima,Honda Civic,Troca de pneus,755.39,Cartão de crédito,São Paulo,SP
+43,2024-11-16,Erick Cardoso,Toyota Corolla,Alinhamento e balanceamento,582.66,Cartão de débito,Rio de Janeiro,RJ
+44,2024-11-09,Sra. Ana Clara Teixeira,Toyota Corolla,Revisão geral,516.37,Cartão de crédito,Curitiba,PR
+45,2024-11-11,Rafael Ribeiro,Fiat Uno,Troca de óleo,145.53,Cartão de crédito,Curitiba,PR
+46,2024-12-01,Francisco Souza,Toyota Corolla,Alinhamento e balanceamento,465.77,PIX,São Paulo,SP
+47,2024-12-04,Clara Viana,Chevrolet Onix,Troca de óleo,248.17,Cartão de crédito,Rio de Janeiro,RJ
+48,2024-11-14,Sra. Juliana Moura,Ford Ka,Troca de pneus,356.72,PIX,Curitiba,PR
+49,2024-11-26,Lavínia Costa,Toyota Corolla,Revisão geral,295.93,Cartão de crédito,Rio de Janeiro,RJ
+50,2024-11-17,Bernardo Mendes,Fiat Uno,Troca de óleo,773.18,Cartão de crédito,Porto Alegre,RS
